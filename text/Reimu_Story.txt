@@ -132,7 +132,7 @@ Before Stage
 
 //Reimu: "真是烦死人了，还没睡醒就要人做这么累的工作，这时段不会又是永远亭那边搞鬼吧？"
 
-Reimu: "What a truly annoying person, if I hadn't woken up I wouldn't be so tired for work, I better not have to beat up those idiots back in Eientei again!"
+Reimu: "How annoying, I'm not even awake yet and I have to do this tiring wor. Is this incident stirred up by from those at Eientei?"
 
 //Reimu: "先去哪里呢？"
 
@@ -150,12 +150,12 @@ Reimu: ""
 === FIRST OPTION ===
 //Reimu: "算了，还是去近的地方看看好了。"
 
-Reimu: "Alright, or I could just go outside and take alook."
+Reimu: "Whatever, I'll just go to the nearest place and take a look."
 
 === SECOND OPTION ===
 //Reimu: "反正都要经过的，还不如先去香霖堂看看。"
 
-Reimu: "Anyway, I better go to Kourindou first and look there."
+Reimu: "Since it's on the way, let's go to Kourindou first and look there."
 
 
 ---------------
@@ -168,7 +168,7 @@ Reimu: "Tenshi… why are you here? To help Rin?"
 
 //Tenshi: "这样的建筑太脆弱了，我只是稍微玩了一下就坏了~"
 
-Tenshi: "That kind of building is too fragile, I just wanted to play a little, but it broke~"
+Tenshi: "This kind of building is too fragile, I just wanted to play a little, but it broke~"
 
 //Reimu: "你在干嘛？脑子进水了？"
 
@@ -176,7 +176,7 @@ Reimu: "What are you doing? You got water in your brain?"
 
 //Tenshi: "我才不要无聊的生活！所有的一切都应该是为了让我开心才存在的！喝！！"
 
-Tenshi: "I really don't want to live a boring life! So everything should make me feel happy to exist! HA!
+Tenshi: "I really don't want to live a boring life! So everything should exist only to make me feel happy! HMPH!
 
 //Reimu: "这种状态……已经听不到外界的声音了吗？"
 
@@ -188,7 +188,7 @@ Tenshi: "Let's dodge and weave!"
 
 //Reimu: "既然如此就从你开始退治好了！"
 
-Reimu: "Well if you're going to be like that, I'll just beat you up!"
+Reimu: "Well if you're going to be like that, I'll start with beating you up!"
 
 
 ---------------
@@ -217,7 +217,7 @@ Reimu: "Thanks for the compliment…"
 
 //Tenshi: "那么这样呢？！！！"
 
-Tenshi: "Like this?!!!"
+Tenshi: "How about this?!!!"
 
 
 ---------------
@@ -243,7 +243,7 @@ Tenshi: "Uwaaa!!!"
 
 //Reimu: "该不会我还在做梦吧，除了我就没有正常人了？"
 
-Reimu: "Unlike you, I'm not dreaming, is nobody but me normal today?"
+Reimu: "I can't be dreaming still right? Nobody is normal except for me."
 
 
 ---------------
@@ -252,7 +252,7 @@ Cutscene - Rinnosuke
 
 //Rinnosuke: "哦多……终于让我爬出来了"
 
-Rinnosuke: "Oh, you've finally let me climb out."
+Rinnosuke: "Oh, I can finally climb out."
 
 //Reimu: "你没事吧？"
 
@@ -260,11 +260,11 @@ Reimu: "Are you okay?"
 
 //Rinnosuke: "哦？原来是博丽神社的巫女小姐，亏您关照，我还活着"
 
-Rinnosuke: "Oh? It's Miss Reimu Hakurei, I am still alive because of your heroics."
+Rinnosuke: "Oh? It's Miss Reimu Hakurei of the Hakurei Shrine, I am still alive thanks to you."
 
 //Reimu: "她怎么回事，是不是你在这边搞事？"
 
-Reimu: "What about her, Are you doing something over there?"
+Reimu: "What's wrong with her, are you causing something over there?"
 
 //Rinnosuke: "哈哈哈……怎么可能？天子小姐是自己过来的"
 
@@ -276,7 +276,7 @@ Reimu: "Came over here herself?"
 
 //Rinnosuke: "是啊，刚吃过午饭就地震了，房子塌掉的时候就看见了天上的天子小姐，还没来得及反应就被埋住了~不过天子小姐随便站在高处可不行呢"
 
-Rinnosuke: "Yes, she just caused an earthquake after lunch, when my house collapsed, I saw Miss Tenshi in the heavens, I was buried before I could even react~ but Miss Tenshi casually just stood at the high places and I could see-"
+Rinnosuke: "Yes, after I ate lunch there was an earthquake, and when my house collapsed I saw Miss Tenshi in the heavens, but I was buried before I could even react~ but Miss Tenshi casually just stood up high and I could see-"
 
 //Reimu: "够了，你这个人妖奸商色情狂"
 
@@ -288,11 +288,11 @@ Rinnosuke: "It's a half-youkai~"
 
 //Reimu: "你要我怎么吐槽？"
 
-Reimu: "Do you want to make me vomit?"
+Reimu: "How do you want me to insult you?"
 
 //Rinnosuke: "天子小姐的话……如果我没看错，她一直都在睡觉"
 
-Rinnosuke: "If Miss Tenshi… If I wasn't mistaken, she slept through all that."
+Rinnosuke: "Miss Tenshi… If I wasn't mistaken, she slept through all that."
 
 //Reimu: "是啊，你真没看错。"
 
@@ -304,15 +304,15 @@ Rinnosuke: "No, as I was saying, from her breathing once she came here, to now, 
 
 //Reimu: "你是说……"
 
-Reimu: "Go on…"
+Reimu: "You're saying…"
 
 //Rinnosuke: "对，这个状态俗称梦游……一定是有谁对她下了手脚……"
 
-Rinnosuke: "Right, she was sleepwalking…and someonewas definitely under her feet…"
+Rinnosuke: "Right, she was sleepwalking…and someone definitely did something to her…"
 
 //Reimu: "【何止是下了手脚，连我都中招了，看来应该不只是我和天子两个人而已】"
 
-Reimu: "(It's more than her hands and feet. Even I was taken over by that sleepwalking, seems like it's more than just me and Tenshi)"
+Reimu: "(It's more than just that, even I was taken over by that sleepwalking. Seems like it's more than just Tenshi and I)"
 
 //Rinnosuke: "嗯？您在想什么？"
 
@@ -320,16 +320,16 @@ Rinnosuke: "Hm? What are you thinking about?"
 
 //Reimu: "没什么，我还有些事要处理，天子就拜托你了"
 
-Reimu: "Nothing, I have a lot of business to attend to, and it seemed that Tenshi just pleased you."
+Reimu: "Nothing, I still have business to attend to, I'll leave Tenshi to you."
 
 //Rinnosuke: "好的，可是……额……走掉了啊，真是的从来不听人好好吧话说完。真是个急性子呢，与其这样不明就里的找下去，还不如去问问那位大人。"
 
-Rinnosuke: "Okay, but… ugh… go away, I was never actually listening until you finished talking. You're such an acute child, and if you're going to look for it in that way, it's better to go ask that person."
+Rinnosuke: "Okay, but… ugh… she left, she never listens until people finish speaking, what an impulsive one. If you're going to search aimlessly, why not go ask that person."
 
 
 //Reimu: "接下来做什么呢？"
 
-Reimu: "Where should I go next?"
+Reimu: "What should I do next?"
 
 //Reimu: ""
 
@@ -348,7 +348,7 @@ Reimu: "I'm going to continue into the Bamboo Forest of the Lost."
 === SECOND OPTION ===
 //Reimu: "要是现在回去，跟琪露诺有什么区别？"
 
-Reimu: "If I go back now, I'd be stooping down to Cirno's level."
+Reimu: "If I go back now, how would I be different from Cirno?"
 
 
 ---------------
