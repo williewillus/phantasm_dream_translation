@@ -17,25 +17,25 @@ Reimu: "Why does it have so much clutter?"
 
 Reimu: "No way…my head hurts…my mind must beplaying tricks on me…"
 
-//Mengru: "怎么？连我们的神社都记不起来了？"
+//Meiru: "怎么？连我们的神社都记不起来了？"
 
-Mengru: "What's this? Even our shrine is unrecognizable?"
+Meiru: "What's this? Even our shrine is unrecognizable?"
 
 //Reimu: "我们的？你是谁！？"
 
 Reimu: "OUR? Who are you!?"
 
-//Mengru: "是啊，博丽灵梦，这就是我们的名字，可是你很快就用不上它了！！！"
+//Meiru: "是啊，博丽灵梦，这就是我们的名字，可是你很快就用不上它了！！！"
 
-Mengru: "Yes, Reimu Hakurei, that is our name, but soon it will no longer be yours!!!"
+Meiru: "Yes, Reimu Hakurei, that is our name, but soon it will no longer be yours!!!"
 
 //Reimu: "你……是谁？紫说过这种行为是侵犯肖像权的呢，你以为和我长得一样我就不会把你退治了吗？"
 
 Reimu: "Who… ARE you? Yukari said this goes against my civil rights, you think just because we look the same doesn't mean I won't beat you up?"
 
-//Mengru: "我是博丽梦入，镜中的你……可这只是暂时的名字，很快很快……只要再等等……"
+//Meiru: "我是博丽梦入，镜中的你……可这只是暂时的名字，很快很快……只要再等等……"
 
-Mengru: "I am Meiru Hakurei, a mirror image of you…but that is only your temporary name, soon soon… just wait…"
+Meiru: "I am Meiru Hakurei, a mirror image of you…but that is only your temporary name, soon soon… just wait…"
 
 //Reimu: "又是新品种的妖怪吗？紫这个家伙，什么奇怪的东西都放进来。"
 
@@ -46,17 +46,17 @@ Reimu: "Are you another new kind of youkai? That Yukari, She'll let loose all so
 Mid-fight
 ---------------
 
-//Mengru: "切 有点本事~"
+//Meiru: "切 有点本事~"
 
-Mengru: "Tch! You have a bit of skill~"
+Meiru: "Tch! You have a bit of skill~"
 
 //Reimu: "你究竟要干什么？就这点本事的话……抓起来拷问也是做得到的"
 
 Reimu: "What exactly do you want? If you have that ability… you can just go copy anyone."
 
-//Mengru: "修行懈怠的你，有什么资格做博丽的巫女，只要打倒你，博丽灵梦这个名字就是我的！幻想乡唯一的巫女也是我！"
+//Meiru: "修行懈怠的你，有什么资格做博丽的巫女，只要打倒你，博丽灵梦这个名字就是我的！幻想乡唯一的巫女也是我！"
 
-Mengru: "You're practicing your slacking ability, if you have any qualifications as the Hakurei Shrine Maiden, you just need to defeat me, Hakurei Reimu's name is now mine! I am now Gensokyo's one and only shrine maiden!"
+Meiru: "You're practicing your slacking ability, if you have any qualifications as the Hakurei Shrine Maiden, you just need to defeat me, Hakurei Reimu's name is now mine! I am now Gensokyo's one and only shrine maiden!"
 
 //Reimu: "你说什么！！？"
 
@@ -67,9 +67,9 @@ Reimu: "What did you say!!?"
 After Boss
 ---------------
 
-//Mengru: "啊啊啊啊啊啊啊啊啊啊"
+//Meiru: "啊啊啊啊啊啊啊啊啊啊"
 
-Mengru: "AAAAAAAAAAAA"
+Meiru: "AAAAAAAAAAAA"
 
 //Reimu: "别叫了混蛋！我的头好疼！！"
 
@@ -654,15 +654,15 @@ Reimu: "Alright, stop for a minute!! What the hell is this!!
 
 //Yukari: "出来见见你的新朋友吧~梦沙罗酱~"
 
-Yukari: "Come out and meet Reimu, my new friend~ Mengshaluo~"
+Yukari: "Come out and meet Reimu, my new friend~ Musaraku~"
 
 //Reimu: "……！"
 
 Reimu: "……！"
 
-//Mengshaluo: "灵……灵梦小姐对吧？初次见面，请……请不要欺负我……"
+//Musaraku: "灵……灵梦小姐对吧？初次见面，请……请不要欺负我……"
 
-Mengshaluo: "Miss… Miss Reimu? Nice to meet you. Please… please don't hurt me!
+Musaraku: "Miss… Miss Reimu? Nice to meet you. Please… please don't hurt me!
 
 //Reimu: "……！"
 
@@ -674,11 +674,11 @@ Yukari: "She is new here, I just brought her here, and she's very good at giving
 
 //Yukari: "回来吧梦沙罗酱，让我们来为巫女小姐展示一下，什么叫做恐惧~"
 
-Yukari: "Come back, Mengshaluo, come out and show us how you evoke fear~"
+Yukari: "Come back, Musaraku, come out and show us how you evoke fear~"
 
-//Mengshaluo: "是……是的，八云紫大人。"
+//Musaraku: "是……是的，八云紫大人。"
 
-Mengshaluo: "Y…yes, Master Yukari Yakumo."
+Musaraku: "Y…yes, Master Yukari Yakumo."
 
 
 ---------------
@@ -689,22 +689,22 @@ After Boss
 
 Yukari: "Of course, this is Reimu~ My important child. We will play in here."
 
-//Mengshaluo: "八云紫大人！"
+//Musaraku: "八云紫大人！"
 
-Mengshaluo: "Master Yukari Yakumo!"
+Musaraku: "Master Yukari Yakumo!"
 
 //Reimu: "老不正经的，自己恶作剧还要拉上不相关的人，活该！你起来，看我不撕了你的脸！"
 
 Reimu: "How unfair, you have to bring in unsuspecting people to help you with your own schemes, god! Let's see if I can't tear off your face!"
 
-//Mengshaluo: "不要啊灵梦小姐！紫大人好像晕过去了！是我忘了告诉她虽然被我附身能增加力量但是也是很消耗体力的呀！"
+//Musaraku: "不要啊灵梦小姐！紫大人好像晕过去了！是我忘了告诉她虽然被我附身能增加力量但是也是很消耗体力的呀！"
 
-Mengshaluo: "No, Miss Reimu! It looks like Master Yukari fainted! I forgot to tell her that while I increase people's powers while they're possessed by me, a lot of power is consumed!"
+Musaraku: "No, Miss Reimu! It looks like Master Yukari fainted! I forgot to tell her that while I increase people's powers while they're possessed by me, a lot of power is consumed!"
 
 //Reimu: "没事，我还没使出我的家电还魂手……"
 
 Reimu: "It's okay, my home appliances don't have souls."
 
-//Mengshaluo: "不要啊！！！"
+//Musaraku: "不要啊！！！"
 
-Mengshaluo: "No it's not okay!!"
+Musaraku: "No it's not okay!!"

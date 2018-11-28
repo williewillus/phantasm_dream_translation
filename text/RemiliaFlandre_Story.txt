@@ -512,9 +512,9 @@ Mid-fight
 
 Yukari: "It looks like you're still keeping up, I will make an exception and let you see the source of this fear power."
 
-//Mengshaluo: "紫……紫小姐，为什么突然让我出现啊QAQ，那对姐妹好像会吸血唉。"
+//Musaraku: "紫……紫小姐，为什么突然让我出现啊QAQ，那对姐妹好像会吸血唉。"
 
-Mengshaluo: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they want to suck my blood. I'm… I'm scared!"
+Musaraku: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they want to suck my blood. I'm… I'm scared!"
 
 //Remilia: "噩梦的源头终于出现了，看起来真没用，我都怀疑的你的眼光了，紫。"
 
@@ -524,9 +524,9 @@ Remilia: "The source of these nightmares has finally appeared, but she seems tru
 
 Flandre: "Big sister, her long, purple hair is pretty, I want it!"
 
-//Mengshaluo: "呀！！！"
+//Musaraku: "呀！！！"
 
-Mengshaluo: "YAAAAH!!!"
+Musaraku: "YAAAAH!!!"
 
 
 ---------------
@@ -535,11 +535,11 @@ After Boss
 
 //Yukari: "哎呀，一不小心玩过头了呢，是吧梦沙罗酱~"
 
-Yukari: "Oh my, it seems I overplayed, haven't I, Mengshaluo~"
+Yukari: "Oh my, it seems I overplayed, haven't I, Musaraku~"
 
-//Mengshaluo: "明明是紫小姐你不由分说就把我扯进来威胁我的不是吗？"
+//Musaraku: "明明是紫小姐你不由分说就把我扯进来威胁我的不是吗？"
 
-Mengshaluo: "Yes you have, Miss Yukari, you throw me into the battlefield just to have my life threatened, no?"
+Musaraku: "Yes you have, Miss Yukari, you throw me into the battlefield just to have my life threatened, no?"
 
 //Yukari: "我可什么都不知道哦，锅交给你了~欢迎来到幻想乡。"
 
@@ -553,9 +553,9 @@ Remilia: "Curses… she got away, well, the incident is solved."
 
 Flandre: "But the culprit is still here, big sister~"
 
-//Mengshaluo: "不是我……是紫小姐她硬让我做的……"
+//Musaraku: "不是我……是紫小姐她硬让我做的……"
 
-Mengshaluo: "It's not me… It was Miss Yukari, she made me do it…"
+Musaraku: "It's not me… It was Miss Yukari, she made me do it…"
 
 //Remilia: "你知道惹怒我应该怎么赔偿吗？交给灵梦的话，可能会很经常呢~"
 
@@ -573,7 +573,7 @@ Remilia: "I'm afraid I cannot do that for you, you will need to talk to Sakuya a
 
 Flandre: "Okay! Big sister!"
 
-//Mengshaluo: "紫小姐TAT……"
+//Musaraku: "紫小姐TAT……"
 
-Mengshaluo: "MISS YUKARI… TAT"
+Musaraku: "MISS YUKARI… TAT"
 

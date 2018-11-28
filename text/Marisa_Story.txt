@@ -650,17 +650,17 @@ Marisa: "I'M NOT! REIMU'S! ESCORT! YOU PURPLE BITCH!!!"
 Mid-fight 1
 ---------------
 
-//Mengshaluo: "紫……大人，不好了，这个人……这个人的愤怒正在吸取我的力量，不断的变强。"
+//Musaraku: "紫……大人，不好了，这个人……这个人的愤怒正在吸取我的力量，不断的变强。"
 
-Mengshaluo: "Master… Yukari, this isn't good, this person… this person's anger is leeching away at my power, she's getting stronger and stronger by the minute!"
+Musaraku: "Master… Yukari, this isn't good, this person… this person's anger is leeching away at my power, she's getting stronger and stronger by the minute!"
 
 //Yukari: "怎么可能！"
 
 Yukari: "Impossible!"
 
-//Mengshaluo: "她不久前曾经接受过我的噩梦，我们梦境之间的联系还有残存。"
+//Musaraku: "她不久前曾经接受过我的噩梦，我们梦境之间的联系还有残存。"
 
-Mengshaluo: "She experienced one of my nightmares before, there's still a link between our dream states!"
+Musaraku: "She experienced one of my nightmares before, there's still a link between our dream states!"
 
 //Marisa: "炸平博丽神社！！解决异变得荣耀归于我大魔法使！！"
 
@@ -676,11 +676,11 @@ Marisa: "Words can't save you now! Face my almighty, magical fury!"
 
 //Yukari: "梦沙罗！开始吧！！"
 
-Yukari: "Mengshaluo! Begin!!"
+Yukari: "Musaraku! Begin!!"
 
-//Mengshaluo: "知道了，紫大人！"
+//Musaraku: "知道了，紫大人！"
 
-Mengshaluo: "Understood, Master Yukari!"
+Musaraku: "Understood, Master Yukari!"
 
 
 ---------------
@@ -691,13 +691,13 @@ After Boss
 
 Marisa: "This… This power!"
 
-//Mengshaluo: "紫大人……咳咳……不行了……所有的力量都集中到这个疯子身上了"
+//Musaraku: "紫大人……咳咳……不行了……所有的力量都集中到这个疯子身上了"
 
-Mengshaluo: "Master Yukari… (pant pant)… It's not working… All the power is concentrated in that crazy child's body!"
+Musaraku: "Master Yukari… (pant pant)… It's not working… All the power is concentrated in that crazy child's body!"
 
-//Mengshaluo: "我......我也不明白啊？她真的是人类吗？"
+//Musaraku: "我......我也不明白啊？她真的是人类吗？"
 
-Mengshaluo: "It… It's not possible! She's only human!"
+Musaraku: "It… It's not possible! She's only human!"
 
 //Marisa: "我可是！普通而自由的魔！法！使！啊！接招吧噩梦混蛋！！！干掉了你们，我就去找灵梦一决胜负！！"
 
