@@ -361,15 +361,15 @@ Mokou: "AAAAAA! NO!! NO!!!!"
 
 //Reimu: "今天幻想乡变成疯人院了吗？拜托让我遇见一个正常人好不好？你，能让让道吗？"
 
-Reimu: "Gensokyo's become a mental institution today, huh? It would make me so happy if I could meet a normal person, okay?"
+Reimu: "Gensokyo's become a mental institution today, huh? Could I please see a normal preson today? You, can you move aside?"
 
 //Mokou: "你也是吗？我并不是那样的想法！辉夜！！都是因为她！"
 
-Mokou: "You, too? I'm not thinking like that at all! KAGUYA!! THIS IS ALL YOUR FAULT!
+Mokou: "You, too? I'm not thinking like that at all! KAGUYA!! IT'S ALL HER FAULT!"
 
 //Reimu: "额，比起辉夜我还更喜欢魔理沙呢~在我不想解异变的时候"
 
-Reimu: "Uh, I prefer Marisa to Kaguya for when I'm not in the mood to solve incidents."
+Reimu: "Uh, compared to Kaguya I still like Marisa more~when I'm not in the mood to solve incidents."
 
 
 ---------------
@@ -399,11 +399,11 @@ Reimu: "Seems like that was too much~ but, now you can at least go to sleep peac
 
 //Mokou: "我已经后悔了呢……我并不想毁掉你"
 
-Mokou: "I already regret this… I don't want to destroy you at all."
+Mokou: "I already regret this… I did't want to destroy you at all."
 
 //Reimu: "我可是只听说过有蓬莱之药，没有后悔药哦~"
 
-Reimu: "But I only heard you say you had the elixir of immortality, not the elixir of regret~"
+Reimu: "I've only heard of the Hourai Elixir, not an elixir of regret~"
 
 //Mokou: "......."
 
@@ -416,7 +416,7 @@ Before Boss - Kaguya
 
 //Kaguya: "如果永远活着，跟死去有什么区别？本来就生活在噩梦中的人，还会惧怕噩梦吗？"
 
-Kaguya: "If I am an eternal being, am I no different from being dead? At first, I felt like I was living a nightmare, but don't I still fear nightmares?"
+Kaguya: "If I live forever, am I no different from being dead? If one lives in a nightmare, will they still fear nightmares?"
 
 //Reimu: "额……你听的见我说话吗？"
 
@@ -424,7 +424,7 @@ Reimu: "Uh… Did you not hear what I said?"
 
 //Kaguya: "你觉得我像是聋子或者瞎子吗？博丽的巫女"
 
-Kaguya: "You think I am like a donkey or a baby, right, Reimu Hakurei?"
+Kaguya: "Do you think that I am deaf or blind, Hakurei Shrine Maiden?"
 
 //Reimu: "不像"
 
@@ -432,7 +432,7 @@ Reimu: "No?"
 
 //Kaguya: "算了，你只是我梦境中的幻像罢了，我没有必要纠结你的态度"
 
-Kaguya: "I know, you are just my illusionary dreamland, I don't need your attitude."
+Kaguya: "Whatever, you're just an illusion in my dreams, I don't need your attitude."
 
 //Reimu: "【果然还是在做梦吗？】"
 
@@ -440,23 +440,23 @@ Reimu: "(Of course, you're still dreaming, right?)"
 
 //Kaguya: "藤原家的小姑娘终究还是小姑娘，竟然会因为噩梦而失去心智，哼~算了，终究是我的梦，博丽的巫女啊，你愿意听我说一点闲话吗？"
 
-Kaguya: "The little Fujiwara girl is, after all, still a mere child, and I'm going to lose my mind because of this nightmare she put me through, oh~ I see, this IS a dream. Hakurei Shrine Maiden, did you intend to eavesdrop while I talked in my sleep?"
+Kaguya: "The little Fujiwara girl is, after all, still a mere child, losing her mind to a nightamre humph. Whatever, this IS my dream after all. Hakurei Shrine Maiden, care to listen to some of my ramblings?"
 
 //Reimu: "你说吧？【为何今天感觉那么脱力- -】"
 
-Reimu: "What?" (Why is everything so off today- -)
+Reimu: "What?" (Why is everything so tiring today- -)
 
 //Kaguya: "如果一个人拥有永久的生命，那她会抱着这样的心态活下去呢？"
 
-Kaguya: "If someone pursues eternal life, this is the kind of mentality they are left with."
+Kaguya: "If one has eternal life, what kind of attitude would she live with?"
 
 //Reimu: "呃……嗯……不知道……？"
 
-Reimu: "Uh… yes… I didn't know…?
+Reimu: "Uh… um… I don't know…?
 
 //Kaguya: "那就让我来告诉你吧。"
 
-Kaguya: "Now I shall teach you what it means."
+Kaguya: "Then let me tell you."
 
 
 ---------------
@@ -469,11 +469,11 @@ Kaguya: "How about now? Do you understand now?"
 
 //Reimu: "大概吧……"
 
-Reimu: "Probably…"
+Reimu: "Mostly…"
 
 //Kaguya: "你似乎有事要问我？那就再回答我一个问题吧"
 
-Kaguya: "It seems that there is still something you want to ask me? Then I shall respond to your question."
+Kaguya: "It seems that there is something you want to ask me? Then answer another of my questions."
 
 
 ---------------
@@ -482,7 +482,7 @@ After Boss
 
 //Kaguya: "你的答案让我十分满意"
 
-Kaguya: "Your answer made me feel satisfied for 10 minutes."
+Kaguya: "I'm fully satisfied with your answer."
 
 //Reimu: "那真是太好了……"
 
@@ -498,11 +498,11 @@ Reimu: "You…"
 
 //Kaguya: "我早就说过，对于时刻生活在噩梦中的人，噩梦什么的，有什么好可怕的呢？博丽的巫女，我问你，是不是来寻求解决之道的"
 
-Kaguya: "A long time ago I once thought, 'for those who are living nightmares, what is the nightmare, and what makes it fearful?' I ask you, have you come to seek the answer to that question?"
+Kaguya: "I already said, 'for those who are living in a nightmare, how are nightmares scary?' Hakurei Shrine Maiden, I ask you, have you come to seek a solution?"
 
 //Reimu: "一开始是，现在只想把精神病退治掉，这样我就清静了"
 
-Reimu: "Once I started, yes, but now I can only think of defeating you, and then I shall be at peace."
+Reimu: "At first, yes, but now as long as I can beat up the crazy ones, then I'll be at peace."
 
 //Kaguya: "接下来你该怎么做呢？如果不快一点，说不定黑白的魔法使又要抢先了"
 
@@ -510,11 +510,11 @@ Kaguya: "What shall you do now? If you do not act fast, the black and white magi
 
 //Reimu: "呵呵，她说不定在做偷东西被抓住的噩梦吧，让她平时给我添麻烦来着。我已经知道是哪个麻烦的家伙搞的鬼了"
 
-Reimu: "Aah, She might even end up stealing the nightmares away, she's always giving me trouble! I already know the person who could cause this kind of incident."
+Reimu: "Aah, She might even be having a nightmare of getting caught stealing, always giving me trouble! I already know the annoying one who could cause this."
 
 //Kaguya: "哦？你那么肯定？"
 
-Kaguya: "Oh? And how can you be so sure?"
+Kaguya: "Oh? So certain?"
 
 //Reimu: "靠直觉！"
 
@@ -545,7 +545,7 @@ Reimu: "……"
 
 //Chen: "我生气啦！！！！"
 
-Chen: "You're making me angry!!!!"
+Chen: "I'm getting angry!!!!"
 
 
 ---------------
@@ -563,15 +563,15 @@ Ran: "Please stop, Miss Hakurei Shrine Maiden!"
 
 //Reimu: "我可是收到投诉了，你们搞事之前最好已经做好了挨揍的觉悟~还有！叫你们家大人出来"
 
-Reimu: "But I've received a complaint, you need to understand what you're doing before you do things~ AND! Call your master out here!
+Reimu: "But I've received a complaint, you need to understand what's you have coming for you before you cause problems~ AND! Call your master out here!
 
 //Ran: "这是八云紫大人的计划，在计划尚未完结的时候……没有任何人可以通过这里。"
 
-Ran: "These are Master Yukari Yakumo's instructions: until the plan it completed, guests are forbidden entry."
+Ran: "These are Master Yukari Yakumo's instructions: until the plan it completed, no one shall pass."
 
 //Reimu: "你们给我搞清楚，每次出了事都是老凉收拾烂摊子，能不能考虑一下别人的感受！"
 
-Reimu: "Let me make this clear, every time something goes wrong, I gotta clean up the mess. Can you not consider how everyone else is affected?"
+Reimu: "Let me make this clear, every time something goes wrong, I gotta clean up the mess. Can't you care about others' feelings?"
 
 //Ran: "对不起，不能。"
 
@@ -593,7 +593,7 @@ Ran: "Shrine Maiden of the Hakurei Shrine… What a well-deserved title…"
 
 //Reimu: "把八云紫叫出来！！！我要让她体验一下执法者的怒火！！！"
 
-Reimu: "Now call out Yukari Yakumo!!! I want to experience the fury of a peacekeeper!!!"
+Reimu: "Now call out Yukari Yakumo!!! I want her to experience the fury of a peacekeeper!!!"
 
 //Yukari: "哟~"
 
@@ -605,7 +605,7 @@ Reimu: "'Yo' yourself."
 
 //Yukari: "灵梦你果然还是这么不可爱的孩子呢~"
 
-Yukari: "Reimu, clearly still as pouty of a brat as ever~"
+Yukari: "Reimu, still as pouty of a brat as ever~"
 
 //Reimu: "去你的孩子！你全家都是孩子！！！"
 
@@ -621,11 +621,11 @@ Reimu: "What is that, what are you saying?
 
 //Yukari: "你知道吗？噩梦是这个世界上最能唤起内心深处，平时掩盖着的恐惧，的事物，想想看，那么多真实的恐惧，多么令人兴奋啊！"
 
-Yukari: "Do you know? Nightmares are the best evokers of inner self this world has to offer. So many fearful things, as you have seen. So many authentic insecurities. How exciting!"
+Yukari: "Do you know? Nightmares are the best evokers of inner self this world has to offer. The fears and things that conceal normally, think of it, so many authentic fears. How exciting!"
 
 //Yukari: "把这些恐惧放到阳光下，让所有人知道并且正视他们，我觉得我真是个伟大的圣人。"
 
-Yukari: "If you put these fears in broad daylight, it will help everyone truly face their fears. I think that clearly makes me rather saintly."
+Yukari: "If these fears are put in broad daylight for everyone to face, I think that clearly makes me rather saintly."
 
 //Reimu: "我觉得你真是个恶心的变态……"
 
@@ -654,7 +654,7 @@ Reimu: "Uh…"
 
 //Yukari: "怎么样？有没有感受到第二个神奇之处~没错，噩梦产生恐惧，恐惧刺激挣扎，而挣扎时的人，比平时的他更加厉害。"
 
-Yukari: "How about it? Can you feel The Second Magic~ not bad! Nightmares lead to fear, fear leads to a struggle, and when a person struggles, they become more powerful than they were before."
+Yukari: "How about it? Can you feel The Second Magic~ not bad! Nightmares lead to fear, fear stimulates struggle, and when a person struggles, they become more powerful than they were before."
 
 //Yukari: "没错，噩梦产生恐惧，恐惧刺激挣扎，而挣扎时的人，比平时的他更加厉害。"
 
@@ -666,7 +666,7 @@ Reimu: "Alright, stop for a minute!! What the hell is this!!
 
 //Yukari: "出来见见你的新朋友吧~梦沙罗酱~"
 
-Yukari: "Come out and meet Reimu, my new friend~ Musaraku~"
+Yukari: "Come out and your new friend~ Musaraku~"
 
 //Reimu: "……！"
 
@@ -686,7 +686,7 @@ Yukari: "She is new here, I just brought her here, and she's very good at giving
 
 //Yukari: "回来吧梦沙罗酱，让我们来为巫女小姐展示一下，什么叫做恐惧~"
 
-Yukari: "Come back, Musaraku, come out and show us how you evoke fear~"
+Yukari: "Come back, Musaraku, let's show miss shrine maiden what fear is~"
 
 //Musaraku: "是……是的，八云紫大人。"
 
@@ -699,7 +699,7 @@ After Boss
 
 //Yukari: "果然是灵梦呢~我看重的孩子，今天就玩到这里吧……"
 
-Yukari: "Of course, this is Reimu~ My important child. We will play in here."
+Yukari: "Of course, this is Reimu~ the one I have high hopes for. Let us stop our play for today..."
 
 //Musaraku: "八云紫大人！"
 
@@ -707,16 +707,16 @@ Musaraku: "Master Yukari Yakumo!"
 
 //Reimu: "老不正经的，自己恶作剧还要拉上不相关的人，活该！你起来，看我不撕了你的脸！"
 
-Reimu: "How unfair, you have to bring in unsuspecting people to help you with your own schemes, god! Let's see if I can't tear off your face!"
+Reimu: "How unfair, you have to bring in unsuspecting people to help you with your own schemes, god! Get up, let's see if I can't tear off your face!"
 
 //Musaraku: "不要啊灵梦小姐！紫大人好像晕过去了！是我忘了告诉她虽然被我附身能增加力量但是也是很消耗体力的呀！"
 
-Musaraku: "No, Miss Reimu! It looks like Master Yukari fainted! I forgot to tell her that while I increase people's powers while they're possessed by me, a lot of power is consumed!"
+Musaraku: "No, Miss Reimu! It looks like Master Yukari fainted! I forgot to tell her that although I increase people's powers while they're possessed by me, a lot of power is consumed!"
 
 //Reimu: "没事，我还没使出我的家电还魂手……"
 
-Reimu: "It's okay, my home appliances don't have souls."
+Reimu: "It's okay, I still haven't dished out my Electric Killing Palms."
 
 //Musaraku: "不要啊！！！"
 
-Musaraku: "No it's not okay!!"
+Musaraku: "Don't!!"
