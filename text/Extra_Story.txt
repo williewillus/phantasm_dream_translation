@@ -8,9 +8,9 @@ Before Midboss - Doremy Sweet
 //Doremy: "哦呀哦呀……"
 Doremy: "Well well…"
 //Doremy: "这不是幻想乡的巫女吗？这次挺老实地做梦呢？"
-Doremy: "If it isn't Gensokyo's shrine maiden? What are you dreaming about this time?"
+Doremy: "If it isn't Gensokyo's shrine maiden? Actually dreaming this time?"
 //Reimu: "不是我想做梦的，能选择的话我只想做在院子喝茶的梦"
-Reimu: "I mean it's not like I have a say in the matter. If I did, it would just be about me at home drinking tea."
+Reimu: "It's not like I want to dream. If I did, it would just be about me at home drinking tea."
 //Doremy: "和平时的你没什么区别啊，但现在的梦是噩梦，而且被谁搅的很奇怪"
 Doremy: "As usual, but your dream is now a nightmare, and it's being controlled in a strange manner."
 //Reimu: "那就是你玩忽职守？"
@@ -28,9 +28,9 @@ After Midboss
 ---------------
 
 //Doremy: "饿的使不上力气……吃个噩梦又不少你一块肉…"
-Doremy: "Being hungry won't make up for the strength… if I eat it, there won't be a shortage of umami…"
+Doremy: "I'm so hungry I don't have strength… your nightmare isn't worth this trouble…"
 //Reimu: "这是工作啊，巫女的工作，但这次不是找你，梦要好吃的话下次请我吃吃看好了。"
-Reimu: "This is my job, a shrine maiden's job. But this time I won't go looking for you. If you want to eat my dreams so badly then next time give me something good to eat in return."
+Reimu: "This a job, a shrine maiden's job. But this time I'm not looking for you. If you want to eat my dreams so badly then next time give me something good to eat in return."
 
 
 ---------------
@@ -40,17 +40,17 @@ Before Boss - Musaraku
 //Musaraku: "你终于来了，博丽的巫女，我一直在等你。"
 Musaraku: "You have finally arrived, Hakurei Shrine Maiden. I have been waiting for you."
 //Reimu: "这个家伙……怎么了？白天还软绵绵的，双重人格？"
-Reimu: "This kid… What's your problem? Today you were so weak, do you have a dual personality?"
+Reimu: "This kid… What's your problem? So weak during the day, do you have a dual personality?"
 //Musaraku: "喔？你似乎并不是一个聪明人，这里和外面不一样，这里是我的领域，而在我的领域中，我就是万物之王！！！"
-Musaraku: "Hm? You aren't very bright. This place isn't the same as outside of the nightmares. This is my domain, and while I'm here, I rule everything!"
+Musaraku: "Hm? You aren't very bright. This place isn't the same as outside. This is my domain, and in here, I rule everything!"
 //Reimu: "我的神社可没有多少供奉，这个账要不要先记着？" //I don't quite get the second part here
 Reimu: "My shrine doesn't even have worshippers, Are you taking that into account?"
 //Musaraku: "哼？还不明白？我是要挑战你啊！！"
 Musaraku: "Huh? Is it not clear to you? I want to challenge you!!"
 //Reimu: "明白睡眠质量对巫女的重要性吗？按照那家伙的说法，这个梦并不好吃。"
-Reimu: "Have you not taken into account the sleeplessness of a shrine maiden? From what that kid said, my dreams are not tasty at all."
+Reimu: "Do you understand how much good sleep matters to a shrine maiden? From what that one earlier said, my dreams are not tasty at all."
 //Musaraku: "啊哈哈~!多说无益！只有强者！才可以使我变得更强！！"
-Musaraku: "Ahaha~! You can't talk your way out of it! I just want your strength, then I can become stronger."
+Musaraku: "Ahaha~! Talking is unnecessary! I just want your strength, then I can become stronger."
 
 
 ---------------
@@ -60,19 +60,19 @@ After Boss
 //Musaraku: "看来……还是……咳咳咳"
 Musaraku: "It looks like… you're still… cough cough cough"
 //Reimu: "知道厉害了吧？万物之王？~"
-Reimu: "Don't you know you're good enough, ruler of everything?"
+Reimu: "See my power now, ruler of everything?"
 //Musaraku: "我……我……我绝不会倒下！"
-Musaraku: "I… I… I won't fail!"
+Musaraku: "I… I… I won't fall!"
 //Reimu: "吵死了，那么这么决定了，把你带给那家伙吃掉或许能安静？"
-Reimu: "Damn, you're noisy, well now we have a decision to make, shall I feed you to that kid or will you be quiet?"
+Reimu: "Damn, you're noisy. Alright, shall I feed you to her for some peace and quiet?"
 //Musaraku: "那家伙？"
-Musaraku: "That kid?"
+Musaraku: "Her?"
 //Reimu: "是只貘来着，梦只能交给梦的专家解决，我是退治妖怪的专家，不管这个"
-Reimu: "She's coming, and feeding her this dream would be the best solution. I'm the best at beating up youkai, no matter who they are."
+Reimu: "She's a baku. Dreams can only be resolved by dream professionals. I'm an expert at beating up youkai, I don't care about these things."
 //Musaraku: "等…等等…有事好商量？"
 Musaraku: "W-Wait… can't we talk it out?"
 //Reimu: "喝茶喝茶，仙贝没被魔理沙吃掉吧？"
-Reimu: "Over tea, and the crackers Marisa still hasn't eaten?"
+Reimu: "Ahh, tea. Marisa hasn't eaten the crackers has she?"
 //Musaraku: "不要啊————"
 Musaraku: "Noooooo————"
 
