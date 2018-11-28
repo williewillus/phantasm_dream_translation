@@ -146,6 +146,10 @@ Marisa: "Mama…"
 
 Marisa: "Was that a dream? Ugh…should I go outside and get some air?"
 
+//Marisa: ""
+
+Marisa: ""
+
 === CHOICE SELECT ===
 '1. Yes'
 
@@ -360,6 +364,10 @@ Cutscene - Choice Select
 
 Marisa: "What should I do next?"
 
+//Marisa: ""
+
+Marisa: ""
+
 === CHOICE SELECT ===
 '1. Go to the Hakurei Shrine and visit Reimu'
 
@@ -382,6 +390,10 @@ Choice Select #2
 //Marisa: "看来真的是异变，我都能感觉到周围飘散出诱人的气息了DAZE☆！"
 
 Marisa: "Seems this really is an incident, I can feel the sense of adventure around me."
+
+//Marisa: ""
+
+Marisa: ""
 
 === CHOICE SELECT ===
 '1. Reimu can go die~DAZE☆!!'

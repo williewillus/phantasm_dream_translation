@@ -104,6 +104,10 @@ Reimu: "<looks outside at the sky>"
 
 Reimu: "I always feel like something isn't right, is that guy going to go out and cause an incident again…"
 
+//Reimu: ""
+
+Reimu: ""
+
 === CHOICE SELECT ===
 '1. Make them do it, the old woman is tired'
 
@@ -133,6 +137,10 @@ Reimu: "What a truly annoying person, if I hadn't woken up I wouldn't be so tire
 //Reimu: "先去哪里呢？"
 
 Reimu: "Where should I go?"
+
+//Reimu: ""
+
+Reimu: ""
 
 === CHOICE SELECT ===
 '1. Kourindou'
@@ -322,6 +330,10 @@ Rinnosuke: "Okay, but… ugh… go away, I was never actually listening until yo
 //Reimu: "接下来做什么呢？"
 
 Reimu: "Where should I go next?"
+
+//Reimu: ""
+
+Reimu: ""
 
 === CHOICE SELECT ===
 '1. Continue to the Lost Bamboo Forest'

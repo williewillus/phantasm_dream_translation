@@ -156,6 +156,10 @@ Remilia: "<A loud noise was heard from behind the door>"
 
 Flandre: "Should we… go outside and see what that was?"
 
+//Flandre: ""
+
+Flandre: ""
+
 === CHOICE SELECT ===
 '1. Go out and look by yourself'
 
@@ -563,7 +567,7 @@ Remilia: "You know what would make up for how angry you've made me? If I hand yo
 
 //Flandre: "不嘛姐姐大人，让她做芙兰我的玩具吧！！！！梦沙罗酱不会让我失望吧？你肯定是一个怎么都玩不坏的好、玩、具~对吧~"
 
-Flandre: "Nooo, big sister, make her one of Flan's toys!!!! Mengluosha won't disappoint me! You'll definitely be a fun, unbreakable tooooooy~ dollie~ right?"
+Flandre: "Nooo, big sister, make her one of Flan's toys!!!! Musaraku won't disappoint me! You'll definitely be a fun, unbreakable tooooooy~ dollie~ right?"
 
 //Remilia: "真拿你没办法啊，要好好跟咲夜说哦。"
 
