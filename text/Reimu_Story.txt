@@ -15,11 +15,11 @@ Reimu: "Why does it have so much clutter?"
 
 //Reimu: "不行……头好疼……想不起来了"
 
-Reimu: "No way…my head hurts…my mind must beplaying tricks on me…"
+Reimu: "No way…my head hurts…I can't recall…"
 
 //Meiru: "怎么？连我们的神社都记不起来了？"
 
-Meiru: "What's this? Even our shrine is unrecognizable?"
+Meiru: "What's this? You can't even recognize our shrine?"
 
 //Reimu: "我们的？你是谁！？"
 
@@ -27,7 +27,7 @@ Reimu: "OUR? Who are you!?"
 
 //Meiru: "是啊，博丽灵梦，这就是我们的名字，可是你很快就用不上它了！！！"
 
-Meiru: "Yes, Reimu Hakurei, that is our name, but soon it will no longer be yours!!!"
+Meiru: "Yes, Reimu Hakurei, that is our name, but soon you won't need it anymore!!!"
 
 //Reimu: "你……是谁？紫说过这种行为是侵犯肖像权的呢，你以为和我长得一样我就不会把你退治了吗？"
 
@@ -39,7 +39,7 @@ Meiru: "I am Meiru Hakurei, a mirror image of you…but that is only your tempor
 
 //Reimu: "又是新品种的妖怪吗？紫这个家伙，什么奇怪的东西都放进来。"
 
-Reimu: "Are you another new kind of youkai? That Yukari, She'll let loose all sorts of strange things."
+Reimu: "Are you another new kind of youkai? That Yukari, she'll let loose all sorts of strange things."
 
 
 ---------------
@@ -56,7 +56,7 @@ Reimu: "What exactly do you want? If you have that ability… you can just go co
 
 //Meiru: "修行懈怠的你，有什么资格做博丽的巫女，只要打倒你，博丽灵梦这个名字就是我的！幻想乡唯一的巫女也是我！"
 
-Meiru: "You're practicing your slacking ability, if you have any qualifications as the Hakurei Shrine Maiden, you just need to defeat me, Hakurei Reimu's name is now mine! I am now Gensokyo's one and only shrine maiden!"
+Meiru: "What qualification do you have to be the Hakurei Shrine Maiden, you who practices laziness? As long as I defeat you, the name Reimu Hakurei will be mine! I will be Gensokyo's one and only shrine maiden!"
 
 //Reimu: "你说什么！！？"
 
@@ -69,11 +69,11 @@ After Boss
 
 //Meiru: "啊啊啊啊啊啊啊啊啊啊"
 
-Meiru: "AAAAAAAAAAAA"
+Meiru: "AAAAAAAAAAAAHHHHHHHHHHH"
 
 //Reimu: "别叫了混蛋！我的头好疼！！"
 
-Reimu: "Stop screaming, you asshole! I've got a headache!!"
+Reimu: "Stop screaming, you asshole! My head hurts!!"
 
 
 ---------------
@@ -82,7 +82,7 @@ Wake up
 
 //Reimu: "最近老是做奇怪的梦，居然有人要替代我当巫女……哈欠……我还巴不得呢，这么麻烦的职位……"
 
-Reimu: "I just had a strange dream, someone wanted to take my place as shrine maiden…yawn… It still makes me anxious, what an inconvenient situation."
+Reimu: "I've been having strange dreams recently, someone wanted to take my place as shrine maiden…yawn… It still makes me anxious, what a troublesome job."
 
 //Reimu: "几点了……？"
 
@@ -102,21 +102,21 @@ Reimu: "<looks outside at the sky>"
 
 //Reimu: "总觉得哪里不对劲，会不会又是那个家伙搞出来的异变……"
 
-Reimu: "I always feel like something isn't right, is that guy going to go out and cause an incident again…"
+Reimu: "I still feel like something isn't right, is that person causing an incident again?…"
 
 //Reimu: ""
 
 Reimu: ""
 
 === CHOICE SELECT ===
-'1. Make them do it, the old woman is tired'
+'1. Make them do it, the shrine maiden is tired'
 
-'2. I know, lets go out and look…'
+'2. I know, let's go out and look…'
 
 === FIRST OPTION ===
 //Reimu: "要是放着不管的话……指不定又能给老娘捅出什么大娄子来……"
 
-Reimu: "If I leave her alone… you never know what sort of things that old hag is gonna pull off…"
+Reimu: "If I leave her alone… she might cause some sort of trouble for me again…"
 --- RETURN TO CHOICE SELECT ---
 
 === SECOND OPTION ===
