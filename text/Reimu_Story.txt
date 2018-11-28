@@ -111,7 +111,7 @@ Reimu: ""
 === CHOICE SELECT ===
 '1. Make them do it, the shrine maiden is tired'
 
-'2. I know, let's go out and look…'
+'2. I know, let\'s go out and look…'
 
 === FIRST OPTION ===
 //Reimu: "要是放着不管的话……指不定又能给老娘捅出什么大娄子来……"
