@@ -8,9 +8,9 @@ Before Midboss - Doremy Sweet
 //Doremy: "哦呀哦呀……"
 Doremy: "Well well…"
 //Doremy: "这不是幻想乡的巫女吗？这次挺老实地做梦呢？"
-Doremy: "If it isn't Gensokyo's shrine maiden? What are you dreaming about this time?"
+Doremy: "If it isn't Gensokyo's shrine maiden? Actually dreaming this time?"
 //Reimu: "不是我想做梦的，能选择的话我只想做在院子喝茶的梦"
-Reimu: "I mean it's not like I have a say in the matter. If I did, it would just be about me at home drinking tea."
+Reimu: "It's not like I want to dream. If I did, it would just be about me at home drinking tea."
 //Doremy: "和平时的你没什么区别啊，但现在的梦是噩梦，而且被谁搅的很奇怪"
 Doremy: "As usual, but your dream is now a nightmare, and it's being controlled in a strange manner."
 //Reimu: "那就是你玩忽职守？"
@@ -28,9 +28,9 @@ After Midboss
 ---------------
 
 //Doremy: "饿的使不上力气……吃个噩梦又不少你一块肉…"
-Doremy: "Being hungry won't make up for the strength… if I eat it, there won't be a shortage of umami…"
+Doremy: "I'm so hungry I don't have strength… your nightmare isn't worth this trouble…"
 //Reimu: "这是工作啊，巫女的工作，但这次不是找你，梦要好吃的话下次请我吃吃看好了。"
-Reimu: "This is my job, a shrine maiden's job. But this time I won't go looking for you. If you want to eat my dreams so badly then next time give me something good to eat in return."
+Reimu: "This a job, a shrine maiden's job. But this time I'm not looking for you. If you want to eat my dreams so badly then next time give me something good to eat in return."
 
 
 ---------------
@@ -40,17 +40,17 @@ Before Boss - Musaraku
 //Musaraku: "你终于来了，博丽的巫女，我一直在等你。"
 Musaraku: "You have finally arrived, Hakurei Shrine Maiden. I have been waiting for you."
 //Reimu: "这个家伙……怎么了？白天还软绵绵的，双重人格？"
-Reimu: "This kid… What's your problem? Today you were so weak, do you have a dual personality?"
+Reimu: "This kid… What's your problem? So weak during the day, do you have a dual personality?"
 //Musaraku: "喔？你似乎并不是一个聪明人，这里和外面不一样，这里是我的领域，而在我的领域中，我就是万物之王！！！"
-Musaraku: "Hm? You aren't very bright. This place isn't the same as outside of the nightmares. This is my domain, and while I'm here, I rule everything!"
+Musaraku: "Hm? You aren't very bright. This place isn't the same as outside. This is my domain, and in here, I rule everything!"
 //Reimu: "我的神社可没有多少供奉，这个账要不要先记着？" //I don't quite get the second part here
 Reimu: "My shrine doesn't even have worshippers, Are you taking that into account?"
 //Musaraku: "哼？还不明白？我是要挑战你啊！！"
 Musaraku: "Huh? Is it not clear to you? I want to challenge you!!"
 //Reimu: "明白睡眠质量对巫女的重要性吗？按照那家伙的说法，这个梦并不好吃。"
-Reimu: "Have you not taken into account the sleeplessness of a shrine maiden? From what that kid said, my dreams are not tasty at all."
+Reimu: "Do you understand how much good sleep matters to a shrine maiden? From what that one earlier said, my dreams are not tasty at all."
 //Musaraku: "啊哈哈~!多说无益！只有强者！才可以使我变得更强！！"
-Musaraku: "Ahaha~! You can't talk your way out of it! I just want your strength, then I can become stronger."
+Musaraku: "Ahaha~! Talking is unnecessary! I just want your strength, then I can become stronger."
 
 
 ---------------
@@ -60,19 +60,19 @@ After Boss
 //Musaraku: "看来……还是……咳咳咳"
 Musaraku: "It looks like… you're still… cough cough cough"
 //Reimu: "知道厉害了吧？万物之王？~"
-Reimu: "Don't you know you're good enough, ruler of everything?"
+Reimu: "See my power now, ruler of everything?"
 //Musaraku: "我……我……我绝不会倒下！"
-Musaraku: "I… I… I won't fail!"
+Musaraku: "I… I… I won't fall!"
 //Reimu: "吵死了，那么这么决定了，把你带给那家伙吃掉或许能安静？"
-Reimu: "Damn, you're noisy, well now we have a decision to make, shall I feed you to that kid or will you be quiet?"
+Reimu: "Damn, you're noisy. Alright, shall I feed you to her for some peace and quiet?"
 //Musaraku: "那家伙？"
-Musaraku: "That kid?"
+Musaraku: "Her?"
 //Reimu: "是只貘来着，梦只能交给梦的专家解决，我是退治妖怪的专家，不管这个"
-Reimu: "She's coming, and feeding her this dream would be the best solution. I'm the best at beating up youkai, no matter who they are."
+Reimu: "She's a baku. Dreams can only be resolved by dream professionals. I'm an expert at beating up youkai, I don't care about these things."
 //Musaraku: "等…等等…有事好商量？"
 Musaraku: "W-Wait… can't we talk it out?"
 //Reimu: "喝茶喝茶，仙贝没被魔理沙吃掉吧？"
-Reimu: "Over tea, and the crackers Marisa still hasn't eaten?"
+Reimu: "Ahh, tea. Marisa hasn't eaten the crackers has she?"
 //Musaraku: "不要啊————"
 Musaraku: "Noooooo————"
 
@@ -90,11 +90,11 @@ Doremy: "Ah, well well, you shouldn't imitate how people speak~"
 //Marisa: "那么，是你也在做梦吗？"
 Marisa: "So, Are you dreaming, too?"
 //Doremy: "怎么可能，只是听说有个和我相似的家伙把梦境搞得乱七八糟的，于是我就过来了。"
-Doremy: "How can I? I've heard some kid similar to me is messing up people's dreams, and so I've come to check it out."
+Doremy: "How can I? I've just heard someone similar to me is messing up people's dreams, and so I've come to check it out."
 //Marisa: "真的只是这样吗？"
-Marisa: "Is that so?"
+Marisa: "Just that?"
 //Doremy: "睡眠不好的话，起床的时候会没有精神的，我可以帮你吃掉噩梦哟~"
-Doremy: "If you're having trouble sleeping, and you have no energy when you wake up, I can help you by eating your nightmare~"
+Doremy: "If you're having trouble sleeping, you'll have no energy when you wake up, I can help you by eating your nightmare~"
 //Marisa: "明明我觉得是很有趣的梦啊~"
 Marisa: "Well I think this is a pretty interesting dream~"
 
@@ -104,7 +104,7 @@ After Midboss
 ---------------
 
 //Doremy: "我还想饱餐一顿呢~"
-Doremy: "Well I'd like to eat today~"
+Doremy: "Well I'd like to eat well today~"
 
 
 ---------------
@@ -112,15 +112,15 @@ Before Boss - Musaraku
 ---------------
 
 //Marisa: "哦！终于登场了吧，幕后的黑手。"
-Marisa: "Oh! You've finally shown yourself, stagehand behind the curtain."
+Marisa: "Oh! The mastermind has finally appeared."
 //Musaraku: "上次交手的时候，你居然能做到抢夺噩梦的力量，嘿嘿嘿……"
 Musaraku: "Last time we fought, you stole all my nightmare powers, pant pant pant…"
 //Marisa: "那是你们自找的！"
-Marisa: "So that's where you got it from!"
+Marisa: "You were asking for it!"
 //Musaraku: "喔？看来你是一位值得击倒的强者，而面对强者，是我一直追寻的。"
 Musaraku: "Hm? You seem like a strong lady worth fighting, and I'm always looking for strong people."
 //Marisa: "既然是在梦里，那就动手吧！"
-Marisa: "Even though this is a dream, it's feeling very lucid!"
+Marisa: "Since we're in a dream, let's fight!"
 
 
 ---------------
@@ -128,19 +128,19 @@ After Boss
 ---------------
 
 //Marisa: "抢夺力量对于魔法使来说再简单不过了！！"
-Marisa: "This magician and her stealing powers aren't as simple as you think!"
+Marisa: "Stealing energy is as easy as can be for magicians!!!"
 //Musaraku: "不可能……为什么……我的力量，正在衰退？！为什么！为什么又是这样！如果不是巧合的话！你到底是什么怪物！！！"
-Musaraku: "Impossible… Why… My powers, they're fading?! How!? Why is this happening again! This isn't a coincidence, what kind of monster are you!?"
+Musaraku: "Impossible… Why… My powers, they're fading?! Why!? Why is this happening again! This isn't a coincidence, what kind of monster are you!?"
 //Marisa: "接受现实吧！我就是普通的人类而已！"
-Marisa: "You can't handle the truth. I'm just an ordinary human!"
+Marisa: "Accept the truth. I'm just an ordinary human!"
 //Musaraku: "为什么！！！！"
-Musaraku: "HOW!!!!"
+Musaraku: "WHY!!!!"
 //Marisa: "击碎噩梦的~普通的人类~"
 Marisa: "A nightmare-destroying~ ordinary human~"
 //Musaraku: "不可能！！！"
 Musaraku: "IMPOSSIBLE!!!"
 //Marisa: "人类的可能性可是你想象不到的~"
-Marisa: "Humans are capable of a lot of things you can't even imagine"
+Marisa: "Humans are capable of unimaginable things~"
 
 
 ====================
@@ -150,27 +150,27 @@ Before Midboss - Doremy Sweet
 ---------------
 
 //Remilia: "同一招对付我两次可不管用~不用猜这又是梦境世界了。"
-Remilia: "You can't use the same trick twice~ It's useless knowing we're in the dream world."
+Remilia: "You can't use the same trick to defeat me twice~ without guessing this is the dream world again."
 //Flandre: "虽然做这么真实的梦会很辛苦，不过还能和姐姐大人在一起也很开心~"
-Flandre: "Even though it's hard to have such a real dream, I'm happy to have a dream alongside big sister~"
+Flandre: "Even though it's hard to have such a realistic dream, I'm happy to have a dream alongside big sister~"
 //Remilia: "但是和上次完全不一样呢。"
-Remilia: "But last time wasn't the same at all."
+Remilia: "But it's completely different from last time."
 //Flandre: "啊，姐姐大人，前面有个没见过的家伙哎！"
-Flandre: "Ah, big sister, there's someone that I haven't seen before!"
+Flandre: "Ah, big sister, there's someone ahead that I haven't seen before!"
 //Doremy: "哎呀呀~从什么地方开始好呢，这个噩梦，怎么看都怪怪的。"
-Doremy: "Ah, well well~ where did you come from? This nightmare, it's strange no matter how you look at it."
+Doremy: "Ah, well well~ where to start? This nightmare, it's strange no matter how you look at it."
 //Flandre: "前面的小姐，衣服上的毛球是玩具吗？"
 Flandre: "The girl in front of us has a lot of pom-poms on her clothes, are they toys?"
 //Doremy: "你们俩现在可是在做梦的人呢。"
-Doremy: "But you two are dreaming now."
+Doremy: "I see you two are dreaming people."
 //Remilia: "是吸血鬼哦~"
 Remilia: "We're vampires~"
 //Doremy: "看起来不怎么美味的噩梦呢，如果让你们更难受的话，会不会变成更像样的噩梦呢？"
-Doremy: "I don't know how a vampire's nightmares taste. If things get rough for you, will that make the nightmare better?"
+Doremy: "Looks like a not very delicious nightmare. If you suffer more, will it became a more fitting nightmare?"
 //Remilia: "作为姐姐的话，有义务让妹妹做个甜美有趣的梦。"
-Reimila: "As her sister, it is my duty to make her dreams sugary and interesting."
+Reimila: "As an older sister, it's my responsibility to make a beautiful and fun dream for my sister."
 //Doremy: "听说越难处理的食材会越美味~"
-Doremy: "I've heard the worse a nightmare gets, the more flavorful it becomes~"
+Doremy: "I've heard the harder to prepare an ingredient is, the more flavorful it becomes~"
 
 
 ---------------
@@ -178,9 +178,9 @@ After Midboss
 ---------------
 
 //Doremy: "啊，好饿，没有力气了，果然还是等梦安定一点再食用会比较好，挑食会有营养不均衡的危险~"
-Doremy: "Ngh, I'm so hungry, I'm losing strength, if I wait for the dream to stabilize, it will be healthier, but a picky eater like me has to risk that unbalanced nutrition~"
+Doremy: "Ngh, I'm so hungry, I'm losing strength. It's better to wait for the dream to stabilize before eating, being picky risks unbalanced nutrition~"
 //Flandre: "就这样消失了么？她还没有回答我的问题呐。"
-Flandre: "Is she disappearing? She still hasn't even answered my question yet."
+Flandre: "She's gone just like that? She still hasn't even answered my question yet."
 
 
 ---------------
@@ -188,23 +188,23 @@ Before Boss - Musaraku
 ---------------
 
 //Flandre: "哈哈 玩具~"
-Flandre: "Haha, it's the toy~"
+Flandre: "Haha, it's a toy~"
 //Musaraku: "那边的姐妹，我要你为之前侮辱我付出代价。"
-Musaraku: "It's the sisters from the other side, I want you to pay the price for insulting me before."
+Musaraku: "Hey, you sisters over there, I want you to pay for embarrassing me before."
 //Remilia: "能和高贵的夜之王的妹妹一起玩是你莫大的荣幸。"
-Remilia: "It was a great honor for you to play with the little sister of the noble queen of the night."
+Remilia: "You should be honored to be able to play with the little sister of the noble queen of the night."
 //Musaraku: "想知道真正的噩梦吗？"
-Musaraku: "Would you like to know a pristine nightmare?"
+Musaraku: "Would you like to know a real nightmare?"
 //Remilia: "想要真正噩梦的家伙就在前面的不远处，我对噩梦可是一点兴趣都没有"
-Remilia: "The girl right in front of us wants a pristine nightmare. I'm personally not interested in the slightest in nightmares."
+Remilia: "The one that wants a real nightmare is not far from here. I'm personally not interested in the slightest in nightmares."
 //Flandre: "姐姐大人，这家伙怎么怪怪的，和之前不太一样？"
-Flandre: "Big sister, That girl is strange, is she different from before?"
+Flandre: "Big sister, this girl is strange, is she different from before?"
 //Musaraku: "对，这才是真正的我，在我的噩梦里，我才是最强的，来吧，用弹幕游戏一决胜负，深红姐妹。"
 Musaraku: "Correct, this is the true me, the me inside your nightmares, where I am strongest. Come, we shall decide the victor through a damnaku game, Scarlet Sisters."
 //Remilia: "看样子，我们有必要叫醒沉睡的小姑娘让她知道这是白日梦了。"
 Remilia: "Looks like we'll have to have to wake up the young lady to remind her that this is a daydream."
 //Flandre: "梦沙罗酱，我有和你玩过真正噩梦的游戏吗？"
-Flandre: "Musaraku, Are we going to play together in this pristine nightmare?"
+Flandre: "Musaraku, have I played a real nightmare game with you before?"
 
 
 ---------------
@@ -214,16 +214,16 @@ After Boss
 //Flandre: "你能让人做美梦吗？"
 Flandre: "Can you make people have good dreams?"
 //Musaraku: "这只是个开始而已，深红姐妹，无尽的噩梦现在才要开始！"
-Musaraku: "But we have already begun, Scarlet Sisters, the endless nightmare has begun!"
+Musaraku: "This is only the beginning, Scarlet Sisters, the endless nightmare has begun!"
 //Remilia: "这个家伙果然只有在醒的时候才能好好听人说话啊……"
-Remilia: "When this girl wakes up, she'll listen to what people like us have to say…"
+Remilia: "This girl can only properly listen to people when she's awake…"
 //Flandre: "是吸血鬼哦姐姐大人"
 Flandre: "We're vampires, big sister."
 //Musaraku: "我可是身经百战的，区区弹幕游戏并不能代表什么"
-Musaraku: "But I've suffered hundreds of fights, what does a trivial dankamu battle represent?"
+Musaraku: "But I've suffered hundreds of fights, a trivial dankamu game doesn't mean anything"
 //Flandre: "如果总是只和她玩我也会腻哦，有没有什么办法能让她安分一点？"
-Flandre: "If we're always playing with her then I'll get tired, is a way to make her take a break?"
+Flandre: "If we're always playing with her then I'll get tired, is a way to make her tamer?"
 //Remilia: "去拜托拜托某个异变专家似乎不错。"
-Remilia: "Go please a certain incident-causer, okay?"
+Remilia: "It doesn't seem like a bad idea to visit a certain incident-causer"
 //Musaraku: "你们倒是听我说话啊！"
 Musaraku: "Listen to what I say!"
