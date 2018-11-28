@@ -1,0 +1,710 @@
+
+====================
+REIMU STAGE 1
+====================
+Before Boss
+---------------
+
+//Reimu: "这里是……我的神社？"
+
+Reimu: "This is… my shrine?"
+
+//Reimu: "为什么会有这些乱七八糟的东西？"
+
+Reimu: "Why does it have so much clutter?"
+
+//Reimu: "不行……头好疼……想不起来了"
+
+Reimu: "No way…my head hurts…my mind must beplaying tricks on me…"
+
+//Mengru: "怎么？连我们的神社都记不起来了？"
+
+Mengru: "What's this? Even our shrine is unrecognizable?"
+
+//Reimu: "我们的？你是谁！？"
+
+Reimu: "OUR? Who are you!?"
+
+//Mengru: "是啊，博丽灵梦，这就是我们的名字，可是你很快就用不上它了！！！"
+
+Mengru: "Yes, Reimu Hakurei, that is our name, but soon it will no longer be yours!!!"
+
+//Reimu: "你……是谁？紫说过这种行为是侵犯肖像权的呢，你以为和我长得一样我就不会把你退治了吗？"
+
+Reimu: "Who… ARE you? Yukari said this goes against my civil rights, you think just because we look the same doesn't mean I won't beat you up?"
+
+//Mengru: "我是博丽梦入，镜中的你……可这只是暂时的名字，很快很快……只要再等等……"
+
+Mengru: "I am Meiru Hakurei, a mirror image of you…but that is only your temporary name, soon soon… just wait…"
+
+//Reimu: "又是新品种的妖怪吗？紫这个家伙，什么奇怪的东西都放进来。"
+
+Reimu: "Are you another new kind of youkai? That Yukari, She'll let loose all sorts of strange things."
+
+
+---------------
+Mid-fight
+---------------
+
+//Mengru: "切 有点本事~"
+
+Mengru: "Tch! You have a bit of skill~"
+
+//Reimu: "你究竟要干什么？就这点本事的话……抓起来拷问也是做得到的"
+
+Reimu: "What exactly do you want? If you have that ability… you can just go copy anyone."
+
+//Mengru: "修行懈怠的你，有什么资格做博丽的巫女，只要打倒你，博丽灵梦这个名字就是我的！幻想乡唯一的巫女也是我！"
+
+Mengru: "You're practicing your slacking ability, if you have any qualifications as the Hakurei Shrine Maiden, you just need to defeat me, Hakurei Reimu's name is now mine! I am now Gensokyo's one and only shrine maiden!"
+
+//Reimu: "你说什么！！？"
+
+Reimu: "What did you say!!?"
+
+
+---------------
+After Boss
+---------------
+
+//Mengru: "啊啊啊啊啊啊啊啊啊啊"
+
+Mengru: "AAAAAAAAAAAA"
+
+//Reimu: "别叫了混蛋！我的头好疼！！"
+
+Reimu: "Stop screaming, you asshole! I've got a headache!!"
+
+
+---------------
+Wake up
+---------------
+
+//Reimu: "最近老是做奇怪的梦，居然有人要替代我当巫女……哈欠……我还巴不得呢，这么麻烦的职位……"
+
+Reimu: "I just had a strange dream, someone wanted to take my place as shrine maiden…yawn… It still makes me anxious, what an inconvenient situation."
+
+//Reimu: "几点了……？"
+
+Reimu: "What time is it…?"
+
+//Reimu: "十二点了啊……继续睡觉吧"
+
+Reimu: "It's midnight… Well, I'm going back to sleep."
+
+//Reimu: "............."
+
+Reimu: "............."
+
+//Reimu: "【看看外面的天空】"
+
+Reimu: "<looks outside at the sky>"
+
+//Reimu: "总觉得哪里不对劲，会不会又是那个家伙搞出来的异变……"
+
+Reimu: "I always feel like something isn't right, is that guy going to go out and cause an incident again…"
+
+=== CHOICE SELECT ===
+'1. Make them do it, the old woman is tired'
+
+'2. I know, lets go out and look…'
+
+=== FIRST OPTION ===
+//Reimu: "要是放着不管的话……指不定又能给老娘捅出什么大娄子来……"
+
+Reimu: "If I leave her alone… you never know what sort of things that old hag is gonna pull off…"
+--- RETURN TO CHOICE SELECT ---
+
+=== SECOND OPTION ===
+//Reimu: "算了，还是出去看看吧……"
+
+Reimu: "Okay, I should still go out and look…"
+
+====================
+REIMU STAGE 2
+====================
+Before Stage
+---------------
+
+//Reimu: "真是烦死人了，还没睡醒就要人做这么累的工作，这时段不会又是永远亭那边搞鬼吧？"
+
+Reimu: "What a truly annoying person, if I hadn't woken up I wouldn't be so tired for work, I better not have to beat up those idiots back in Eientei again!"
+
+//Reimu: "先去哪里呢？"
+
+Reimu: "Where should I go?"
+
+=== CHOICE SELECT ===
+'1. Kourindou'
+
+'2. Bamboo Forest of the Lost'
+
+=== FIRST OPTION ===
+//Reimu: "算了，还是去近的地方看看好了。"
+
+Reimu: "Alright, or I could just go outside and take alook."
+
+=== SECOND OPTION ===
+//Reimu: "反正都要经过的，还不如先去香霖堂看看。"
+
+Reimu: "Anyway, I better go to Kourindou first and look there."
+
+
+---------------
+Before First Midboss - Tenshi
+---------------
+
+//Reimu: "天子……为什么会在这里？霖之助呢？"
+
+Reimu: "Tenshi… why are you here? To help Rin?"
+
+//Tenshi: "这样的建筑太脆弱了，我只是稍微玩了一下就坏了~"
+
+Tenshi: "That kind of building is too fragile, I just wanted to play a little, but it broke~"
+
+//Reimu: "你在干嘛？脑子进水了？"
+
+Reimu: "What are you doing? You got water in your brain?"
+
+//Tenshi: "我才不要无聊的生活！所有的一切都应该是为了让我开心才存在的！喝！！"
+
+Tenshi: "I really don't want to live a boring life! So everything should make me feel happy to exist! HA!
+
+//Reimu: "这种状态……已经听不到外界的声音了吗？"
+
+Reimu: "Your condition… You've already stopped listening to the otherworldly voices?
+
+//Tenshi: "躲开吧躲开吧！"
+
+Tenshi: "Let's dodge and weave!"
+
+//Reimu: "既然如此就从你开始退治好了！"
+
+Reimu: "Well if you're going to be like that, I'll just beat you up!"
+
+
+---------------
+Mid-fight 1
+---------------
+
+//Tenshi: "嘿嘿！哈哈哈哈！哈哈哈哈哈哈哈啊！！"
+
+Tenshi: "HEHEHE! AHAHA! AHAHAHAHAHAAAAAAAA!!"
+
+//Reimu: "哈……这家伙的脑子彻底烧坏了吗？"
+
+Reimu: "Hah… Has this kid's brain melted?"
+
+//Tenshi: "你很不错，想不到这种无聊的地方还有你这样的家伙存在，简直太棒了"
+
+Tenshi: "Not bad, I never knew someone like you existed in this boring place, this is amazing!"
+
+//Reimu: "……好吧"
+
+Reimu: "…Okay…"
+
+//Reimu: "多谢夸奖……"
+
+Reimu: "Thanks for the compliment…"
+
+//Tenshi: "那么这样呢？！！！"
+
+Tenshi: "Like this?!!!"
+
+
+---------------
+Mid-fight 2
+---------------
+
+//Reimu: "你闹够了吗！？"
+
+Reimu: "Had enough yet!?"
+
+//Tenshi: "才没有呢！！"
+
+Tenshi: "Ha! Nope!!"
+
+
+---------------
+After Tenshi
+---------------
+
+//Tenshi: "呃啊！！！"
+
+Tenshi: "Uwaaa!!!"
+
+//Reimu: "该不会我还在做梦吧，除了我就没有正常人了？"
+
+Reimu: "Unlike you, I'm not dreaming, is nobody but me normal today?"
+
+
+---------------
+Cutscene - Rinnosuke
+---------------
+
+//Rinnosuke: "哦多……终于让我爬出来了"
+
+Rinnosuke: "Oh, you've finally let me climb out."
+
+//Reimu: "你没事吧？"
+
+Reimu: "Are you okay?"
+
+//Rinnosuke: "哦？原来是博丽神社的巫女小姐，亏您关照，我还活着"
+
+Rinnosuke: "Oh? It's Miss Reimu Hakurei, I am still alive because of your heroics."
+
+//Reimu: "她怎么回事，是不是你在这边搞事？"
+
+Reimu: "What about her, Are you doing something over there?"
+
+//Rinnosuke: "哈哈哈……怎么可能？天子小姐是自己过来的"
+
+Rinnosuke: "Hahaha…how could I? Miss Tenshi came over here herself."
+
+//Reimu: "自己过来的？"
+
+Reimu: "Came over here herself?"
+
+//Rinnosuke: "是啊，刚吃过午饭就地震了，房子塌掉的时候就看见了天上的天子小姐，还没来得及反应就被埋住了~不过天子小姐随便站在高处可不行呢"
+
+Rinnosuke: "Yes, she just caused an earthquake after lunch, when my house collapsed, I saw Miss Tenshi in the heavens, I was buried before I could even react~ but Miss Tenshi casually just stood at the high places and I could see-"
+
+//Reimu: "够了，你这个人妖奸商色情狂"
+
+Reimu: "Enough, you little pervert."
+
+//Rinnosuke: "是半妖哟~"
+
+Rinnosuke: "It's a half-youkai~"
+
+//Reimu: "你要我怎么吐槽？"
+
+Reimu: "Do you want to make me vomit?"
+
+//Rinnosuke: "天子小姐的话……如果我没看错，她一直都在睡觉"
+
+Rinnosuke: "If Miss Tenshi… If I wasn't mistaken, she slept through all that."
+
+//Reimu: "是啊，你真没看错。"
+
+Reimu: "No, you're not mistaken."
+
+//Rinnosuke: "不是的，我是说，从她来的时候的气息，到现在的状态……"
+
+Rinnosuke: "No, as I was saying, from her breathing once she came here, to now, she's…
+
+//Reimu: "你是说……"
+
+Reimu: "Go on…"
+
+//Rinnosuke: "对，这个状态俗称梦游……一定是有谁对她下了手脚……"
+
+Rinnosuke: "Right, she was sleepwalking…and someonewas definitely under her feet…"
+
+//Reimu: "【何止是下了手脚，连我都中招了，看来应该不只是我和天子两个人而已】"
+
+Reimu: "(It's more than her hands and feet. Even I was taken over by that sleepwalking, seems like it's more than just me and Tenshi)"
+
+//Rinnosuke: "嗯？您在想什么？"
+
+Rinnosuke: "Hm? What are you thinking about?"
+
+//Reimu: "没什么，我还有些事要处理，天子就拜托你了"
+
+Reimu: "Nothing, I have a lot of business to attend to, and it seemed that Tenshi just pleased you."
+
+//Rinnosuke: "好的，可是……额……走掉了啊，真是的从来不听人好好吧话说完。真是个急性子呢，与其这样不明就里的找下去，还不如去问问那位大人。"
+
+Rinnosuke: "Okay, but… ugh… go away, I was never actually listening until you finished talking. You're such an acute child, and if you're going to look for it in that way, it's better to go ask that person."
+
+
+//Reimu: "接下来做什么呢？"
+
+Reimu: "Where should I go next?"
+
+=== CHOICE SELECT ===
+'1. Continue to the Lost Bamboo Forest'
+
+'2. Go back'
+
+=== FIRST OPTION ===
+//Reimu: "继续前进，去迷途竹林看看吧。"
+
+Reimu: "I'm going to continue into the Bamboo Forest of the Lost."
+
+=== SECOND OPTION ===
+//Reimu: "要是现在回去，跟琪露诺有什么区别？"
+
+Reimu: "If I go back now, I'd be stooping down to Cirno's level."
+
+
+---------------
+Before Second Midboss - Mokou
+---------------
+
+//Mokou: "啊啊啊啊！不是的！！不是的！！！！"
+
+Mokou: "AAAAAA! NO!! NO!!!!"
+
+//Reimu: "今天幻想乡变成疯人院了吗？拜托让我遇见一个正常人好不好？你，能让让道吗？"
+
+Reimu: "Gensokyo's become a mental institution today, huh? It would make me so happy if I could meet a normal person, okay?"
+
+//Mokou: "你也是吗？我并不是那样的想法！辉夜！！都是因为她！"
+
+Mokou: "You, too? I'm not thinking like that at all! KAGUYA!! THIS IS ALL YOUR FAULT!
+
+//Reimu: "额，比起辉夜我还更喜欢魔理沙呢~在我不想解异变的时候"
+
+Reimu: "Uh, I prefer Marisa to Kaguya for when I'm not in the mood to solve incidents."
+
+
+---------------
+Mid-fight
+---------------
+
+//Mokou: "谁来弄死我！！！！！"
+
+Mokou: "SOMEBODY KILL ME!!!!"
+
+//Reimu: "我来弄死你！！！！！"
+
+Reimu: "I'M GOING TO KILL YOU!!!!"
+
+
+---------------
+After Mokou
+---------------
+
+//Mokou: "额………………"
+
+Mokou: "Ugh…"
+
+//Reimu: "好像下手太重了呢~不过，你也能安安静静的睡一觉了呢"
+
+Reimu: "Seems like that was too much~ but, now you can at least go to sleep peacefully."
+
+//Mokou: "我已经后悔了呢……我并不想毁掉你"
+
+Mokou: "I already regret this… I don't want to destroy you at all."
+
+//Reimu: "我可是只听说过有蓬莱之药，没有后悔药哦~"
+
+Reimu: "But I only heard you say you had the elixir of immortality, not the elixir of regret~"
+
+//Mokou: "......."
+
+Mokou: "......."
+
+
+---------------
+Before Boss - Kaguya
+---------------
+
+//Kaguya: "如果永远活着，跟死去有什么区别？本来就生活在噩梦中的人，还会惧怕噩梦吗？"
+
+Kaguya: "If I am an eternal being, am I no different from being dead? At first, I felt like I was living a nightmare, but don't I still fear nightmares?"
+
+//Reimu: "额……你听的见我说话吗？"
+
+Reimu: "Uh… Did you not hear what I said?"
+
+//Kaguya: "你觉得我像是聋子或者瞎子吗？博丽的巫女"
+
+Kaguya: "You think I am like a donkey or a baby, right, Reimu Hakurei?"
+
+//Reimu: "不像"
+
+Reimu: "No?"
+
+//Kaguya: "算了，你只是我梦境中的幻像罢了，我没有必要纠结你的态度"
+
+Kaguya: "I know, you are just my illusionary dreamland, I don't need your attitude."
+
+//Reimu: "【果然还是在做梦吗？】"
+
+Reimu: "(Of course, you're still dreaming, right?)"
+
+//Kaguya: "藤原家的小姑娘终究还是小姑娘，竟然会因为噩梦而失去心智，哼~算了，终究是我的梦，博丽的巫女啊，你愿意听我说一点闲话吗？"
+
+Kaguya: "The little Fujiwara girl is, after all, still a mere child, and I'm going to lose my mind because of this nightmare she put me through, oh~ I see, this IS a dream. Hakurei Shrine Maiden, did you intend to eavesdrop while I talked in my sleep?"
+
+//Reimu: "你说吧？【为何今天感觉那么脱力- -】"
+
+Reimu: "What?" (Why is everything so off today- -)
+
+//Kaguya: "如果一个人拥有永久的生命，那她会抱着这样的心态活下去呢？"
+
+Kaguya: "If someone pursues eternal life, this is the kind of mentality they are left with."
+
+//Reimu: "呃……嗯……不知道……？"
+
+Reimu: "Uh… yes… I didn't know…?
+
+//Kaguya: "那就让我来告诉你吧。"
+
+Kaguya: "Now I shall teach you what it means."
+
+
+---------------
+Mid-fight
+---------------
+
+//Kaguya: "怎么样？理解了吗？"
+
+Kaguya: "How about now? Do you understand now?"
+
+//Reimu: "大概吧……"
+
+Reimu: "Probably…"
+
+//Kaguya: "你似乎有事要问我？那就再回答我一个问题吧"
+
+Kaguya: "It seems that there is still something you want to ask me? Then I shall respond to your question."
+
+
+---------------
+After Boss
+---------------
+
+//Kaguya: "你的答案让我十分满意"
+
+Kaguya: "Your answer made me feel satisfied for 10 minutes."
+
+//Reimu: "那真是太好了……"
+
+Reimu: "Yeah, great…"
+
+//Kaguya: "那么看来这并不是梦境呢"
+
+Kaguya: "Well it seems this really was not a dream after all."
+
+//Reimu: "你……"
+
+Reimu: "You…"
+
+//Kaguya: "我早就说过，对于时刻生活在噩梦中的人，噩梦什么的，有什么好可怕的呢？博丽的巫女，我问你，是不是来寻求解决之道的"
+
+Kaguya: "A long time ago I once thought, 'for those who are living nightmares, what is the nightmare, and what makes it fearful?' I ask you, have you come to seek the answer to that question?"
+
+//Reimu: "一开始是，现在只想把精神病退治掉，这样我就清静了"
+
+Reimu: "Once I started, yes, but now I can only think of defeating you, and then I shall be at peace."
+
+//Kaguya: "接下来你该怎么做呢？如果不快一点，说不定黑白的魔法使又要抢先了"
+
+Kaguya: "What shall you do now? If you do not act fast, the black and white magician could be the first to solve the incident."
+
+//Reimu: "呵呵，她说不定在做偷东西被抓住的噩梦吧，让她平时给我添麻烦来着。我已经知道是哪个麻烦的家伙搞的鬼了"
+
+Reimu: "Aah, She might even end up stealing the nightmares away, she's always giving me trouble! I already know the person who could cause this kind of incident."
+
+//Kaguya: "哦？你那么肯定？"
+
+Kaguya: "Oh? And how can you be so sure?"
+
+//Reimu: "靠直觉！"
+
+Reimu: "Intuition!"
+
+
+====================
+REIMU STAGE FINAL
+====================
+Before Midboss #1 - Chen
+---------------
+
+//Chen: "博丽的巫女！不会让你从这里过去的！"
+
+Chen: "Hakurei Shrine Maiden! I'll make sure you don't get any farther!"
+
+//Reimu: "……"
+
+Reimu: "……"
+
+//Chen: "不许无视我"
+
+Chen: "Don't ignore me!"
+
+//Reimu: "……"
+
+Reimu: "……"
+
+//Chen: "我生气啦！！！！"
+
+Chen: "You're making me angry!!!!"
+
+
+---------------
+Chen's Defeated
+Before Midboss #2 - Ran Yakumo
+---------------
+
+//Chen: "救命啊！！城管暴力执法啦！！！"
+
+Chen: "Help me!! Police brutality!!!"
+
+//Ran: "请住手好吗？博丽的巫女萨马！"
+
+Ran: "Please stop, Miss Hakurei Shrine Maiden!"
+
+//Reimu: "我可是收到投诉了，你们搞事之前最好已经做好了挨揍的觉悟~还有！叫你们家大人出来"
+
+Reimu: "But I've received a complaint, you need to understand what you're doing before you do things~ AND! Call your master out here!
+
+//Ran: "这是八云紫大人的计划，在计划尚未完结的时候……没有任何人可以通过这里。"
+
+Ran: "These are Master Yukari Yakumo's instructions: until the plan it completed, guests are forbidden entry."
+
+//Reimu: "你们给我搞清楚，每次出了事都是老凉收拾烂摊子，能不能考虑一下别人的感受！"
+
+Reimu: "Let me make this clear, every time something goes wrong, I gotta clean up the mess. Can you not consider how everyone else is affected?"
+
+//Ran: "对不起，不能。"
+
+Ran: "My apologies, I cannot."
+
+//Reimu: "FUCK♂YOU！"
+
+Reimu: "FUCK♂YOU！"
+
+
+---------------
+Ran's Defeated
+Before Boss - Yukari Yakumo
+---------------
+
+//Ran: "博丽神社的巫女……名不虚传……"
+
+Ran: "Shrine Maiden of the Hakurei Shrine… What a well-deserved title…"
+
+//Reimu: "把八云紫叫出来！！！我要让她体验一下执法者的怒火！！！"
+
+Reimu: "Now call out Yukari Yakumo!!! I want to experience the fury of a peacekeeper!!!"
+
+//Yukari: "哟~"
+
+Yukair: "Yo~"
+
+//Reimu: "哟你妹。"
+
+Reimu: "'Yo' yourself."
+
+//Yukari: "灵梦你果然还是这么不可爱的孩子呢~"
+
+Yukari: "Reimu, clearly still as pouty of a brat as ever~"
+
+//Reimu: "去你的孩子！你全家都是孩子！！！"
+
+Reimu: "YOU'RE the brat! Everyone here is a brat!!!"
+
+//Yukari: "别着急，小巫女，能听我说完吗？到时候在让你感受一下'第二个神奇之处'。"
+
+Yukari: "Don't fuss over it, little shrine maiden, will you let me finish speaking? Afterwards I shall let you experience 'The Second Magic'."
+
+//Reimu: "意味不明，你到底在说些什么？"
+
+Reimu: "What is that, what are you saying?
+
+//Yukari: "你知道吗？噩梦是这个世界上最能唤起内心深处，平时掩盖着的恐惧，的事物，想想看，那么多真实的恐惧，多么令人兴奋啊！"
+
+Yukari: "Do you know? Nightmares are the best evokers of inner self this world has to offer. So many fearful things, as you have seen. So many authentic insecurities. How exciting!"
+
+//Yukari: "把这些恐惧放到阳光下，让所有人知道并且正视他们，我觉得我真是个伟大的圣人。"
+
+Yukari: "If you put these fears in broad daylight, it will help everyone truly face their fears. I think that clearly makes me rather saintly."
+
+//Reimu: "我觉得你真是个恶心的变态……"
+
+Reimu: "I think it makes you rather evil…"
+
+//Yukari: "无所谓了，这是第一个神奇之处。"
+
+Yukari: "Nevermind, This is The First Magic."
+
+//Reimu: "那传说中的第二个呢？"
+
+Reimu: "What about the second one?"
+
+//Yukari: "那就让你好好见识见识吧！第二个神奇之处！！"
+
+Yukari: "Well then I'll make you experience that then! The Second Magic!!"
+
+
+---------------
+Mid-fight
+---------------
+
+//Reimu: "额……"
+
+Reimu: "Uh…"
+
+//Yukari: "怎么样？有没有感受到第二个神奇之处~没错，噩梦产生恐惧，恐惧刺激挣扎，而挣扎时的人，比平时的他更加厉害。"
+
+Yukari: "How about it? Can you feel The Second Magic~ not bad! Nightmares lead to fear, fear leads to a struggle, and when a person struggles, they become more powerful than they were before."
+
+//Yukari: "没错，噩梦产生恐惧，恐惧刺激挣扎，而挣扎时的人，比平时的他更加厉害。"
+
+Yukari: "Not bad! Nightmares lead to fear, fear leads to a struggle, and when a person struggles, they become more powerful than they were before."
+
+//Reimu: "你给我适可而止一点！！到底是什么玩意儿！！"
+
+Reimu: "Alright, stop for a minute!! What the hell is this!!
+
+//Yukari: "出来见见你的新朋友吧~梦沙罗酱~"
+
+Yukari: "Come out and meet Reimu, my new friend~ Mengshaluo~"
+
+//Reimu: "……！"
+
+Reimu: "……！"
+
+//Mengshaluo: "灵……灵梦小姐对吧？初次见面，请……请不要欺负我……"
+
+Mengshaluo: "Miss… Miss Reimu? Nice to meet you. Please… please don't hurt me!
+
+//Reimu: "……！"
+
+Reimu: "……！"
+
+//Yukari: "她可是新人哦，我刚带回来的，很擅长让人做噩梦，有趣吧？"
+
+Yukari: "She is new here, I just brought her here, and she's very good at giving people nightmares. Interesting, right?"
+
+//Yukari: "回来吧梦沙罗酱，让我们来为巫女小姐展示一下，什么叫做恐惧~"
+
+Yukari: "Come back, Mengshaluo, come out and show us how you evoke fear~"
+
+//Mengshaluo: "是……是的，八云紫大人。"
+
+Mengshaluo: "Y…yes, Master Yukari Yakumo."
+
+
+---------------
+After Boss
+---------------
+
+//Yukari: "果然是灵梦呢~我看重的孩子，今天就玩到这里吧……"
+
+Yukari: "Of course, this is Reimu~ My important child. We will play in here."
+
+//Mengshaluo: "八云紫大人！"
+
+Mengshaluo: "Master Yukari Yakumo!"
+
+//Reimu: "老不正经的，自己恶作剧还要拉上不相关的人，活该！你起来，看我不撕了你的脸！"
+
+Reimu: "How unfair, you have to bring in unsuspecting people to help you with your own schemes, god! Let's see if I can't tear off your face!"
+
+//Mengshaluo: "不要啊灵梦小姐！紫大人好像晕过去了！是我忘了告诉她虽然被我附身能增加力量但是也是很消耗体力的呀！"
+
+Mengshaluo: "No, Miss Reimu! It looks like Master Yukari fainted! I forgot to tell her that while I increase people's powers while they're possessed by me, a lot of power is consumed!"
+
+//Reimu: "没事，我还没使出我的家电还魂手……"
+
+Reimu: "It's okay, my home appliances don't have souls."
+
+//Mengshaluo: "不要啊！！！"
+
+Mengshaluo: "No it's not okay!!"

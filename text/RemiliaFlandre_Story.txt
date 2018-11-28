@@ -1,0 +1,579 @@
+
+====================
+REMILIA-FLANDRE STAGE 1
+====================
+Before Stage
+---------------
+
+//Remilia: "这里是……"
+
+Remilia: "This is…"
+
+//Remilia: "红魔馆……不……不可能。"
+
+Remilia: "The Scarlet Devil Mansion… no… it couldn't be."
+
+//Remilia: "胆子不小啊……"
+
+Remilia: "I'm not afraid…"
+
+//Flandre...?: "姐姐……姐姐大人……姐姐大人……"
+
+Flandre...?: "Sis… big sister… big sister…"
+
+//Remilia: "芙兰？是芙兰吗？！"
+
+Remilia: "Flan? Was that Flan?!"
+
+//Flandre...?: "姐姐大人……"
+
+Flandre...?: "B i g s i s t e r…"
+
+//Remilia: "芙兰！"
+
+Remilia: "Flan!"
+
+
+---------------
+Before Boss - Flandre Scarlet...?
+---------------
+
+//Flandre...?: "姐姐大人……"
+
+Flandre...?: "B i g s i s t e r…"
+
+//Remilia: "芙兰！！在哪里别动，我……我马上就过去！"
+
+Remilia: "Flan!! Don't move a muscle, I…I'll come get you!"
+
+//Flandre...?: "姐姐大人……都是因为姐姐大人……我老是被关在家里。"
+
+Flandre...?: "Big sister…It's all because of big sister…that I'm always locked up at home."
+
+//Remilia: "芙兰……你……"
+
+Remilia: "Flan… you…"
+
+//Flandre...?: "我想出去！姐姐大人！！我不要被关起来！！！"
+
+Flandre...?: "I want to go outside! Big sister!! I don't want to be locked up!!!"
+
+//Remilia: "芙兰……芙兰你冷静一点……"
+
+Remilia: "Flan… Flan you need to calm down…"
+
+//Flandre...?: "呵呵呵呵~只要杀掉姐姐大人就好了……这样我就可以出去了！"
+
+Flandre...?: "Ahahaha~ As long as I kill big sister everything will be fine… Then I can go outside!"
+
+//Remilia: "芙兰……我是……我是为了你……"
+
+Remilia: "Flan… I was… I was doing this for you…"
+
+//Flandre...?: "够了！！我不要再被关起来，要是姐姐大人消失，我就能出去了！！"
+
+Flandre...?: "Enough!! I don't want to be locked up anymore, as long as big sister is gone, I can leave!!"
+
+
+---------------
+After Boss
+---------------
+
+//Remilia: "芙兰朵露！！！！！！！"
+
+Remilia: "Flandre!!!!!!!"
+
+//Flandre...?: "姐姐大人！！！！！！"
+
+Flandre...?: "Big sister!!!!!!"
+
+
+---------------
+Wake up
+---------------
+
+//Remilia: "可恶，这是怎么回事？明明什么都没发生，只是一个梦，不过这种强烈的不安感是怎么回事？"
+
+Remilia: "Curses, what's going on? Clearly it was just a dream, none of that happened, but what in hell is this strong, uneasy feeling?"
+
+//Remilia: "【咚咚咚】"
+
+Remilia: "<Knock knock knock>"
+
+//Remilia: "【门被敲响了】"
+
+Remilia: "(Someone knocks on the door)"
+
+//Remilia: "进来吧！"
+
+Remilia: "Come in!"
+
+//Flandre: "姐姐大人！"
+
+Flandre: "Big sister!"
+
+//Flandre: "【某人迅速窜到了床上 一头撞进了蕾米莉亚的被子里 用被子捂着头 瑟瑟发抖】"
+
+Flandre: "<Someone quickly fell into Remilia's bed, bumping into her. Trembling, she hid under Remilia's quilt.>"
+
+//Remilia: "芙兰！你怎么……"
+
+Remilia: "Flan! Why are you…"
+
+//Flandre: "姐姐大人，好可怕……出事了……"
+
+Flandre: "Big sister, I'm scared… Something bad happened…"
+
+//Remilia: "别怕别怕，姐姐就在身边哟~芙兰乖~告诉姐姐发生了什么？"
+
+Remilia: "It's okay, it's okay, big sister's here~ Flan-chan~ can you tell me what happened?"
+
+//Flandre: "我做了个梦……"
+
+Flandre: "I had a dream…"
+
+//Remilia: "芙兰做了一个什么样的梦呢？"
+
+Remilia: "Flan, what kind of dream did you have?"
+
+//Flandre: "我梦到我变得很可怕……不知道为什么，一心想和姐姐大人战斗。"
+
+Flandre: "I dreamt that I became really scary… I don't know why but I wanted to fight you."
+
+//Remilia: "【难道这孩子……？】"
+
+Remilia: "（There is no way that this child…?):
+
+//Remilia: "【轰隆！！！】"
+
+Remilia: "<BANG!!!>"
+
+//Remilia: "【门外传来了巨大的响动】"
+
+Remilia: "<A loud noise was heard from behind the door>"
+
+//Flandre: "我们……要出去看看吗？"
+
+Flandre: "Should we… go outside and see what that was?"
+
+=== CHOICE SELECT ===
+'1. Go out and look by yourself'
+
+'2. Go out with Flandre and look together'
+
+=== FIRST OPTION ===
+//Flandre: "我不要和姐姐大人分开！"
+
+Flandre: "I don't want to be separated from you!"
+--- RETURN TO CHOICE SELECT ---
+
+=== SECOND OPTION ===
+//Remilia: "走吧芙兰，我们一起出去看看！"
+
+Remilia: "Let's go, Flan, We'll go outside and look together!
+
+//Flandre: "好！不过姐姐大人要和我一起穿可爱的衣服出去吧~"
+
+Flandre: : "OK! But I want to dress up in cute clothes with my big sister before we go outside~"
+
+//Remilia: "要是红魔馆的馆主太可爱的话，咲夜会很困扰吧？我觉得还是威严一点好。"
+
+Remilia: "If the master of the Scarlet Devil Mansion is seen wearing cute clothes, that would bother Sakuya, wouldn't it? I think I'll wear something a little more majestic."
+
+//Flandre: "那姐姐大人帮我挑衣服嘛。"
+
+Flandre: "Well big sister, help me pick out some clothes."
+
+//Remilia: "我真是拿你一点办法都没有。" //This is really weird grammar
+
+Remilia: "That didn't take much effort."
+
+
+====================
+REMILIA-FLANDRE STAGE 2
+====================
+Before Stage
+---------------
+
+//Remilia: "馆内也安静的过头了，我可不记得有给这些仆人放假哦，"
+
+Remilia: "It's extremely quiet in the mansion, I don't remember giving the servants time off…"
+
+//Remilia: "走吧芙兰我们可要拿出馆主的威严，破例在今天好好的视察一下馆内的工作情况呢。"
+
+Remilia: "Come, Flan, we shall exercise our duty as the majestic lords of the mansion and investigate this unsightly exception today in our magnificent mansion."
+
+//Flandre: "姐姐现在的着装也能勉强算一个红白解决异变了吧？"
+
+Flandre: "Sister, the dress you're wearing now makes you look like that red and white problem-solver, huh?"
+
+//Remilia: "可不是解决异变哦芙兰，一切都是因为命运。"
+
+Remilia: "But we're not solving the problem, Flan, the problem will change because of fate."
+
+
+---------------
+Before Midboss #1 - Patchouli Knowledge
+---------------
+
+//Flandre: "帕奇~好难得居然从图书馆出来了。"
+
+Flandre: "Patchy~ It's so hard to pass through the library."
+
+//Remilia: "等一下，有点不对劲……"
+
+Remilia: "Wait, something isn't right…"
+
+//Patchouli: "是你们……撰写的《魔女之槌》…"
+
+Patchouli: "It is you…who wrote 'Malleus Maleficarum'…"
+
+//Remilia: "啊，我们俩可不是教士是吸血鬼姐妹哦。果然连帕奇也……"
+
+Remilia: "Ah, the two of us are not priests, we are vampire sisters. Perhaps even Patchy…"
+
+//Flandre: "哈哈哈~帕奇看样子不认识我们了呢~可以用弹幕让她想起来吗？"
+
+Flandre: "Ahahaha~ Patchy looks like she's never met us~ Can we use danmaku to make her remember?"
+
+//Patchouli: "你们该死！！！"
+
+Patchouli: "Fuck you!!!"
+
+//Flandre: "来吧帕奇，继续昨天的魔法的游戏吧。"
+
+Flandre: "Come on, Patchy, let's continue the magic game from yesterday."
+
+
+---------------
+After Midboss
+---------------
+
+//Patchouli: "疼疼疼，我怎么……啊……咳咳咳…呼吸！……氧气……"
+
+Patchouli: "Ow ow ow, how did I… ah… cough cough cough… breathe! …air…"
+
+//Remilia: "不是都说了老年人太激动了对身体不好嘛？你也太激动了，不过总算恢复"
+
+Remilia: "Well don't they say that it's bad for an old person's body to get too excited? You're too excited, but you've at least recovered, right, Patchy?"
+
+//Flandre: "呼吸机！呼吸机！！！！"
+
+Flandre: "Ventilator! Ventilator!!!"
+
+//Patchouli: "................"
+
+Patchouli: "................"
+
+//Remilia: "看着个样子帕奇是不会知道什么了，芙兰我们把帕奇安顿一下再出去看看吧。"
+
+Remilia: "It looks like this version of Patchy couldn't know anything, Flan, after we help Patchy settle down, let's keep looking."
+
+
+---------------
+Before Midboss #2 - Hong Meiling
+---------------
+
+//Flandre: "发现了野生的偷懒门卫！莱瓦……"
+
+Flandre: "There's that crazy, lazy gatekeeper! Leval…"
+
+//Meiling: "妹妹大人！是我啊……"
+
+Meiling: "Young mistress, it is I…"
+
+//Remilia: "美玲？你……"
+
+Remilia: "Meiling? You…"
+
+//Meiling: "大小姐！！？居然和妹妹大人一起出门？……连你们也被感染了？"
+
+Meiling: "Mistress!!? You're actually going out with the young mistress?…Have you been infected, too?"
+
+//Remilia: "不是的……美玲"
+
+Remilia: "No… Meiling."
+
+//Meiling: "啊啊！虽然我只是一个门卫但是也要尽到保护主人的义务，得罪了，大小姐，妹妹大人"
+
+Meiling: "Aah! I may be just a lowly gatekeeper, but I'm also obligated to protect the masters! Forgive me, mistress and young mistress."
+
+//Remilia: "……七曜过后是七彩吗?"
+
+Remilia: "…After dealing with the seven elements we fight the seven colors?"
+
+//Flandre: "我也是有彩色属性的啊【翅膀】"
+
+Flandre: "I have colorful attributes, too (wings)"
+
+//Remilia: "我说的是彩虹的七彩啦"
+
+Remilia: "Well, I was referring to a rainbow's seven colors."
+
+
+---------------
+After Midboss #2
+---------------
+
+//Meiling: "对不起！我以为大小姐和妹妹大人也被那东西感染到梦游了！"
+
+Meiling: "I'm sorry! I thought mistress and young mistress were infected with that sleepwalking thing!"
+
+//Remilia: "你居然没事，因为没睡着？果然白天打盹儿是因为夜猫子属性嘛，看样子可以给你安排全日制……不…加上全年无休呢！"
+
+Remilia: "You think this is alright because you're not actually asleep? Of course, you might nap during the day but we're lucky this predator lurks in the night, it seems you can arrange for a full-time…no, an endless, year-round position!
+
+//Meiling: "大小姐……不是这样的，您和妹妹大人来之前就有一些精神恍惚的妖怪和馆内的女仆像梦游一样四处游荡，所以我才睡不着的啊。"
+
+Meiling: "Mistress… that's not what I mean, before you and the young mistress came, the mansion's maids and several unconscious youkai started wandering around as if they were sleepwalking, so I couldn't sleep."
+
+//Remilia: "……好吧，，帕奇在馆内休息，我和芙兰去调查一下，洋馆就拜托你和咲夜了。走吧芙兰"
+
+Remilia: "…Okay, Patchy is resting in the library, Flan and I shall investigate further, and I request both you and Sakuya to stay in the mansion. Let's go, Flan."
+
+//Meiling: "大小姐和妹妹大人……真的关系变好了啊。"
+
+Meiling: "Mistress and young mistress…your relationship is getting better."
+
+
+---------------
+Before Boss - Cirno
+---------------
+
+//Cirno: "老凉今天……可是解放了自己的力量！！！乃们只有被审判的火焰化成渣渣！哈哈哈哈哈哈哈哈"
+
+Cirno: "It's very cold today…and it's amplifying my strength! They must now face the trial of flames bursting into cinders! HAHAHAHAHAHAHAHA"
+
+//Flandre: "欸嘿嘿~你不是我的野餐临时冰点储存机吗，怎么变成活体烤架啦。"
+
+Flandre: "Ehehe~ You're not my picnic thermos, are you? How about becoming my grill?"
+
+//Remilia: "按照惯例不是应该做噩梦吗？难道因为这家伙是笨蛋？反而变成了中二病。"
+
+Remilia: "Following the pattern, should you not be having a nightmare? Is it because this child is stupid? Or maybe she's become ill."
+
+//Flandre: "快让我把你也变成甜点吧，加上咲夜特制的草莓炼乳，酸酸甜甜的。"
+
+Flandre: "Let me turn you into a dessert, then I'll add some of Sakuya's specially made strawberry condensed milk! it's sweet and sour!"
+
+//Cirno: "哼，好啊！老凉就让你们见识见识！为了大酱！！！"
+
+Cirno: "Hmph, okay! Old cold's gonna make you see! For the soybean paste!"
+
+
+---------------
+After Boss
+---------------
+
+//Cirno: "最强的老凉果然就是不一样，还有别人特别来叫醒……疼疼疼……"
+
+Cirno: "You're not like the strongest, miss Old Cold, And everyone still calls me sober… Ow ow ow…"
+
+//Flandre: "天太热的话可以把她抓回洋馆呢~"
+
+Flandre: "If it's too hot we can just drag her back to the mansion~"
+
+//Remilia: "要是变得吵闹的话，帕奇会不高兴的哦，咲夜也会增加工作呢"
+
+Remilia: "If she becomes noisy, then Patchy won't be happy, and Sakuya won't work as hard."
+
+//Flandre: "接下来我们去哪里呢姐姐大人，要不去看看博丽的巫女那里？"
+
+Flandre: "Where will be go next, big sister? Want to go see the Hakurei shrine maiden?"
+
+//Remilia: "不用了，居然能让这种笨蛋也变得异常，命运已经告诉我该去哪里了。"
+
+Remilia: "We don't need to, actually fate this idiot has become abnormal, and fate has told me where we should go next."
+
+//Flandre: "我倒是更喜欢异常的笨蛋呢，更加的结实，美味且有趣-V-"
+
+Flandre: "I prefer the abnormal idiot, so fake, sturdy, delicious, and interesting -v-"
+
+====================
+REMILIA-FLANDRE STAGE 3
+====================
+Before Midboss #1 - Chen
+---------------
+
+//Chen: "别过来！我可是制胜的法宝在手哦！"
+
+Chen: "Don't come any closer! I have a magic weapon in my hand that'll help me win!"
+
+//Flandre: "咚咔！！"
+
+Flandre: "Kaboom!!"
+
+//Chen: "作弊啊！你们作弊！！两个打一个不公平。"
+
+Chen: "Hey that's cheating! You cheated! Two versus one isn't even fair!"
+
+//Remilia: "既然觉得不公平就自己退下吧，叫你的主人来，哦不对，是主人的主人吧。"
+
+Remilia: "You can quit since it's not fair, or you can call your master over- or better yet- your master's master."
+
+//Chen: "不行！我可是答应了蓝大人的，要好好锻炼自己！我才不怕你们勒！"
+
+Chen: "No way! I promised Master Ran that I was gonna do it myself! I'm not afraid of you!"
+
+
+---------------
+Chen's Defeated
+Before Midboss #2 - Ran Yakumo
+---------------
+
+//Ran: "住手！"
+
+Ran: "Stop!"
+
+//Chen: "蓝大人TAT"
+
+Chen: "Master Ran TAT"
+
+//Ran: "橙，你做的很好"
+
+Ran: "Chen, you've done very well."
+
+//Remilia: "听说狐狸的迷惑能力很强，不过对我没用哦~还是说？要我用油豆腐收买你？"
+
+Remilia: "I've heard a fox's ability to confuse is very strong, but it'll be useless compared to me~ wouldn't you say? Shall I buy the fox with cooking oil and tofu?"
+
+//Flandre: "呐呐姐姐大人，九条尾巴的'目'是一起让它坏掉好呢还是一个接一个的坏掉好呢？"
+
+Flandre: "Hey, hey, big sister, the 'eye' of the nine tails, should be break them off all at once, or should we break them off one by one?"
+
+//Remilia: "那么好的皮毛坏掉真可惜，芙兰，要好好瞄准尾巴根部哦。"
+
+Remilia: "It would be most unfortunate if such good fur were to be damaged, Flan, you need to aim for the base of the tail instead."
+
+//Ran: "别小看人了，红色的恶魔，"
+
+Ran: "Don't underestimate people, Scarlet Devil."
+
+//Ran: "就凭你们见紫大人还不够格，"
+
+Ran: "That attitude will not be enough for you to see Master Yukari."
+
+//Ran: "我看不久天亮后，你们也只能"
+
+Ran: "I see that soon after dawn, threats are the only things you can dish out."
+
+
+---------------
+Ran's Defeated
+Before Boss - Yukari Yakumo
+---------------
+
+//Ran: "可恶，没想到妹妹也那么厉害……大意了……"
+
+Ran: "Damn, I never expected Chen could stand her own against people like this…good for her…"
+
+//Yukari: "退下吧，蓝，面对夜晚的她们还是很棘手的。"
+
+Yukari: "Fall back, Ran, these two are still quite tricky in the dead of night."
+
+//Remilia: "总算出现了么，可不要跟我解释，你什么都不知道哦~妖怪的贤者"
+
+Remilia: "You finally showed up, don't bother explaining this to me, you know nothing about it~ Youkai Sage."
+
+//Yukari: "让博丽的巫女来解决不是更好，什么时候你也和黑白老鼠一样爱管闲事了呢？"
+
+Yukari: "It would have been better if the Hakurei Shrine Maiden solved the incident, and since when have you been as nosy as that black and white rat?"
+
+//Remilia: "不只是我，你还对我可爱的妹妹也下手了呢，这重罪你明白吗？"
+
+Remilia: "That's not just me, You've started it by hurting my cute little sister, that is a crime, am I clear?"
+
+//Yukari: "你知道吗？恐惧可是可以激发最高的潜能，人也好妖怪也好，我只是对这个很有兴趣罢"
+
+Yukari: "Did you know? Fear makes people rise to their highest potential, people are also good youkai, I am just so interested in this concept."
+
+//Flandre: "我才不要做噩梦呢！姐姐大人别跟她废话了，把她揍回间隙里去！"
+
+Flandre: "I don't want nightmares! Big sister, don't talk nonsense with her, beat her back into her gap!"
+
+//Remilia: "我可没堕落到依靠做噩梦来让自己变得更强，妖怪的贤者，你的行为真是愚蠢至极。听好了，高贵的吸血鬼追求的是纯粹的强大。"
+
+Remilia: "I shall not rely on nightmares to make myself stronger, Youkai Sage. You're acting very silly. The power that a noble vampire pursues is a pure, untainted power."
+
+//Yukari: "果然吸血鬼也和人类一样肤浅呢，难道是因为曾经是人类？没法摆脱腐朽的想法"
+
+Yukari: "Clearly, you vampires are as superficial as humans, is it because you used to be human yourself? You have never cast aside your decaying convictions."
+
+//Yukari: "真是的，你就好好站在命运的长河边静静的观望吧，和你的只知晓破坏的妹妹一起。"
+
+Yukari: "Really, now, you simply stand by the river of destiny, watching it quietly, together with your sister, whose only friend is destruction."
+
+
+---------------
+Mid-fight
+---------------
+
+//Yukari: "看来你们还挺能打啊，我就破例让你看看来自恐惧的力量的源头吧。"
+
+Yukari: "It looks like you're still keeping up, I will make an exception and let you see the source of this fear power."
+
+//Mengshaluo: "紫……紫小姐，为什么突然让我出现啊QAQ，那对姐妹好像会吸血唉。"
+
+Mengshaluo: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they want to suck my blood. I'm… I'm scared!"
+
+//Remilia: "噩梦的源头终于出现了，看起来真没用，我都怀疑的你的眼光了，紫。"
+
+Remilia: "The source of these nightmares has finally appeared, but she seems truly useless, I truly doubt your senses, Yukari."
+
+//Flandre: "姐姐大人，她的紫长发好美哦，真想要呐。"
+
+Flandre: "Big sister, her long, purple hair is pretty, I want it!"
+
+//Mengshaluo: "呀！！！"
+
+Mengshaluo: "YAAAAH!!!"
+
+
+---------------
+After Boss
+---------------
+
+//Yukari: "哎呀，一不小心玩过头了呢，是吧梦沙罗酱~"
+
+Yukari: "Oh my, it seems I overplayed, haven't I, Mengshaluo~"
+
+//Mengshaluo: "明明是紫小姐你不由分说就把我扯进来威胁我的不是吗？"
+
+Mengshaluo: "Yes you have, Miss Yukari, you throw me into the battlefield just to have my life threatened, no?"
+
+//Yukari: "我可什么都不知道哦，锅交给你了~欢迎来到幻想乡。"
+
+Yukari: "I didn't know that would happen, I handed the reins to you~ Anyway, welcome to Gensokyo."
+
+//Remilia: "哎呀……逃走了，嘛姑且算是事情解决了"
+
+Remilia: "Curses… she got away, well, the incident is solved."
+
+//Flandre: "另一个元凶还在呢姐姐大人~"
+
+Flandre: "But the culprit is still here, big sister~"
+
+//Mengshaluo: "不是我……是紫小姐她硬让我做的……"
+
+Mengshaluo: "It's not me… It was Miss Yukari, she made me do it…"
+
+//Remilia: "你知道惹怒我应该怎么赔偿吗？交给灵梦的话，可能会很经常呢~"
+
+Remilia: "You know what would make up for how angry you've made me? If I hand you over to Reimu, you could be here for a while~"
+
+//Flandre: "不嘛姐姐大人，让她做芙兰我的玩具吧！！！！梦沙罗酱不会让我失望吧？你肯定是一个怎么都玩不坏的好、玩、具~对吧~"
+
+Flandre: "Nooo, big sister, make her one of Flan's toys!!!! Mengluosha won't disappoint me! You'll definitely be a fun, unbreakable tooooooy~ dollie~ right?"
+
+//Remilia: "真拿你没办法啊，要好好跟咲夜说哦。"
+
+Remilia: "I'm afraid I cannot do that for you, you will need to talk to Sakuya about that."
+
+//Flandre: "是！姐姐大人！"
+
+Flandre: "Okay! Big sister!"
+
+//Mengshaluo: "紫小姐TAT……"
+
+Mengshaluo: "MISS YUKARI… TAT"
+
