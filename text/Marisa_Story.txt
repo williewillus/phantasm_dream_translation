@@ -8,27 +8,27 @@ Before Stage
 
 //Marisa's Father?: "我的女儿，快回来吧，离开那些妖怪，离开那种乱七八糟的生活，我会为你安排好你的一切……"
 
-Marisa's Father?: "My daughter, come back, leave those youkai, leave that disorderly life, I will make everything better for you…"
+Marisa's Father?: "My daughter, come back, leave those youkai, leave that disorderly life, I will arrange everything for you…"
 
 //Marisa: "不要！我要自由的生活下去！我不想要别人来介入我的生活！我要自己决定！！"
 
-Marisa: "No! I want to live freely! I don't want anyone else getting involved in my life! I want to decide it all for myself!!"
+Marisa: "No! I want to live freely! I don't want anyone else getting involved in my life! I want to decide for myself!!"
 
 //Marisa's Father?: "魔理沙……有些事不是你能够决定的，你也不需要决定，你只需要接受就好了"
 
-Marisa's Father?: "Marisa… There's things you can't decide, things you don't need to decide, you need to understand that, okay?"
+Marisa's Father?: "Marisa… There's things you can't decide, things you don't need to decide, and should just accept, okay?"
 
 //Marisa: "我不接受！！！"
 
-Marisa: "I will not!!!"
+Marisa: "I won't accept them!!!"
 
 //Marisa's Father?: "我说了，这不是能够选择的，你只需要跟我回去就好了"
 
-Marisa's Father?: "Hey, this is not your call to make, you need to come back with me, okay?"
+Marisa's Father?: "I said, this is not your choice to make, you just need to come back with me, okay?"
 
 //Marisa: "谁要跟你回去！讨厌的老头子！"
 
-Marisa: "Who wants to go back with you? Hateful old man!"
+Marisa: "Who wants to go back with you? Annoying old man!"
 
 
 ---------------
@@ -49,7 +49,7 @@ Marisa: "Yes, it has been…"
 
 //Marisa's Mother?: "所以……乖乖的跟你的爸爸回去吧！"
 
-Marisa's Mother?: "So… come back with me and your father!"
+Marisa's Mother?: "So… be a good girl and go back with your father!"
 
 
 ---------------
@@ -58,11 +58,11 @@ Mid-fight
 
 //Marisa: "为什么！！为什么啊！！！妈妈！这是为什么！！靠自己自由的生活下去，你不是这样说的吗！"
 
-Marisa: "Why!? Why!? Mama! Why is this!? You lived freely and independently, Is this not what you talk about!?"
+Marisa: "Why!? Why!? Mother! What is this!? To live freely and independently, is that not what you said to do!?"
 
 //Marisa's Mother?: "因为我觉得我自己想错了！"
 
-Marisa's Mother?: "Because I believe it was a mistake!"
+Marisa's Mother?: "Because I feel that I was wrong to think that!"
 
 //Marisa: "可恶！这到底是怎么回事！！？"
 
@@ -70,7 +70,7 @@ Marisa: "Dammit! What the hell is going on!?"
 
 //Marisa's Mother?: "挣扎是没有用的，魔理沙，这是你的宿命"
 
-Marisa's Mother: "Struggling is useless, Marisa, This is your fate."
+Marisa's Mother: "Struggling is useless, Marisa, this is your fate."
 
 //Marisa: "我不承认！！！不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认……"
 
@@ -83,7 +83,7 @@ After Boss
 
 //Marisa: "妈妈……你……为什么……"
 
-Marisa: "Mama…why are…you…"
+Marisa: "Mother…why are…you…"
 
 //Marisa's Mother?: "……"
 
@@ -91,11 +91,11 @@ Marisa's Mother?: "……"
 
 //Marisa: "妈妈？"
 
-Marisa: "Mama?"
+Marisa: "Mother?"
 
 //Marisa's Mother?: "我很开心哟，我的魔理沙终于成为优秀的魔法使了……"
 
-Marisa's Mother?: "I'm very happy, my Marisa finally has become an excellent magician…"
+Marisa's Mother?: "I'm very happy, my Marisa has finally become an excellent magician…"
 
 //Marisa: "这到底是怎么回事？"
 
@@ -131,7 +131,7 @@ Marisa: "He really isn't there…"
 
 //Marisa: "妈妈！妈妈？！"
 
-Marisa: "Mama! Mama?!"
+Marisa: "Mother! Mother?!"
 
 
 ---------------
@@ -140,7 +140,7 @@ Wake up
 
 //Marisa: "妈妈……"
 
-Marisa: "Mama…"
+Marisa: "Mother…"
 
 //Marisa: "是个梦吗？嗯……要不要出去透透气呢？"
 
@@ -160,7 +160,7 @@ Marisa: ""
 === SECOND OPTION ===
 //Marisa: "还是出去看看吧，说不定发生了什么有趣的事呢"
 
-Marisa: "Or maybe I'll go take a look outside, There might be something interesting going on."
+Marisa: "I should still take a look outside, there might be something interesting going on."
 
 ====================
 MARISA STAGE 2
@@ -170,11 +170,11 @@ Before Midboss #1 - Alice Margatroid
 
 //Alice: "母亲……我一直……在等你"
 
-Alice: "Mother… I've been… waiting for you"
+Alice: "Mother… I've always been… waiting for you"
 
 //Marisa: "你吃错药啦？"
 
-Marisa: "D-did you take some bad medicine?"
+Marisa: "Did you take some bad medicine?"
 
 //Alice: "您根本就不了解我的想法……还有，我今天没吃药。"
 
@@ -194,11 +194,11 @@ Alice: "ENOUGH!"
 
 //Marisa: "呃……"
 
-Marisa: "UH…"
+Marisa: "Uh…"
 
 //Alice: "所以我决定离开，从您身边离开。"
 
-Alice: "So I'm going to leave you, I'm leaving your side."
+Alice: "So I decided to leave, to leave from your side."
 
 //Marisa: "走吧走吧，路上小心~"
 
@@ -206,7 +206,7 @@ Marisa: "Yes, leave, leave, be careful on your way down the road~"
 
 //Marisa: "一惊一乍的，吓我一跳，小心以后嫁不出去DAZE☆。"
 
-Marisa: "Okay you're just scaring me, Don't get married on your way out da-ze!"
+Marisa: "You're scaring me, be careful of not being able to get married in the future da-ze☆."
 
 //Alice: "……"
 
@@ -218,7 +218,7 @@ Marisa: "Wait… you wouldn't want to…"
 
 //Alice: "多说无益，我知道您是不会放我走的，那就只有靠我自己的力量了！！"
 
-Alice: "All this talk is getting nowhere! I know you won't let me leave, so I'll just use my own powers!!"
+Alice: "All this talk is getting nowhere! I know you won't let me leave, so I'll have to rely on my own power!!"
 
 
 ---------------
@@ -227,23 +227,23 @@ Mid-fight 1
 
 //Marisa: "你吃错药啦！！！？谁又踩你尾巴拉！！？"
 
-Marisa: "You did get drugged!!!? Who's ruffled your feathers!!?"
+Marisa: "You did get drugged!!!? Who stepped on your tail!!?"
 
 //Alice: "母亲，我和您一样……没有尾巴~"
 
-Alice: "Mother, we are one and the same… though I have no feathers~"
+Alice: "Mother, we are one and the same… we have no tail~"
 
 //Marisa: "我劝你别没事找事！我现在心情很不好的DAZE☆！"
 
-Marisa: "I advise you not to go hurting people! Right now you've put me in a very bad mood da-ze!"
+Marisa: "You better not to go looking for trouble! I'm in a very bad mood da-ze☆!"
 
 //Alice: "母亲，那是不可能的。"
 
-Alice: "Mother, I wouldn't do that."
+Alice: "Mother, that's impossible."
 
 //Marisa: "谁能告诉我，她到底在说什么。"
 
-Marisa: "Who can tell me what the hell is going on?"
+Marisa: "Someone tell me, what is she saying?"
 
 //Alice: "但是！！！"
 
@@ -255,11 +255,11 @@ Marisa: "you-you-you-you-you-you-you…"
 
 //Alice: "我不会把您弄伤的"
 
-Alice: "I will not even bruise you this time!"
+Alice: "I will not hurt you"
 
 //Marisa: "你说的真好，我竟无言以对…………"
 
-Marisa: "Whatever you say, wow I'm speechless…"
+Marisa: "Excellent words, I don't know how to respond…"
 
 
 ---------------
@@ -268,11 +268,11 @@ Mid-fight 2
 
 //Alice: "真不愧是我的母亲，如此的力量……"
 
-Alice: "You are worthy to be my mother, such power…"
+Alice: "You're my mother alright, such power…"
 
 //Marisa: "我是你大爷……"
 
-Marisa: "I am your grandfather now…"
+Marisa: "I'm your granddad…"
 
 //Alice: "别逗了母亲，我大爷是男的。"
 
@@ -280,7 +280,7 @@ Alice: "Don't be silly, mother, my grandfather is male."
 
 //Alice: "讨厌讨厌讨厌~人家还有魔理沙酱哟~你是我妈妈……不可以不可以的~"
 
-Alice: "I hate it I hate it I hate it~ The other person was Marisa~ Marisa's my mother… That can't be, that can't be!"
+Alice: "I hate it I hate it I hate it~ The other person was Marisa-chan~ You're my mother… That can't be, that can't be!"
 
 //Marisa: "能说说正事吗，比如要打败我什么的。"
 
@@ -345,7 +345,7 @@ Alice: "……"
 
 //Marisa: "不是博丽的巫女还真是对不起你老人家了DAZE☆！！"
 
-Marisa: "I'm not the Shrine Maiden, I'm sorry, you old hag da-ze!!"
+Marisa: "Well I'm sorry for not being the Hakurei Shrine Maiden da-ze☆!!"
 
 //Marisa: "&*%￥%%@#~！！！"
 
@@ -353,7 +353,7 @@ Marisa: "&*%￥%%@#~！！！"
 
 //Alice: "每次都是这样……看来要准备聚会了，嗯。"
 
-Alice: "Every time it's the same…You look like you're ready for a reunion, hm."
+Alice: "Every time it's the same…looks like we'll have to prepare for a gathering, hm."
 
 
 ---------------
@@ -389,7 +389,7 @@ Choice Select #2
 
 //Marisa: "看来真的是异变，我都能感觉到周围飘散出诱人的气息了DAZE☆！"
 
-Marisa: "Seems this really is an incident, I can feel the sense of adventure around me."
+Marisa: "Seems this really is an incident, I can feel a captivating atmosphere all around me daze☆!"
 
 //Marisa: ""
 
@@ -418,11 +418,11 @@ Before Midboss #2 - Satori Komeiji
 
 //Satori: "怎么回事，为什么？为什么要这样！明明是那么重要的东西！"
 
-Satori: "What is going on, what is this? Why do you want this? That's very important to me!"
+Satori: "What is going on, why? Why are you like this? That was such an important thing!"
 
 //Marisa: "觉？你怎么在这儿？出什么事了？"
 
-Marisa: "Satori? Why are you here? What are you doing?"
+Marisa: "Satori? Why are you here? Is there a problem?"
 
 //Satori: "……"
 
@@ -430,7 +430,7 @@ Satori: "……"
 
 //Marisa: "喂喂喂，你倒是说句话啊，我是来帮忙的DAZE☆。"
 
-Marisa: "Hey, hey, hey! I'm talking to you, I'm trying to help you da-ze."
+Marisa: "Hey, hey, hey! Spek up, I'm trying to help you da-ze☆."
 
 //Satori: "继续狡辩吧，挑唆者，我的眼睛，洞察一切"
 
@@ -438,15 +438,15 @@ Satori: "Continue quarreling with me, challenger, my eye can see everything clea
 
 //Marisa: "挑唆者什么的，完全没有啊，你今天到底怎么了？"
 
-Marisa: "What challenger? I'm not a challenger, what the hell is up with you?"
+Marisa: "What challenger? I'm not a challenger, what's wrong with you today?"
 
 //Marisa: "（看来这家伙搞不好也在做梦。）"
 
-Marisa: "(Looks like this kid might be dreaming, too)"
+Marisa: "(Looks like she might be dreaming, too)"
 
 //Satori: "狡辩是没用的，挑唆者，一定是你挑唆恋闭上了她的觉之眼！事到如今还想安全的回到地上吗？"
 
-Satori: "It's useless fighting back, challenger, I know it was you who closed her third eye! As matters stand, you must go back to the surface quietly."
+Satori: "Rebuttal is useless, challenger, I know it was you who made Koishi close her third eye! And you still want to return safely above ground?"
 
 //Marisa: "既然这样就算是无法交涉了吧~"
 
@@ -454,7 +454,7 @@ Marisa: "Looks like I can't get anywhere like this~"
 
 //Satori: "雕虫小技！"
 
-Satori: "You're inferior!"
+Satori: "Have a sample of my powers!"
 
 
 ---------------
@@ -467,11 +467,11 @@ Marisa: "Pant, pant, pant…"
 
 //Marisa: "【好像下手太重了……】"
 
-Marisa: "(Looks like this it too much for her…)"
+Marisa: "(Looks like I hit too heavily…)"
 
 //Marisa: "【这个家伙就这么晕倒了……】"
 
-Marisa: "(This kid's looking real faint)"
+Marisa: "(She just fainted like that)"
 
 
 ---------------
@@ -480,7 +480,7 @@ Before Boss - Koishi Komeiji
 
 //Marisa: "什么时候出现的？为什么一点感觉都没有~"
 
-Marisa: "Since when have I felt this… this uneasy feeling~?"
+Marisa: "Since when have I felt this… why do I not feel anything~?"
 
 //Koishi: "魔理沙？"
 
@@ -496,7 +496,7 @@ Koishi: "Let's battle!"
 
 //Marisa: "这都是哪儿跟哪儿的？"
 
-Marisa: "Who is that? Where are you?"
+Marisa: "Where is this? With who?"
 
 
 ---------------
@@ -509,7 +509,7 @@ Koishi: "I'm tiiired…"
 
 //Marisa: "完全不知道这个家伙在想什么……呵呵……"
 
-Marisa: "I have absolutely no idea what this kid wants… aa…"
+Marisa: "I have absolutely no idea what this kid wants… hehe…"
 
 //Koishi: "八云紫！！"
 
@@ -521,11 +521,11 @@ Marisa: "Yukari Yakumo?"
 
 //Koishi: "不知道哦，恋恋啊，只是突然想到她了哦，对啦！恋恋闭上眼睛了，不可能做噩梦哦~"
 
-Koishi: "I don't know, I love her, she's only now loved me, right! She lovingly shut my eye, now I can't have nightmares anymore~"
+Koishi: "I don't know. Koishi suddenly thought of her. Right! Koishi shut her eye, so she can't have nightmares anymore~"
 
 //Marisa: "【不知道什么时候起 古明地恋就这么消失 是突然消失了呢？还是说完全没有注意到她的离去呢？】"
 
-Marisa: "(Never knew the Koishi sister could disappear like that. She just poofed! And I didn't even notice that she left?)"
+Marisa: "(I didn't realize that Koishi Komeji just disappeared like that. Did she suddenly disappear? Or did I not notice that she left?)"
 
 //Marisa: "【嘛~谁知道呢？】"
 
@@ -533,7 +533,7 @@ Marisa: "(Ack~ who knows?)"
 
 //Marisa: "【四周都变得空荡荡的 只剩下魔理沙一个】"
 
-Marisa: "(The air is fluttering all around, only Marisa remains)"
+Marisa: "(The surroundings have become empty and still, only Marisa remains)"
 
 //Marisa: "接下来去哪呢？"
 
@@ -541,7 +541,7 @@ Marisa: "Where do I go next?"
 
 //Marisa: "算了，不想了，既然这个家伙提到了八云紫，接下来就去找她吧DAZE☆~！"
 
-Marisa: "I know, I don't want to, but that kid mentioned Yukari Yakumo, I'll go find her next da-ze~!"
+Marisa: "Whatever, let's not think anymore. Since that kid mentioned Yukari Yakumo, I'll just go find her next da-ze☆~!"
 
 ====================
 MARISA STAGE 3
@@ -563,7 +563,7 @@ Chen: "Didn't you know? I'm not the same cat I was yesterday!"
 
 //Marisa: "今天的你……昨天的猫……"
 
-Marisa: "Today you're… Yesterday's cat?"
+Marisa: "The you of today… the cat of yesterday…"
 
 //Chen: "来吧，我来让你好好体会一下这份变化吧！！"
 
@@ -585,7 +585,7 @@ Chen: "Master Ran, help! Robber!!"
 
 //Marisa: "走掉了……是不是我下手太重？"
 
-Marisa: "She ran away… She couldn't handle it?"
+Marisa: "She ran away… did I hit too hard?"
 
 //Ran: "等等！！"
 
@@ -597,11 +597,11 @@ Marisa: "??"
 
 //Ran: "我以为是谁呢~原来是只是个小偷啊，至少……"
 
-Ran: "I thought it was someone else~ It could only be you, you little thief, at least…"
+Ran: "I thought it was someone else~ It was just a little thief, at least…"
 
 //Ran: "至少来的该是个红白配色嘛~"
 
-Ran: "At least it could have been Miss Red-and-White~"
+Ran: "At least it could have been someone in red-and-white~"
 
 //Marisa: "……"
 
@@ -613,7 +613,7 @@ Ran: "What?"
 
 //Marisa: "老娘要把这里夷为平地！！！！！！！"
 
-Marisa: "So the old hag wants to be grounded into the floor!!!!!!!"
+Marisa: "I'm going to raze this place!!!!!!!"
 
 
 ---------------
@@ -627,7 +627,7 @@ Ran: "Master Yukari…"
 
 //Yukari: "客人来了，怎么能不迎接呢？"
 
-Yukari: "A guest has arrived, How come we have not greeted her?"
+Yukari: "A guest has arrived, how come you have not greeted her?"
 
 //Ran: "是的，我知道了。"
 
@@ -635,11 +635,11 @@ Ran: "Yes, I know."
 
 //Yukari: "不错，退下吧……"
 
-Yukari: "Good, now fall back…"
+Yukari: "Good, now withdraw…"
 
 //Yukari: "那边那个愤怒的。"
 
-Yukari: "My, aren't you angry over there?"
+Yukari: "Hey, that angry one over there."
 
 //Yukari: "灵梦哪去了？"
 
@@ -655,7 +655,7 @@ Yukari: "Wow… You're riled up…"
 
 //Marisa: "不许！给老娘！提！灵梦！！！"
 
-Marisa: "I'M NOT! REIMU'S! ESCORT! YOU PURPLE BITCH!!!"
+Marisa: "NO! MENTIONING! REIMU!!!"
 
 
 ---------------
@@ -676,15 +676,15 @@ Musaraku: "She experienced one of my nightmares before, there's still a link bet
 
 //Marisa: "炸平博丽神社！！解决异变得荣耀归于我大魔法使！！"
 
-Marisa: "Fuck the Hakurei Shrine!! I'm going to solve the incident to show off my own great magic!!"
+Marisa: "Fuck the Hakurei Shrine!! The glory of resolving of incidents belongs to me, the great magician!!"
 
 //Yukari: "事到如今你才是异变吧？"
 
-Yukari: "By now aren't you becoming a bit of an 'incident'?"
+Yukari: "By now aren't you the incident?"
 
 //Marisa: "多说无用！承受我大魔法使的怒火吧！！"
 
-Marisa: "Words can't save you now! Face my almighty, magical fury!"
+Marisa: "Don't waste your words! Face the great magician's almighty, magical fury!"
 
 //Yukari: "梦沙罗！开始吧！！"
 
@@ -705,15 +705,15 @@ Marisa: "This… This power!"
 
 //Musaraku: "紫大人……咳咳……不行了……所有的力量都集中到这个疯子身上了"
 
-Musaraku: "Master Yukari… (pant pant)… It's not working… All the power is concentrated in that crazy child's body!"
+Musaraku: "Master Yukari… (pant pant)… I can't… All the power is concentrated on that crazy one's body!"
 
 //Musaraku: "我......我也不明白啊？她真的是人类吗？"
 
-Musaraku: "It… It's not possible! She's only human!"
+Musaraku: "I… I don't understand? Is she really human?"
 
 //Marisa: "我可是！普通而自由的魔！法！使！啊！接招吧噩梦混蛋！！！干掉了你们，我就去找灵梦一决胜负！！"
 
-Marisa: "But! I'm an ordinary, free, MA-GI-CIAN! GOD! Get that nightmare bitch outta here!!! Get the FUCK away from me! I'm going to find Reimu and show her what a goddamn winner looks like!
+Marisa: "I am! I'm an ordinary, free, MA-GI-CIAN! Take my attacks nightmare bitch!!! Once I kill you, I'm going to find Reimu and we'll determine the winner once and for all!
 
 //Yukari: "这究竟是怎么回事？"
 
