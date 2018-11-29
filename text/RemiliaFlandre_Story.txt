@@ -15,7 +15,7 @@ Remilia: "The Scarlet Devil Mansion… no… it couldn't be."
 
 //Remilia: "胆子不小啊……"
 
-Remilia: "I'm not afraid…"
+Remilia: "Whoever did this is quite daring…"
 
 //Flandre...?: "姐姐……姐姐大人……姐姐大人……"
 
@@ -23,7 +23,7 @@ Flandre...?: "Sis… big sister… big sister…"
 
 //Remilia: "芙兰？是芙兰吗？！"
 
-Remilia: "Flan? Was that Flan?!"
+Remilia: "Flan? Is it Flan?!"
 
 //Flandre...?: "姐姐大人……"
 
@@ -44,7 +44,7 @@ Flandre...?: "B i g s i s t e r…"
 
 //Remilia: "芙兰！！在哪里别动，我……我马上就过去！"
 
-Remilia: "Flan!! Don't move a muscle, I…I'll come get you!"
+Remilia: "Flan!! Where are you? Don't move a muscle, I…I'll come get you!"
 
 //Flandre...?: "姐姐大人……都是因为姐姐大人……我老是被关在家里。"
 
@@ -72,7 +72,7 @@ Remilia: "Flan… I was… I was doing this for you…"
 
 //Flandre...?: "够了！！我不要再被关起来，要是姐姐大人消失，我就能出去了！！"
 
-Flandre...?: "Enough!! I don't want to be locked up anymore, as long as big sister is gone, I can leave!!"
+Flandre...?: "Enough!! I don't want to be locked up anymore. If big sister disappeared, I can go out!!"
 
 
 ---------------
@@ -94,11 +94,11 @@ Wake up
 
 //Remilia: "可恶，这是怎么回事？明明什么都没发生，只是一个梦，不过这种强烈的不安感是怎么回事？"
 
-Remilia: "Curses, what's going on? Clearly it was just a dream, none of that happened, but what in hell is this strong, uneasy feeling?"
+Remilia: "Curses, what's going on? Clearly none of that happened and it was just a dream, but what is this strong, uneasy feeling?"
 
 //Remilia: "【咚咚咚】"
 
-Remilia: "<Knock knock knock>"
+Remilia: "(Knock knock knock)"
 
 //Remilia: "【门被敲响了】"
 
@@ -114,7 +114,7 @@ Flandre: "Big sister!"
 
 //Flandre: "【某人迅速窜到了床上 一头撞进了蕾米莉亚的被子里 用被子捂着头 瑟瑟发抖】"
 
-Flandre: "<Someone quickly fell into Remilia's bed, bumping into her. Trembling, she hid under Remilia's quilt.>"
+Flandre: "<Someone quickly flew into Remilia's bed, right into her blankets. Trembling, she hid under Remilia's quilt.>"
 
 //Remilia: "芙兰！你怎么……"
 
@@ -126,7 +126,7 @@ Flandre: "Big sister, I'm scared… Something bad happened…"
 
 //Remilia: "别怕别怕，姐姐就在身边哟~芙兰乖~告诉姐姐发生了什么？"
 
-Remilia: "It's okay, it's okay, big sister's here~ Flan-chan~ can you tell me what happened?"
+Remilia: "It's okay, it's okay, big sister's here~ good girl~ can you tell me what happened?"
 
 //Flandre: "我做了个梦……"
 
@@ -142,15 +142,15 @@ Flandre: "I dreamt that I became really scary… I don't know why but I wanted t
 
 //Remilia: "【难道这孩子……？】"
 
-Remilia: "（There is no way that this child…?):
+Remilia: "（Did she…?):
 
 //Remilia: "【轰隆！！！】"
 
-Remilia: "<BANG!!!>"
+Remilia: "(BANG!!!)"
 
 //Remilia: "【门外传来了巨大的响动】"
 
-Remilia: "<A loud noise was heard from behind the door>"
+Remilia: "(A loud noise was heard from outside the door)"
 
 //Flandre: "我们……要出去看看吗？"
 
@@ -168,7 +168,7 @@ Flandre: ""
 === FIRST OPTION ===
 //Flandre: "我不要和姐姐大人分开！"
 
-Flandre: "I don't want to be separated from you!"
+Flandre: "I don't want to be separated from big sister!"
 --- RETURN TO CHOICE SELECT ---
 
 === SECOND OPTION ===
@@ -188,9 +188,9 @@ Remilia: "If the master of the Scarlet Devil Mansion is seen wearing cute clothe
 
 Flandre: "Well big sister, help me pick out some clothes."
 
-//Remilia: "我真是拿你一点办法都没有。" //This is really weird grammar
+//Remilia: "我真是拿你一点办法都没有。"
 
-Remilia: "That didn't take much effort."
+Remilia: "Oh, what will I do with you."
 
 
 ====================
@@ -201,19 +201,19 @@ Before Stage
 
 //Remilia: "馆内也安静的过头了，我可不记得有给这些仆人放假哦，"
 
-Remilia: "It's extremely quiet in the mansion, I don't remember giving the servants time off…"
+Remilia: "It's too quiet in the mansion, I don't remember giving these servants time off…"
 
 //Remilia: "走吧芙兰我们可要拿出馆主的威严，破例在今天好好的视察一下馆内的工作情况呢。"
 
-Remilia: "Come, Flan, we shall exercise our duty as the majestic lords of the mansion and investigate this unsightly exception today in our magnificent mansion."
+Remilia: "Come, Flan, we shall make an exception and show the our prestige as majestic ladies of the mansion to examine the state of work in the mansion."
 
 //Flandre: "姐姐现在的着装也能勉强算一个红白解决异变了吧？"
 
-Flandre: "Sister, the dress you're wearing now makes you look like that red and white problem-solver, huh?"
+Flandre: "Sister, the outfit you're wearing now makes you kind of count as a red and white incident-solver, huh?"
 
 //Remilia: "可不是解决异变哦芙兰，一切都是因为命运。"
 
-Remilia: "But we're not solving the problem, Flan, the problem will change because of fate."
+Remilia: "But we're not solving an incident, Flan, everything is because of fate."
 
 
 ---------------
@@ -222,7 +222,7 @@ Before Midboss #1 - Patchouli Knowledge
 
 //Flandre: "帕奇~好难得居然从图书馆出来了。"
 
-Flandre: "Patchy~ It's so hard to pass through the library."
+Flandre: "Patchy~ It's rare to see you outside of the library."
 
 //Remilia: "等一下，有点不对劲……"
 
@@ -238,11 +238,11 @@ Remilia: "Ah, the two of us are not priests, we are vampire sisters. Perhaps eve
 
 //Flandre: "哈哈哈~帕奇看样子不认识我们了呢~可以用弹幕让她想起来吗？"
 
-Flandre: "Ahahaha~ Patchy looks like she's never met us~ Can we use danmaku to make her remember?"
+Flandre: "Ahahaha~ Patchy looks like she doesn't know us~ Can we use danmaku to make her remember?"
 
 //Patchouli: "你们该死！！！"
 
-Patchouli: "Fuck you!!!"
+Patchouli: "You deserve to die!!!"
 
 //Flandre: "来吧帕奇，继续昨天的魔法的游戏吧。"
 
@@ -255,11 +255,11 @@ After Midboss
 
 //Patchouli: "疼疼疼，我怎么……啊……咳咳咳…呼吸！……氧气……"
 
-Patchouli: "Ow ow ow, how did I… ah… cough cough cough… breathe! …air…"
+Patchouli: "Ow ow ow, how did I… ah… cough cough cough… breathe! …oxygen…"
 
 //Remilia: "不是都说了老年人太激动了对身体不好嘛？你也太激动了，不过总算恢复"
 
-Remilia: "Well don't they say that it's bad for an old person's body to get too excited? You're too excited, but you've at least recovered, right, Patchy?"
+Remilia: "Don't they say that it's bad for an old person's body to get too excited? You're too excited, but you've at least recovered, right, Patchy?"
 
 //Flandre: "呼吸机！呼吸机！！！！"
 
@@ -271,7 +271,7 @@ Patchouli: "................"
 
 //Remilia: "看着个样子帕奇是不会知道什么了，芙兰我们把帕奇安顿一下再出去看看吧。"
 
-Remilia: "It looks like this version of Patchy couldn't know anything, Flan, after we help Patchy settle down, let's keep looking."
+Remilia: "It looks like this version of Patchy won't know anything, Flan, after we help Patchy settle down, let's keep looking."
 
 
 ---------------
@@ -280,7 +280,7 @@ Before Midboss #2 - Hong Meiling
 
 //Flandre: "发现了野生的偷懒门卫！莱瓦……"
 
-Flandre: "There's that crazy, lazy gatekeeper! Leval…"
+Flandre: "Found a wild lazy gatekeeper! Leval…"
 
 //Meiling: "妹妹大人！是我啊……"
 
@@ -300,7 +300,7 @@ Remilia: "No… Meiling."
 
 //Meiling: "啊啊！虽然我只是一个门卫但是也要尽到保护主人的义务，得罪了，大小姐，妹妹大人"
 
-Meiling: "Aah! I may be just a lowly gatekeeper, but I'm also obligated to protect the masters! Forgive me, mistress and young mistress."
+Meiling: "Aah! I may be just a lowly gatekeeper, but I'm also obligated to protect my masters! Forgive me, mistress and young mistress."
 
 //Remilia: "……七曜过后是七彩吗?"
 
@@ -312,7 +312,7 @@ Flandre: "I have colorful attributes, too (wings)"
 
 //Remilia: "我说的是彩虹的七彩啦"
 
-Remilia: "Well, I was referring to a rainbow's seven colors."
+Remilia: "Well, I was referring to the rainbow's seven colors."
 
 
 ---------------
@@ -325,19 +325,19 @@ Meiling: "I'm sorry! I thought mistress and young mistress were infected with th
 
 //Remilia: "你居然没事，因为没睡着？果然白天打盹儿是因为夜猫子属性嘛，看样子可以给你安排全日制……不…加上全年无休呢！"
 
-Remilia: "You think this is alright because you're not actually asleep? Of course, you might nap during the day but we're lucky this predator lurks in the night, it seems you can arrange for a full-time…no, an endless, year-round position!
+Remilia: "You're alright, because you didn't fall asleep? So you indeed are dozing off during the day to be a night owl. Looks like I can give you a full-time…no…also a whole year without rest!
 
 //Meiling: "大小姐……不是这样的，您和妹妹大人来之前就有一些精神恍惚的妖怪和馆内的女仆像梦游一样四处游荡，所以我才睡不着的啊。"
 
-Meiling: "Mistress… that's not what I mean, before you and the young mistress came, the mansion's maids and several unconscious youkai started wandering around as if they were sleepwalking, so I couldn't sleep."
+Meiling: "Mistress… that's not what I mean, before you and the young mistress came, the mansion's maids and several dazed youkai started wandering around as if they were sleepwalking, so I couldn't sleep."
 
 //Remilia: "……好吧，，帕奇在馆内休息，我和芙兰去调查一下，洋馆就拜托你和咲夜了。走吧芙兰"
 
-Remilia: "…Okay, Patchy is resting in the library, Flan and I shall investigate further, and I request both you and Sakuya to stay in the mansion. Let's go, Flan."
+Remilia: "…Okay, Patchy is resting in the library, Flan and I shall investigate further, and I leave the mansion to you and Sakuya. Let's go, Flan."
 
 //Meiling: "大小姐和妹妹大人……真的关系变好了啊。"
 
-Meiling: "Mistress and young mistress…your relationship is getting better."
+Meiling: "Mistress and young mistress…their relationship has really improved."
 
 
 ---------------
