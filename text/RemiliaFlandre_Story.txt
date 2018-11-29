@@ -346,11 +346,11 @@ Before Boss - Cirno
 
 //Cirno: "老凉今天……可是解放了自己的力量！！！乃们只有被审判的火焰化成渣渣！哈哈哈哈哈哈哈哈"
 
-Cirno: "It's very cold today…and it's amplifying my strength! They must now face the trial of flames bursting into cinders! HAHAHAHAHAHAHAHA"
+Cirno: "It's very cold today…and it's amplifying my strength! The only thing they can do is be burned to cinders by the flames of judgement! HAHAHAHAHAHAHAHA"
 
 //Flandre: "欸嘿嘿~你不是我的野餐临时冰点储存机吗，怎么变成活体烤架啦。"
 
-Flandre: "Ehehe~ You're not my picnic thermos, are you? How about becoming my grill?"
+Flandre: "Ehehe~ Aren't you my picnic thermos? How did you become a living grill?"
 
 //Remilia: "按照惯例不是应该做噩梦吗？难道因为这家伙是笨蛋？反而变成了中二病。"
 
@@ -362,7 +362,7 @@ Flandre: "Let me turn you into a dessert, then I'll add some of Sakuya's special
 
 //Cirno: "哼，好啊！老凉就让你们见识见识！为了大酱！！！"
 
-Cirno: "Hmph, okay! Old cold's gonna make you see! For the soybean paste!"
+Cirno: "Hmph, okay! I'm gonna let you experience my power! For the soybean paste!"
 
 
 ---------------
@@ -371,7 +371,7 @@ After Boss
 
 //Cirno: "最强的老凉果然就是不一样，还有别人特别来叫醒……疼疼疼……"
 
-Cirno: "You're not like the strongest, miss Old Cold, And everyone still calls me sober… Ow ow ow…"
+Cirno: "The strongest is indeed different, and others are coming to wake her on purpose… Ow ow ow…"
 
 //Flandre: "天太热的话可以把她抓回洋馆呢~"
 
@@ -379,19 +379,19 @@ Flandre: "If it's too hot we can just drag her back to the mansion~"
 
 //Remilia: "要是变得吵闹的话，帕奇会不高兴的哦，咲夜也会增加工作呢"
 
-Remilia: "If she becomes noisy, then Patchy won't be happy, and Sakuya won't work as hard."
+Remilia: "If it becomes noisy, then Patchy won't be happy, and Sakuya will have more work to do."
 
 //Flandre: "接下来我们去哪里呢姐姐大人，要不去看看博丽的巫女那里？"
 
-Flandre: "Where will be go next, big sister? Want to go see the Hakurei shrine maiden?"
+Flandre: "Where will be go next, big sister? Want look aruond at the Hakurei shrine maiden's place?"
 
 //Remilia: "不用了，居然能让这种笨蛋也变得异常，命运已经告诉我该去哪里了。"
 
-Remilia: "We don't need to, actually fate this idiot has become abnormal, and fate has told me where we should go next."
+Remilia: "No need, the ability to cause even this idiot to become abnormal, fate has already told me where we need to go next."
 
 //Flandre: "我倒是更喜欢异常的笨蛋呢，更加的结实，美味且有趣-V-"
 
-Flandre: "I prefer the abnormal idiot, so fake, sturdy, delicious, and interesting -v-"
+Flandre: "I prefer the abnormal idiot. Stronger, tastier, and more interesting -v-"
 
 ====================
 REMILIA-FLANDRE STAGE 3
@@ -409,15 +409,15 @@ Flandre: "Kaboom!!"
 
 //Chen: "作弊啊！你们作弊！！两个打一个不公平。"
 
-Chen: "Hey that's cheating! You cheated! Two versus one isn't even fair!"
+Chen: "Hey that's cheating! You cheated! Two versus one isn't fair!"
 
 //Remilia: "既然觉得不公平就自己退下吧，叫你的主人来，哦不对，是主人的主人吧。"
 
-Remilia: "You can quit since it's not fair, or you can call your master over- or better yet- your master's master."
+Remilia: "If you think it's not fair, you can quit and call your master over. Oh wait, your master's master."
 
 //Chen: "不行！我可是答应了蓝大人的，要好好锻炼自己！我才不怕你们勒！"
 
-Chen: "No way! I promised Master Ran that I was gonna do it myself! I'm not afraid of you!"
+Chen: "No way! I promised Master Ran that I would train myself well! I'm not afraid of you!"
 
 
 ---------------
@@ -439,7 +439,7 @@ Ran: "Chen, you've done very well."
 
 //Remilia: "听说狐狸的迷惑能力很强，不过对我没用哦~还是说？要我用油豆腐收买你？"
 
-Remilia: "I've heard a fox's ability to confuse is very strong, but it'll be useless compared to me~ wouldn't you say? Shall I buy the fox with cooking oil and tofu?"
+Remilia: "I've heard a fox's ability to confuse is very strong, but its useless on me~ wouldn't you say? Shall I pay you off with some oil tofu?"
 
 //Flandre: "呐呐姐姐大人，九条尾巴的'目'是一起让它坏掉好呢还是一个接一个的坏掉好呢？"
 
@@ -447,19 +447,19 @@ Flandre: "Hey, hey, big sister, the 'eye' of the nine tails, should be break the
 
 //Remilia: "那么好的皮毛坏掉真可惜，芙兰，要好好瞄准尾巴根部哦。"
 
-Remilia: "It would be most unfortunate if such good fur were to be damaged, Flan, you need to aim for the base of the tail instead."
+Remilia: "It would be a shame if such good fur were to be damaged, Flan, you need to aim carefully for the base of the tail instead."
 
 //Ran: "别小看人了，红色的恶魔，"
 
-Ran: "Don't underestimate people, Scarlet Devil."
+Ran: "Don't underestimate me, Scarlet Devil."
 
 //Ran: "就凭你们见紫大人还不够格，"
 
-Ran: "That attitude will not be enough for you to see Master Yukari."
+Ran: "You don't deserve to see Master Yukari!"
 
-//Ran: "我看不久天亮后，你们也只能"
+//Ran: "我看不久天亮后，你们也只能" // is this line incomplete?
 
-Ran: "I see that soon after dawn, threats are the only things you can dish out."
+Ran: "I think soon after the sun rises, you two will only be able to threaten me."
 
 
 ---------------
@@ -469,27 +469,27 @@ Before Boss - Yukari Yakumo
 
 //Ran: "可恶，没想到妹妹也那么厉害……大意了……"
 
-Ran: "Damn, I never expected Chen could stand her own against people like this…good for her…"
+Ran: "Damn, I didn't expect even the younger sister could be this strong…I underestimated her…"
 
 //Yukari: "退下吧，蓝，面对夜晚的她们还是很棘手的。"
 
-Yukari: "Fall back, Ran, these two are still quite tricky in the dead of night."
+Yukari: "Fall back, Ran, these two are still quite tricky to face in the dead of night."
 
 //Remilia: "总算出现了么，可不要跟我解释，你什么都不知道哦~妖怪的贤者"
 
-Remilia: "You finally showed up, don't bother explaining this to me, you know nothing about it~ Youkai Sage."
+Remilia: "You finally showed up, don't bother telling me you don't know anything ~ Youkai Sage."
 
 //Yukari: "让博丽的巫女来解决不是更好，什么时候你也和黑白老鼠一样爱管闲事了呢？"
 
-Yukari: "It would have been better if the Hakurei Shrine Maiden solved the incident, and since when have you been as nosy as that black and white rat?"
+Yukari: "Wouldn't it be better if the Hakurei Shrine Maiden came to solve the incident, since when have you been as nosy as that black and white rat?"
 
 //Remilia: "不只是我，你还对我可爱的妹妹也下手了呢，这重罪你明白吗？"
 
-Remilia: "That's not just me, You've started it by hurting my cute little sister, that is a crime, am I clear?"
+Remilia: "Not only me, but you've attacked my cute little sister, you understand that that is a huge offense?"
 
 //Yukari: "你知道吗？恐惧可是可以激发最高的潜能，人也好妖怪也好，我只是对这个很有兴趣罢"
 
-Yukari: "Did you know? Fear makes people rise to their highest potential, people are also good youkai, I am just so interested in this concept."
+Yukari: "Did you know? Fear makes people rise to their highest potential, human or youkai. I am just interested in this concept."
 
 //Flandre: "我才不要做噩梦呢！姐姐大人别跟她废话了，把她揍回间隙里去！"
 
@@ -497,15 +497,15 @@ Flandre: "I don't want nightmares! Big sister, don't talk nonsense with her, bea
 
 //Remilia: "我可没堕落到依靠做噩梦来让自己变得更强，妖怪的贤者，你的行为真是愚蠢至极。听好了，高贵的吸血鬼追求的是纯粹的强大。"
 
-Remilia: "I shall not rely on nightmares to make myself stronger, Youkai Sage. You're acting very silly. The power that a noble vampire pursues is a pure, untainted power."
+Remilia: "I haven't resorted to relying on nightmares to make myself stronger, Youkai Sage. Your actions are extremely foolish. What a noble vampire pursues is pure, untainted power."
 
 //Yukari: "果然吸血鬼也和人类一样肤浅呢，难道是因为曾经是人类？没法摆脱腐朽的想法"
 
-Yukari: "Clearly, you vampires are as superficial as humans, is it because you used to be human yourself? You have never cast aside your decaying convictions."
+Yukari: "Clearly, you vampires are as superficial as humans, is it because you used to be human yourself? You have never cast aside your degenerate convictions."
 
 //Yukari: "真是的，你就好好站在命运的长河边静静的观望吧，和你的只知晓破坏的妹妹一起。"
 
-Yukari: "Really, now, you simply stand by the river of destiny, watching it quietly, together with your sister, whose only friend is destruction."
+Yukari: "Really, you just stand and quietly watch the long river of destiny, along with your little sister who only knows destruction."
 
 
 ---------------
@@ -518,11 +518,11 @@ Yukari: "It looks like you're still keeping up, I will make an exception and let
 
 //Musaraku: "紫……紫小姐，为什么突然让我出现啊QAQ，那对姐妹好像会吸血唉。"
 
-Musaraku: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they want to suck my blood. I'm… I'm scared!"
+Musaraku: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they can suck my blood."
 
 //Remilia: "噩梦的源头终于出现了，看起来真没用，我都怀疑的你的眼光了，紫。"
 
-Remilia: "The source of these nightmares has finally appeared, but she seems truly useless, I truly doubt your senses, Yukari."
+Remilia: "The source of these nightmares has finally appeared, but she seems useless. I doubt your eye for potential, Yukari."
 
 //Flandre: "姐姐大人，她的紫长发好美哦，真想要呐。"
 
@@ -539,23 +539,23 @@ After Boss
 
 //Yukari: "哎呀，一不小心玩过头了呢，是吧梦沙罗酱~"
 
-Yukari: "Oh my, it seems I overplayed, haven't I, Musaraku~"
+Yukari: "Oh my, it seems I've overplayed, haven't I, Musaraku~"
 
 //Musaraku: "明明是紫小姐你不由分说就把我扯进来威胁我的不是吗？"
 
-Musaraku: "Yes you have, Miss Yukari, you throw me into the battlefield just to have my life threatened, no?"
+Musaraku: "But you were the one who threw me in here without explanation to threaten me, Miss Yukari?"
 
 //Yukari: "我可什么都不知道哦，锅交给你了~欢迎来到幻想乡。"
 
-Yukari: "I didn't know that would happen, I handed the reins to you~ Anyway, welcome to Gensokyo."
+Yukari: "I don't know anything, the blame is yorus now~ welcome to Gensokyo."
 
 //Remilia: "哎呀……逃走了，嘛姑且算是事情解决了"
 
-Remilia: "Curses… she got away, well, the incident is solved."
+Remilia: "Curses… she got away, well, I guess we can consider the incident resolved."
 
 //Flandre: "另一个元凶还在呢姐姐大人~"
 
-Flandre: "But the culprit is still here, big sister~"
+Flandre: "But the other culprit is still here, big sister~"
 
 //Musaraku: "不是我……是紫小姐她硬让我做的……"
 
@@ -563,15 +563,15 @@ Musaraku: "It's not me… It was Miss Yukari, she made me do it…"
 
 //Remilia: "你知道惹怒我应该怎么赔偿吗？交给灵梦的话，可能会很经常呢~"
 
-Remilia: "You know what would make up for how angry you've made me? If I hand you over to Reimu, you could be here for a while~"
+Remilia: "Do you know how you should make up for how angry you've made me? If I handed you over to Reimu, you could be here for a while~"
 
 //Flandre: "不嘛姐姐大人，让她做芙兰我的玩具吧！！！！梦沙罗酱不会让我失望吧？你肯定是一个怎么都玩不坏的好、玩、具~对吧~"
 
-Flandre: "Nooo, big sister, make her one of Flan's toys!!!! Musaraku won't disappoint me! You'll definitely be a fun, unbreakable tooooooy~ dollie~ right?"
+Flandre: "Nooo, big sister, let her be one of Flan's toys!!!! Musaraku-chan won't disappoint me, will she! You'll definitely be a fun, unbreakable tooooooy~ right?"
 
 //Remilia: "真拿你没办法啊，要好好跟咲夜说哦。"
 
-Remilia: "I'm afraid I cannot do that for you, you will need to talk to Sakuya about that."
+Remilia: "What will I do with you, we'll need to talk to Sakuya about this."
 
 //Flandre: "是！姐姐大人！"
 
