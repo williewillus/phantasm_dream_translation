@@ -35,7 +35,7 @@ REIMU ENDING (Option A)
 
 //"博丽灵梦：这不是梦沙罗吗？"
 
-"Reimu: It's not Musaraku is it?"
+"Reimu: Isn't that Musaraku?"
 
 
 //"雾雨魔理沙：是啊，我给她说了弹幕游戏的事情，她很感兴趣，并且还是个天分很好的家伙呢DA☆ZE"

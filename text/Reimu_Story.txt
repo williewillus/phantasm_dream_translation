@@ -470,7 +470,7 @@ Reimu: "(Of course, you're still dreaming, right?)"
 
 //Kaguya: "藤原家的小姑娘终究还是小姑娘，竟然会因为噩梦而失去心智，哼~算了，终究是我的梦，博丽的巫女啊，你愿意听我说一点闲话吗？"
 
-Kaguya: "The little Fujiwara girl is, after all, still a mere child, losing her mind to a nightamre humph. Whatever, this IS my dream after all. Hakurei Shrine Maiden, care to listen to some of my ramblings?"
+Kaguya: "The little Fujiwara girl is, after all, still a mere child, losing her mind to a nightmare humph. Whatever, this IS my dream after all. Hakurei Shrine Maiden, care to listen to some of my ramblings?"
 
 //Reimu: "你说吧？【为何今天感觉那么脱力- -】"
 
@@ -544,7 +544,7 @@ Kaguya: "What shall you do now? If you do not act fast, the black and white magi
 
 //Reimu: "呵呵，她说不定在做偷东西被抓住的噩梦吧，让她平时给我添麻烦来着。我已经知道是哪个麻烦的家伙搞的鬼了"
 
-Reimu: "Aah, She might even be having a nightmare of getting caught stealing, always giving me trouble! I already know the annoying one who could cause this."
+Reimu: "Aah, she might even be having a nightmare of getting caught stealing, always giving me trouble! I already know the annoying one who could cause this."
 
 //Kaguya: "哦？你那么肯定？"
 
@@ -704,7 +704,7 @@ Yukari: "Not bad! Nightmares lead to fear, fear leads to a struggle, and when a 
 
 //Reimu: "你给我适可而止一点！！到底是什么玩意儿！！"
 
-Reimu: "Alright, stop for a minute!! What the hell is this!!
+Reimu: "Alright, stop for a minute!! What the hell is this!!"
 
 //Yukari: "出来见见你的新朋友吧~梦沙罗酱~"
 
@@ -716,7 +716,7 @@ Reimu: "……！"
 
 //Musaraku: "灵……灵梦小姐对吧？初次见面，请……请不要欺负我……"
 
-Musaraku: "Miss… Miss Reimu? Nice to meet you. Please… please don't hurt me!
+Musaraku: "M… Miss Reimu? Nice to meet you. Plea… please don't hurt me!"
 
 //Reimu: "……！"
 
