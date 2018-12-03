@@ -1,4 +1,4 @@
-
+0
 ====================
 MARISA STAGE 1
 ====================
@@ -30,7 +30,9 @@ Marisa's Father?: "I said, this is not your choice to make, you just need to com
 
 Marisa: "Who wants to go back with you? Annoying old man!"
 
+END
 
+1
 ---------------
 Before Boss - Junko Kirisame/Marisa's Mother
 ---------------
@@ -51,7 +53,9 @@ Marisa: "Yes, it has been…"
 
 Marisa's Mother?: "So… be a good girl and go back with your father!"
 
+END
 
+2
 ---------------
 Mid-fight
 ---------------
@@ -76,7 +80,9 @@ Marisa's Mother: "Struggling is useless, Marisa, this is your fate."
 
 Marisa: "I won't accept that!!! I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't…"
 
+END
 
+3
 ---------------
 After Boss
 ---------------
@@ -133,7 +139,9 @@ Marisa: "He really isn't there…"
 
 Marisa: "Mother! Mother?!"
 
+END
 
+4
 ---------------
 Wake up
 ---------------
@@ -162,6 +170,9 @@ Marisa: ""
 
 Marisa: "I should still take a look outside, there might be something interesting going on."
 
+END
+
+5
 ====================
 MARISA STAGE 2
 ====================
@@ -206,7 +217,7 @@ Marisa: "Yes, leave, leave, be careful on your way down the road~"
 
 //Marisa: "一惊一乍的，吓我一跳，小心以后嫁不出去DAZE☆。"
 
-Marisa: "You're scaring me, be careful of not being able to get married in the future da-ze☆."
+Marisa: "You're scaring me, be careful of not being able to get married in the future DAZE☆."
 
 //Alice: "……"
 
@@ -220,7 +231,9 @@ Marisa: "Wait… you wouldn't want to…"
 
 Alice: "All this talk is getting nowhere! I know you won't let me leave, so I'll have to rely on my own power!!"
 
+END
 
+6
 ---------------
 Mid-fight 1
 ---------------
@@ -235,7 +248,7 @@ Alice: "Mother, we are one and the same… we have no tail~"
 
 //Marisa: "我劝你别没事找事！我现在心情很不好的DAZE☆！"
 
-Marisa: "You better not to go looking for trouble! I'm in a very bad mood da-ze☆!"
+Marisa: "You better not to go looking for trouble! I'm in a very bad mood DAZE☆!"
 
 //Alice: "母亲，那是不可能的。"
 
@@ -251,7 +264,7 @@ Alice: "HOWEVER!!!"
 
 //Marisa: "你你你你你你你……"
 
-Marisa: "you-you-you-you-you-you-you…"
+Marisa: "You-you-you-you-you-you-you…"
 
 //Alice: "我不会把您弄伤的"
 
@@ -261,7 +274,9 @@ Alice: "I will not hurt you"
 
 Marisa: "Excellent words, I don't know how to respond…"
 
+END
 
+7
 ---------------
 Mid-fight 2
 ---------------
@@ -290,7 +305,9 @@ Marisa: "Shall we talk business, like why you attacked me?"
 
 Alice: "Oh… Okay…"
 
+END
 
+8
 ---------------
 After Midboss 1
 ---------------
@@ -355,7 +372,9 @@ Marisa: "&*%￥%%@#~！！！"
 
 Alice: "Every time it's the same…looks like we'll have to prepare for a gathering, hm."
 
+END
 
+9
 ---------------
 Cutscene - Choice Select
 ---------------
@@ -383,6 +402,9 @@ Marisa: "Go to the Hakurei Shrine and visit Reimu"
 
 Marisa: "Reimu can go die~DAZE☆!!"
 
+END
+
+10
 ---------------
 Choice Select #2
 ---------------
@@ -410,8 +432,9 @@ Marisa: "Reimu can go die~DAZE☆!!"
 
 Marisa: "Reimu can go die~DAZE☆!!"
 
+END
 
-
+11
 ---------------
 Before Midboss #2 - Satori Komeiji
 ---------------
@@ -456,7 +479,9 @@ Marisa: "Looks like I can't get anywhere like this~"
 
 Satori: "Have a sample of my powers!"
 
+END
 
+12
 ---------------
 After Midboss
 ---------------
@@ -473,7 +498,9 @@ Marisa: "(Looks like I hit too heavily…)"
 
 Marisa: "(She just fainted like that)"
 
+END
 
+13
 ---------------
 Before Boss - Koishi Komeiji
 ---------------
@@ -498,7 +525,9 @@ Koishi: "Let's battle!"
 
 Marisa: "Where is this? With who?"
 
+END
 
+14
 ---------------
 After Boss
 ---------------
@@ -541,8 +570,11 @@ Marisa: "Where do I go next?"
 
 //Marisa: "算了，不想了，既然这个家伙提到了八云紫，接下来就去找她吧DAZE☆~！"
 
-Marisa: "Whatever, let's not think anymore. Since that kid mentioned Yukari Yakumo, I'll just go find her next da-ze☆~!"
+Marisa: "Whatever, let's not think anymore. Since that kid mentioned Yukari Yakumo, I'll just go find her next DAZE☆~!"
 
+END
+
+15
 ====================
 MARISA STAGE 3
 ====================
@@ -573,7 +605,9 @@ Chen: "C'mon, I'll make sure you experience this change, too!"
 
 Marisa: "Let's go!!"
 
+END
 
+16
 ---------------
 Chen's Defeated
 Before Midboss #2 - Ran Yakumo
@@ -615,7 +649,9 @@ Ran: "What?"
 
 Marisa: "I'm going to raze this place!!!!!!!"
 
+END
 
+17
 ---------------
 Ran's Defeated
 Before Boss - Yukari Yakumo
@@ -657,7 +693,9 @@ Yukari: "Wow… You're riled up…"
 
 Marisa: "NO! MENTIONING! REIMU!!!"
 
+END
 
+18
 ---------------
 Mid-fight 1
 ---------------
@@ -694,7 +732,9 @@ Yukari: "Musaraku! Begin!!"
 
 Musaraku: "Understood, Master Yukari!"
 
+END
 
+19
 ---------------
 After Boss
 ---------------
@@ -719,3 +759,4 @@ Marisa: "I am! I'm an ordinary, free, MA-GI-CIAN! Take my attacks nightmare bitc
 
 Yukari: "What the hell just happened?"
 
+END

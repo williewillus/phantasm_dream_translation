@@ -1,4 +1,4 @@
-
+0
 ====================
 REIMU STAGE 1
 ====================
@@ -41,7 +41,9 @@ Meiru: "I am Meiru Hakurei, a mirror image of you…but that is only your tempor
 
 Reimu: "Are you another new kind of youkai? That Yukari, she'll let loose all sorts of strange things."
 
+END
 
+1
 ---------------
 Mid-fight
 ---------------
@@ -62,7 +64,9 @@ Meiru: "What qualification do you have to be the Hakurei Shrine Maiden, you who 
 
 Reimu: "What did you say!!?"
 
+END
 
+2
 ---------------
 After Boss
 ---------------
@@ -75,7 +79,9 @@ Meiru: "AAAAAAAAAAAAHHHHHHHHHHH"
 
 Reimu: "Stop screaming, you asshole! My head hurts!!"
 
+END
 
+3
 ---------------
 Wake up
 ---------------
@@ -124,6 +130,10 @@ Reimu: "If I leave her alone… she might cause some sort of trouble for me agai
 
 Reimu: "Okay, I should still go out and look…"
 
+END
+
+
+4
 ====================
 REIMU STAGE 2
 ====================
@@ -132,7 +142,7 @@ Before Stage
 
 //Reimu: "真是烦死人了，还没睡醒就要人做这么累的工作，这时段不会又是永远亭那边搞鬼吧？"
 
-Reimu: "How annoying, I'm not even awake yet and I have to do this tiring wor. Is this incident stirred up by from those at Eientei?"
+Reimu: "How annoying, I'm not even awake yet and I have to do this tiring work. Is this incident stirred up by from those at Eientei?"
 
 //Reimu: "先去哪里呢？"
 
@@ -157,7 +167,9 @@ Reimu: "Whatever, I'll just go to the nearest place and take a look."
 
 Reimu: "Since it's on the way, let's go to Kourindou first and look there."
 
+END
 
+5
 ---------------
 Before First Midboss - Tenshi
 ---------------
@@ -190,7 +202,9 @@ Tenshi: "Let's dodge and weave!"
 
 Reimu: "Well if you're going to be like that, I'll start with beating you up!"
 
+END
 
+6
 ---------------
 Mid-fight 1
 ---------------
@@ -219,7 +233,9 @@ Reimu: "Thanks for the compliment…"
 
 Tenshi: "How about this?!!!"
 
+END
 
+7
 ---------------
 Mid-fight 2
 ---------------
@@ -232,7 +248,9 @@ Reimu: "Had enough yet!?"
 
 Tenshi: "Ha! Nope!!"
 
+END
 
+8
 ---------------
 After Tenshi
 ---------------
@@ -245,7 +263,9 @@ Tenshi: "Uwaaa!!!"
 
 Reimu: "I can't be dreaming still right? Nobody is normal except for me."
 
+END
 
+9
 ---------------
 Cutscene - Rinnosuke
 ---------------
@@ -326,7 +346,9 @@ Reimu: "Nothing, I still have business to attend to, I'll leave Tenshi to you."
 
 Rinnosuke: "Okay, but… ugh… she left, she never listens until people finish speaking, what an impulsive one. If you're going to search aimlessly, why not go ask that person."
 
+END
 
+10
 //Reimu: "接下来做什么呢？"
 
 Reimu: "What should I do next?"
@@ -350,7 +372,9 @@ Reimu: "I'm going to continue into the Bamboo Forest of the Lost."
 
 Reimu: "If I go back now, how would I be different from Cirno?"
 
+END
 
+11
 ---------------
 Before Second Midboss - Mokou
 ---------------
@@ -371,7 +395,9 @@ Mokou: "You, too? I'm not thinking like that at all! KAGUYA!! IT'S ALL HER FAULT
 
 Reimu: "Uh, compared to Kaguya I still like Marisa more~when I'm not in the mood to solve incidents."
 
+END
 
+12
 ---------------
 Mid-fight
 ---------------
@@ -384,7 +410,9 @@ Mokou: "SOMEBODY KILL ME!!!!"
 
 Reimu: "I'M GOING TO KILL YOU!!!!"
 
+END
 
+13
 ---------------
 After Mokou
 ---------------
@@ -409,7 +437,9 @@ Reimu: "I've only heard of the Hourai Elixir, not an elixir of regret~"
 
 Mokou: "......."
 
+END
 
+14
 ---------------
 Before Boss - Kaguya
 ---------------
@@ -458,7 +488,9 @@ Reimu: "Uh… um… I don't know…?
 
 Kaguya: "Then let me tell you."
 
+END
 
+15
 ---------------
 Mid-fight
 ---------------
@@ -475,7 +507,9 @@ Reimu: "Mostly…"
 
 Kaguya: "It seems that there is something you want to ask me? Then answer another of my questions."
 
+END
 
+16
 ---------------
 After Boss
 ---------------
@@ -520,7 +554,9 @@ Kaguya: "Oh? So certain?"
 
 Reimu: "Intuition!"
 
+END
 
+17
 ====================
 REIMU STAGE FINAL
 ====================
@@ -547,7 +583,9 @@ Reimu: "……"
 
 Chen: "I'm getting angry!!!!"
 
+END
 
+18
 ---------------
 Chen's Defeated
 Before Midboss #2 - Ran Yakumo
@@ -581,7 +619,9 @@ Ran: "My apologies, I cannot."
 
 Reimu: "FUCK♂YOU！"
 
+END
 
+19
 ---------------
 Ran's Defeated
 Before Boss - Yukari Yakumo
@@ -643,7 +683,9 @@ Reimu: "What about the second one?"
 
 Yukari: "Well then I'll make you experience that then! The Second Magic!!"
 
+END
 
+20
 ---------------
 Mid-fight
 ---------------
@@ -692,7 +734,9 @@ Yukari: "Come back, Musaraku, let's show miss shrine maiden what fear is~"
 
 Musaraku: "Y…yes, Master Yukari Yakumo."
 
+END
 
+21
 ---------------
 After Boss
 ---------------
@@ -720,3 +764,5 @@ Reimu: "It's okay, I still haven't dished out my Electric Killing Palms."
 //Musaraku: "不要啊！！！"
 
 Musaraku: "Don't!!"
+
+END

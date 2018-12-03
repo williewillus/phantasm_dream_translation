@@ -1,4 +1,4 @@
-
+0
 ====================
 REIMU EXTRA STAGE
 ====================
@@ -22,7 +22,9 @@ Reimu: "If youkai want to eat humans, then they will be defeated. That's my job.
 //Doremy: "虽然是吃梦不是吃人，这次懒散巫女的梦是什么味道？"
 Doremy: "I eat dreams, not humans, though I wonder how the dreams of a lazy shrine maiden taste…"
 
+END
 
+1
 ---------------
 After Midboss
 ---------------
@@ -32,7 +34,9 @@ Doremy: "I'm so hungry I don't have strength… your nightmare isn't worth this 
 //Reimu: "这是工作啊，巫女的工作，但这次不是找你，梦要好吃的话下次请我吃吃看好了。"
 Reimu: "This a job, a shrine maiden's job. But this time I'm not looking for you. If you want to eat my dreams so badly then next time give me something good to eat in return."
 
+END
 
+2
 ---------------
 Before Boss - Musaraku
 ---------------
@@ -52,7 +56,9 @@ Reimu: "Do you understand how much good sleep matters to a shrine maiden? From w
 //Musaraku: "啊哈哈~!多说无益！只有强者！才可以使我变得更强！！"
 Musaraku: "Ahaha~! Talking is unnecessary! I just want your strength, then I can become stronger."
 
+END
 
+3
 ---------------
 After Boss
 ---------------
@@ -76,7 +82,9 @@ Reimu: "Ahh, tea. Marisa hasn't eaten the crackers has she?"
 //Musaraku: "不要啊————"
 Musaraku: "Noooooo————"
 
+END
 
+4
 ====================
 MARISA EXTRA STAGE
 ====================
@@ -98,7 +106,9 @@ Doremy: "If you're having trouble sleeping, you'll have no energy when you wake 
 //Marisa: "明明我觉得是很有趣的梦啊~"
 Marisa: "Well I think this is a pretty interesting dream~"
 
+END
 
+5
 ---------------
 After Midboss
 ---------------
@@ -106,7 +116,9 @@ After Midboss
 //Doremy: "我还想饱餐一顿呢~"
 Doremy: "Well I'd like to eat well today~"
 
+END
 
+6
 ---------------
 Before Boss - Musaraku
 ---------------
@@ -122,7 +134,9 @@ Musaraku: "Hm? You seem like a strong lady worth fighting, and I'm always lookin
 //Marisa: "既然是在梦里，那就动手吧！"
 Marisa: "Since we're in a dream, let's fight!"
 
+END
 
+7
 ---------------
 After Boss
 ---------------
@@ -142,9 +156,11 @@ Musaraku: "IMPOSSIBLE!!!"
 //Marisa: "人类的可能性可是你想象不到的~"
 Marisa: "Humans are capable of unimaginable things~"
 
+END
 
+8
 ====================
-MARISA EXTRA STAGE
+REMILIA-FLANDRE EXTRA STAGE
 ====================
 Before Midboss - Doremy Sweet
 ---------------
@@ -172,7 +188,9 @@ Reimila: "As an older sister, it's my responsibility to make a beautiful and fun
 //Doremy: "听说越难处理的食材会越美味~"
 Doremy: "I've heard the harder to prepare an ingredient is, the more flavorful it becomes~"
 
+END
 
+9
 ---------------
 After Midboss
 ---------------
@@ -182,7 +200,9 @@ Doremy: "Ngh, I'm so hungry, I'm losing strength. It's better to wait for the dr
 //Flandre: "就这样消失了么？她还没有回答我的问题呐。"
 Flandre: "She's gone just like that? She still hasn't even answered my question yet."
 
+END
 
+10
 ---------------
 Before Boss - Musaraku
 ---------------
@@ -206,7 +226,9 @@ Remilia: "Looks like we'll have to have to wake up the young lady to remind her 
 //Flandre: "梦沙罗酱，我有和你玩过真正噩梦的游戏吗？"
 Flandre: "Musaraku, have I played a real nightmare game with you before?"
 
+END
 
+11
 ---------------
 After Boss
 ---------------
@@ -227,3 +249,5 @@ Flandre: "If we're always playing with her then I'll get tired, is a way to make
 Remilia: "It doesn't seem like a bad idea to visit a certain incident-causer"
 //Musaraku: "你们倒是听我说话啊！"
 Musaraku: "Listen to what I say!"
+
+END
