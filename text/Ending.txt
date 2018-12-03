@@ -163,7 +163,7 @@ MARISA ENDING (Option A)
 
 //"雾雨魔理沙：是啊，我可是累的不行啊DA☆ZE。"
 
-"Marisa: Yeah, I'm super tired da☆ze."
+"Marisa: Yeah, I'm super tired DA☆ZE."
 
 
 
@@ -235,7 +235,7 @@ MARISA ENDING (Option B)
 
 //"雾雨魔理沙：我可是魔法使DA☆ZE。"
 
-"Marisa: Of course, I'm a magician da☆ze."
+"Marisa: Of course, I'm a magician DA☆ZE."
 
 
 //"八云紫：骗你的啦，我是来把梦沙罗托付给你的，她刚来幻想乡你来给她介绍介绍呗。"
