@@ -1,0 +1,414 @@
+
+--------------------
+REIMU ENDING (Option A)
+--------------------
+"Hakurei Shrine Grounds, During the Banquet"
+
+//"博丽神社附近，宴会进行中"
+
+"Hakurei Shrine Grounds, During the Banquet"
+
+
+//"博丽灵梦：啊啊啊！我几乎没有睡啊，你们这些家伙就这么急着开宴会吗？"
+
+"Reimu: Aaah! I haven\'t slept a wink, and you guys are suddenlyhaving a feast?"
+
+
+//"蕾米莉亚：没办法啊，大家都被噩梦惊醒了，况且，我和芙兰本来就该起床了，今天只不过因为噩梦睡过头了而已。"
+
+"Remilia: We can\'t help it, everyone\'s been scared by the         nightmares. Also, Flan and I were supposed to get up already anyways, we just overslept today due to the nightmares."
+
+
+//"芙兰朵露：姐姐大人，我们去那边玩吧，难得姐姐大人肯带我出来呢。"
+
+"Flandre: Big sister, let\'s go play, we never go out together!"
+
+
+//"博丽灵梦：讨厌的夜行吸血鬼！"
+
+"Reimu: Disgusting nocturnal vampires!"
+
+
+//"雾雨魔理沙：喂灵梦~你看我带谁来了。"
+
+"Marisa: Hey Reimu~ look who I brought along."
+
+
+//"博丽灵梦：这不是梦沙罗吗？"
+
+"Reimu: Isn\'t that Musaraku?"
+
+
+//"雾雨魔理沙：是啊，我给她说了弹幕游戏的事情，她很感兴趣，并且还是个天分很好的家伙呢DA☆ZE"
+
+"Marisa: Yep, I told her about danmaku games and she seems  quite interested, and she\'s quite talented too DA☆ZE"
+
+
+//"梦沙罗：是的！魔理沙小姐教了我很多，真的很开心~"
+
+"Musaraku: Yeah! Miss Marisa taught me a lot, I\'m so happy~"
+
+
+//"雾雨魔理沙：好了灵梦，今后我就和我的弟子，梦沙罗一起来挑战你吧！觉悟吧~"
+
+"Marisa: Okay Reimu, after today me and my disciple are going to challenge you! Get ready~"
+
+
+//"博丽灵梦：魔理沙……你真是……哎，果然最麻烦的“异变”是魔理沙啊……"
+
+"Reimu: Marisa… You really… ugh, you\'re the worst \'incident\' by far, Marisa…"
+
+
+--------------------
+REIMU ENDING (Option B)
+--------------------
+
+//"正午，博丽神社。"
+
+"Noon, Hakurei Shrine."
+
+
+//"射命丸文：你好~这里是文文新闻，对于昨晚的噩梦的异变我想要采访一下你，博丽的巫女。"
+
+"Aya: Hello~ this is Bunbunmaru Newspaper, I would like to      interview you on last night\'s nightmare incident, Hakurei        Shrine Maiden."
+
+
+//"博丽灵梦：哈……我没兴致，你找别人吧。"
+
+"Reimu: Hmph… not interested, go find someone else."
+
+
+//"射命丸文：不要那么冷淡嘛，文文新闻准备做一个关于大家的梦的专栏哦，很有趣吧~有趣吧~不只是噩梦，美梦也可以说一说哟~"
+
+"Aya: Don\'t be so cold, Bunbunmaru Newspaper is preparing a  column related to everyone\'s dreams. It\'s interesting~ so        interesting~ don\'t limit yourself to nightmares, you can talk  about good dreams, too."
+
+
+//"博丽灵梦：不要……走开走开，我好不容易打扫干净的院子又被你弄的到处都是黑羽毛。"
+
+"Reimu: No…shoo, shoo! The grounds I just painstakingly cleaned are covered with your black feathers again!"
+
+
+//"射命丸文：唉……巫女的梦可是很能提起读者兴趣的啊。"
+
+"Aya: Ugh, But the dreams of a shrine maiden could be very exciting to our readers."
+
+
+//"哆来咪：哎呀呀~听起来不错哦~"
+
+"Doremy: Oh well well~ You\'re not wrong there~"
+
+
+//"博丽灵梦：你……什么时候出现的？不，为什么会出现在这里。"
+
+"Reimu: You! when did you get here? No, why are you here?"
+
+
+//"哆来咪：因为有感兴趣的话题啊。"
+
+"Doremy: Because the topic just got interesting"
+
+
+//"射命丸文：哎呀！还是有热心肠的人嘛。"
+
+"Aya: Ayaya! There are still nice people here."
+
+
+//"哆来咪：不，只是这样就方便知道谁的噩梦更美味了。"
+
+"Doremy: No, it\'s just that here I can conveniently find out whose nightmares taste better."
+
+
+//"博丽灵梦：拜托你们去别的地方谈，我还期待着解决异变后会有参拜者呢。啊，为什么明明是神社但是到处都是妖怪啊……"
+
+"Reimu: Please go talk somewhere else, I\'ve been hoping for new worshippers after resolving the incident. Ah, this is a shrine but there\'s always youkai around everywhere…"
+
+
+--------------------
+MARISA ENDING (Option A)
+--------------------
+
+//"清晨，博丽神社上空正进行着一场令所有人（妖怪）司空见惯的弹幕决斗，不过一刻钟，博丽的巫女便占了上风。"
+
+"Early morning, in the sky above the Hakurei Shrine, all the people (and youkai) were having danmaku duels. Within a quarter of an hour, the Hakurei Shrine Maiden took the upper hand."
+
+
+//"雾雨魔理沙：唔……好疼，还以为可以凭着在间隙里那股气势来击败灵梦呢……果然依靠不稳定的力量还是不行。"
+
+"Marisa: Ow… that hurt, I thought I could take advantage of the energy from the gap and then defeat you… I shouldn\'t rely on unstable powers."
+
+
+//"博丽灵梦：什么间隙啊气势啊，我只想让你说清楚干嘛在我还没睡醒的时候就强行把我拉起来啊！"
+
+"Reimu: What gap and energy? I just want you to explain why you dragged me out here while I was still half-asleep!"
+
+
+//"雾雨魔理沙：你怎么知道出事了。"
+
+"Marisa: How did you know there was a problem?"
+
+
+//"博丽灵梦：直觉啦直觉！这种时间找上门准没发生好事儿。"
+
+"Reimu: Instinct, instinct! Coming at this kind of hour never means anything good."
+
+
+//"雾雨魔理沙：哼，讨厌的BUG巫女。"
+
+"Marisa: Hmph, annoying BUG maiden."
+
+
+//"博丽灵梦：哦，原来发生了这些事情，我也被噩梦惊醒了，不过没当回事儿就又睡了。"
+
+"Reimu: Oh, when this all occured, I also was woken up by the nightmare, but I just ignored it and went back to sleep."
+
+
+//"雾雨魔理沙：是啊，我可是累的不行啊DA☆ZE。"
+
+"Marisa: Yeah, I\'m super tired da☆ze."
+
+
+
+//"博丽灵梦：你居然做了这种梦，还以为会做那种在偷东西的时候被抓住的噩梦呢。" //Weird grammar
+
+
+
+"Reimu: I\'m surprised you had this kind of dream, I thought you\'d have a nightmare where you got caught stealing."
+
+
+//"雾雨魔理沙：你把我当什么了，我也会有自己的苦恼的。"
+
+"Marisa: Who do you think I am, I have my own troubles too."
+
+
+//"博丽灵梦：后悔了吗？"
+
+"Reimu: Regrets?"
+
+
+//"雾雨魔理沙：没有啦，只是不想再想起而已，我不会后悔的，成为魔法使是我从小的愿望，就是因为这样我才会一直努力。"
+
+"Marisa: No, just things I\'d rather not think about, not regret. Becoming a magician was my wish since I was young, and I work hard because of that wish."
+
+
+//"博丽灵梦：哈哈哈，果然你还是老样子。"
+
+"Reimu: Hahaha, you\'re the same as ever."
+
+
+//"雾雨魔理沙：说起来你做了什么噩梦呢？"
+
+"Marisa: Tell me, what kind of nightmare did you have?"
+
+
+//"博丽灵梦：呵~我才不会告诉你，你猜啊。"
+
+"Reimu: Hee~ I won\'t tell you, you\'ll just have to guess."
+
+
+//"雾雨魔理沙：小气巫女……"
+
+"Marisa: Petty shrine maiden…"
+
+
+--------------------
+MARISA ENDING (Option B)
+--------------------
+
+//"雾雨魔理沙：虽然代替灵梦解决了异变很开心，但是累死了啊，干脆做点夜宵吃然后睡觉吧~"
+
+"Marisa: Although I\'m happy I solved the incident for Reimu this time, I\'m tired. I\'m going to eat a midnight snack and head off to bed~"
+
+
+//"八云紫：嗨~小偷魔法使~"
+
+"Yukari: Hi~ little thief witch~"
+
+
+//"雾雨魔理沙：呀！！！你怎么冒出来啦，很吓人的好不好，拜托你好好从门口进来行吗？"
+
+"Marisa: YAH!!! Why do you pop in and scare people like that! Can\'t you just enter through the doorway?"
+
+
+//"八云紫：我只是来观察一下你这个独特的人类罢了，啧啧啧，明明是个人类居然能够吸收掉梦沙罗的力量，不简单。"
+
+"Yukari: I\'m just observing a very special human here, heheheh. You\'re a human, but you were able to absorb the powers of Musaraku, not bad."
+
+
+//"雾雨魔理沙：我可是魔法使DA☆ZE。"
+
+"Marisa: Of course, I\'m a magician da☆ze."
+
+
+//"八云紫：骗你的啦，我是来把梦沙罗托付给你的，她刚来幻想乡你来给她介绍介绍呗。"
+
+"Yukari: I\'m joking, I\'m here to entrust Musaraku to you. She\'s a newcomer to Gensokyo so you show her around."
+
+
+//"雾雨魔理沙：你以为我这里是新手村吗？？？我是NPC？"
+
+"Marisa: Do you think I\'m a novice?? What am I, an NPC?"
+
+
+//"梦沙罗：魔理沙小姐，真的很抱歉麻烦你了。"
+
+"Musaraku: Miss Marisa, I\'m truly sorry for causing trouble for you."
+
+
+//"雾雨魔理沙：不怪你，都是那个麻烦的间隙妖怪……唉，别跑啊！"
+
+"Marisa: I don\'t blame you, it\'s all the fault of that annoying gap youkai…hey, don\'t go!"
+
+
+//"八云紫：我去灵梦那里参加宴会了，梦沙罗就拜托你了，等下也一起来吧~"
+
+"Yukari: I\'m going to Reimu\'s to join the feast, I\'ll leave Musaraku to you. You both should come in a bit too~"
+
+
+//"雾雨魔理沙：紫！别跑啊！喂！！！"
+
+"Marisa: Yukari! Don\'t go! HEY!!!"
+
+
+//"梦沙罗：紫小姐总是这样…………"
+
+"Musaraku: Miss Yukari always acts like that…"
+
+
+//"雾雨魔理沙：算了算了……梦沙罗，一起去博丽神社吧，我介绍一个巫女小姐给你认识。"
+
+"Marisa: Oh well… Musaraku, let\'s go to the Hakurei Shrine, I\'ll introduce you to a shrine maiden."
+
+
+--------------------
+REMILIA/FLANDRE ENDING (Option A)
+--------------------
+
+//"夜晚，红魔馆。"
+
+"Late Night, Scarlet Devil Mansion"
+
+
+//"蕾米莉亚：我说怎么这么大的动静，果然是你啊，芙兰。"
+
+"Remilia: What a big ruckus, it was you Flan."
+
+
+//"芙兰朵露：对不起姐姐大人，我不是故意的。"
+
+"Flandre: Sorry big sister, it was an accident."
+
+
+//"蕾米莉亚：我明白，只是因为我可爱的妹妹还不够成熟而已，我不会责怪你的，不过在家里玩的话，要安安静静的玩哦~"
+
+"Remilia: I know, it\'s because my adorable sister still isn\'t mature enough, so I won\'t blame you. But if you\'re going to play inside the house, you have to do it quietly~"
+
+
+//"芙兰朵露：明白了，我会努力做个好孩子的。"
+
+"Flandre: Okay, I will be a good little girl."
+
+
+//"蕾米莉亚：不愧是我的妹妹呢。"
+
+"Remilia: Definitely my good little sister."
+
+
+//"芙兰朵露：姐姐，你不一起来玩吗？"
+
+"Flandre: Sister, don\'t you want to play with me?"
+
+
+//"蕾米莉亚：真拿你没办法呢……不过……"
+
+"Remilia: Oh, what will I do with you… but…"
+
+
+//"蕾米莉亚：高贵的吸血鬼果然就该玩真正的弹幕游戏呢！"
+
+"Remilia: A noble vampire should play real danmaku games!"
+
+
+//"芙兰朵露：姐姐大人帅呆啦~"
+
+"Flandre: Big sister is so cool~"
+
+
+//"蕾米莉亚：走吧芙兰~到院子里去，哦…顺便带上我们的新朋友。"
+
+"Remilia: Let\'s go Flan~ to the courtyard. Oh, let\'s also bring our new friend."
+
+
+//"芙兰朵露：耶~"
+
+"Flandre: Yeah~"
+
+
+//"梦沙罗：不要啊TAT……"
+
+"Musaraku: No! TAT…"
+
+
+--------------------
+REMILIA/FLANDRE ENDING (Option B)
+--------------------
+
+//"夜晚，红魔馆。"
+
+"Late Night, Scarlet Devil Mansion"
+
+
+//"蕾米莉亚：今晚是高贵的吸血鬼蕾米莉亚和我可爱的妹妹芙兰朵露解决了异变，所以各位就在红魔馆里尽情的开宴会吧~"
+
+"Remilia: Tonight the noble vampire Remilia and my adorable little sister Flandre have solved an incident, so everyone shall enjoy a big feast in the Scarlet Devil Mansion."
+
+
+//"芙兰朵露：开宴会吧~"
+
+"Flandre: Start the feast!"
+
+
+//"蕾米莉亚：酒还有很多哦，不过都是红酒哦红酒~"
+
+"Remilia: We also have a lot of alcohol, but alas, it is all red wine, red wine~"
+
+
+//"芙兰朵露：姐姐大人，梦沙罗酱在叫我呢，我稍微离开一下。"
+
+"Flandre: Big sister, Musaraku-chan is calling me, excuse me for a bit."
+
+
+//"梦沙罗：芙兰朵露小姐，真的很对不起，您和蕾米莉亚小姐的感情那么好，我不该让你们做噩梦的。"
+
+"Musaraku: Miss Flandre, I\'m really sorry, your relationship with Miss Remilia is so good, I shouldn\'t have given you two nightmares."
+
+
+//"芙兰朵露：没关系哦，噩梦是不可能让我和姐姐大人的感情变差的，那家伙……姐姐大人她啊是我唯一的姐姐。"
+
+"Flandre: It\'s okay, nightmares won\'t be able to hurt my relationship with big sister. She… Big sister is my only sister."
+
+
+//"梦沙罗：那真是太好了，真羡慕呢。"
+
+"Musaraku: That\'s good, I really envy you."
+
+
+//"芙兰朵露：不过，噩梦也没什么不好的，这样我就可以在睡觉的时候去姐姐大人的…………"
+
+"Flandre: But nightmares are not that bad, because when I get nightmares I can go to big sister\'s…"
+
+
+//"梦沙罗：？"
+
+"Musaraku: ?"
+
+
+//"芙兰朵露：啊，没什么没什么……我该回姐姐大人那里去了。"
+
+"Flandre: Ah, nothing, nothing… I should get back to big sister."
+
+
+//"芙兰朵露：（呼……太好了，梦沙罗酱没有听清，周围也没人听到……）"
+
+"Flandre: (Whew… great, Musaraku-chan didn\'t catch that, and nobody else heard it either…)"
+
+

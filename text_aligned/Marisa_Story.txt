@@ -1,0 +1,762 @@
+0
+====================
+MARISA STAGE 1
+====================
+Before Stage
+---------------
+
+
+//Marisa's Father?: "我的女儿，快回来吧，离开那些妖怪，离开那种乱七八糟的生活，我会为你安排好你的一切……"
+
+Marisa's Father?: "My daughter, come back, leave those youkai, leave that disorderly life, I will arrange everything for you…"
+
+//Marisa: "不要！我要自由的生活下去！我不想要别人来介入我的生活！我要自己决定！！"
+
+Marisa: "No! I want to live freely! I don't want anyone else getting involved in my life! I want to decide for myself!!"
+
+//Marisa's Father?: "魔理沙……有些事不是你能够决定的，你也不需要决定，你只需要接受就好了"
+
+Marisa's Father?: "Marisa… There's things you can't decide, things you don't need to decide, and should just accept, okay?"
+
+//Marisa: "我不接受！！！"
+
+Marisa: "I won't accept them!!!"
+
+//Marisa's Father?: "我说了，这不是能够选择的，你只需要跟我回去就好了"
+
+Marisa's Father?: "I said, this is not your choice to make, you just need to come back with me, okay?"
+
+//Marisa: "谁要跟你回去！讨厌的老头子！"
+
+Marisa: "Who wants to go back with you? Annoying old man!"
+
+END
+
+1
+---------------
+Before Boss - Junko Kirisame/Marisa's Mother
+---------------
+
+//Marisa: "妈……妈妈？！"
+
+Marisa: "Ma…Mama?!"
+
+//Marisa's Mother?: "是的，魔理沙，好久不见了。"
+
+Marisa's Mother?: "Yes, Marisa, it's been a while."
+
+//Marisa: "好久不见……"
+
+Marisa: "Yes, it has been…"
+
+//Marisa's Mother?: "所以……乖乖的跟你的爸爸回去吧！"
+
+Marisa's Mother?: "So… be a good girl and go back with your father!"
+
+END
+
+2
+---------------
+Mid-fight
+---------------
+
+//Marisa: "为什么！！为什么啊！！！妈妈！这是为什么！！靠自己自由的生活下去，你不是这样说的吗！"
+
+Marisa: "Why!? Why!? Mother! What is this!? To live freely and independently, is that not what you said to do!?"
+
+//Marisa's Mother?: "因为我觉得我自己想错了！"
+
+Marisa's Mother?: "Because I feel that I was wrong to think that!"
+
+//Marisa: "可恶！这到底是怎么回事！！？"
+
+Marisa: "Dammit! What the hell is going on!?"
+
+//Marisa's Mother?: "挣扎是没有用的，魔理沙，这是你的宿命"
+
+Marisa's Mother: "Struggling is useless, Marisa, this is your fate."
+
+//Marisa: "我不承认！！！不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认不承认……"
+
+Marisa: "I won't accept that!!! I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't I won't…"
+
+END
+
+3
+---------------
+After Boss
+---------------
+
+//Marisa: "妈妈……你……为什么……"
+
+Marisa: "Mother…why are…you…"
+
+//Marisa's Mother?: "……"
+
+Marisa's Mother?: "……"
+
+//Marisa: "妈妈？"
+
+Marisa: "Mother?"
+
+//Marisa's Mother?: "我很开心哟，我的魔理沙终于成为优秀的魔法使了……"
+
+Marisa's Mother?: "I'm very happy, my Marisa has finally become an excellent magician…"
+
+//Marisa: "这到底是怎么回事？"
+
+Marisa: "What is going on?"
+
+//Marisa's Mother?: "没关系的……"
+
+Marisa's Mother?: "It's alright…"
+
+//Marisa: "可是那家伙……"
+
+Marisa: "But that guy…"
+
+//Marisa's Mother?: "爸爸不在这里哟"
+
+Marisa's Mother?: "Your father isn't here"
+
+//Marisa: "怎么会！？我是一路被追到这里来的！！"
+
+Marisa: "How!? I was chased all the way here by him!"
+
+//Marisa's Mother?: "不相信吗？你看看后面"
+
+Marisa's Mother?: "Do you not believe it? Look behind you."
+
+//Marisa: "......"
+
+Marisa: "......"
+
+//Marisa: "真的不见了……"
+
+Marisa: "He really isn't there…"
+
+//Marisa: "妈妈！妈妈？！"
+
+Marisa: "Mother! Mother?!"
+
+END
+
+4
+---------------
+Wake up
+---------------
+
+//Marisa: "妈妈……"
+
+Marisa: "Mother…"
+
+//Marisa: "是个梦吗？嗯……要不要出去透透气呢？"
+
+Marisa: "Was that a dream? Ugh…should I go outside and get some air?"
+
+//Marisa: ""
+
+Marisa: ""
+
+=== CHOICE SELECT ===
+'1. Yes'
+
+'2. No'
+
+=== FIRST OPTION ===
+
+=== SECOND OPTION ===
+//Marisa: "还是出去看看吧，说不定发生了什么有趣的事呢"
+
+Marisa: "I should still take a look outside, there might be something interesting going on."
+
+END
+
+5
+====================
+MARISA STAGE 2
+====================
+Before Midboss #1 - Alice Margatroid
+---------------
+
+//Alice: "母亲……我一直……在等你"
+
+Alice: "Mother… I've always been… waiting for you"
+
+//Marisa: "你吃错药啦？"
+
+Marisa: "Did you take some bad medicine?"
+
+//Alice: "您根本就不了解我的想法……还有，我今天没吃药。"
+
+Alice: "You don't understand how I think at all... also, I have not taken any medicine today."
+
+//Marisa: "没吃就回去吃点吧……"
+
+Marisa: "Well maybe you should go get some medicine…"
+
+//Marisa: "等等……我为什么要了解你的想法……？"
+
+Marisa: "Wait… Why would I want to understand how you think?"
+
+//Alice: "够啦！！"
+
+Alice: "ENOUGH!"
+
+//Marisa: "呃……"
+
+Marisa: "Uh…"
+
+//Alice: "所以我决定离开，从您身边离开。"
+
+Alice: "So I decided to leave, to leave from your side."
+
+//Marisa: "走吧走吧，路上小心~"
+
+Marisa: "Yes, leave, leave, be careful on your way down the road~"
+
+//Marisa: "一惊一乍的，吓我一跳，小心以后嫁不出去DAZE☆。"
+
+Marisa: "You're scaring me, be careful of not being able to get married in the future da-ze☆."
+
+//Alice: "……"
+
+Alice: "……"
+
+//Marisa: "等等……你不会是要……"
+
+Marisa: "Wait… you wouldn't want to…"
+
+//Alice: "多说无益，我知道您是不会放我走的，那就只有靠我自己的力量了！！"
+
+Alice: "All this talk is getting nowhere! I know you won't let me leave, so I'll have to rely on my own power!!"
+
+END
+
+6
+---------------
+Mid-fight 1
+---------------
+
+//Marisa: "你吃错药啦！！！？谁又踩你尾巴拉！！？"
+
+Marisa: "You did get drugged!!!? Who stepped on your tail!!?"
+
+//Alice: "母亲，我和您一样……没有尾巴~"
+
+Alice: "Mother, we are one and the same… we have no tail~"
+
+//Marisa: "我劝你别没事找事！我现在心情很不好的DAZE☆！"
+
+Marisa: "You better not to go looking for trouble! I'm in a very bad mood da-ze☆!"
+
+//Alice: "母亲，那是不可能的。"
+
+Alice: "Mother, that's impossible."
+
+//Marisa: "谁能告诉我，她到底在说什么。"
+
+Marisa: "Someone tell me, what is she saying?"
+
+//Alice: "但是！！！"
+
+Alice: "HOWEVER!!!"
+
+//Marisa: "你你你你你你你……"
+
+Marisa: "You-you-you-you-you-you-you…"
+
+//Alice: "我不会把您弄伤的"
+
+Alice: "I will not hurt you."
+
+//Marisa: "你说的真好，我竟无言以对…………"
+
+Marisa: "Excellent words, I don't know how to respond…"
+
+END
+
+7
+---------------
+Mid-fight 2
+---------------
+
+//Alice: "真不愧是我的母亲，如此的力量……"
+
+Alice: "You're my mother alright, such power…"
+
+//Marisa: "我是你大爷……"
+
+Marisa: "I'm your granddad…"
+
+//Alice: "别逗了母亲，我大爷是男的。"
+
+Alice: "Don't be silly, mother, my grandfather is male."
+
+//Alice: "讨厌讨厌讨厌~人家还有魔理沙酱哟~你是我妈妈……不可以不可以的~"
+
+Alice: "I hate it I hate it I hate it~ The other person was Marisa-chan~ You're my mother… That can't be, that can't be!"
+
+//Marisa: "能说说正事吗，比如要打败我什么的。"
+
+Marisa: "Shall we talk business, like why you attacked me?"
+
+//Alice: "哦……好吧……"
+
+Alice: "Oh… Okay…"
+
+END
+
+8
+---------------
+After Midboss 1
+---------------
+
+//Alice: "你是不是又来偷东西了？"
+
+Alice: "Did you come here to steal something again?"
+
+//Marisa: "你终于恢复正常了DAZE☆。"
+
+Marisa: "You've finally gone back to normal DAZE☆."
+
+//Alice: "........"
+
+Alice: "........"
+
+//Alice: "算了，有什么事进屋说吧。"
+
+Alice: "Alright, whatever business you have come inside and tell me."
+
+//Marisa: "好的呀好的呀~"
+
+Marisa: "Alright alright~"
+
+//Marisa: "【一段乱七八糟的解释过后】"
+
+Marisa: "<one chaotic explanation later>"
+
+//Marisa: "也就是说……你也做了噩梦，还梦游了。"
+
+Marisa: "In other words, you were also having nightmares, and you were sleepwalking."
+
+//Alice: "嗯，没错。"
+
+Alice: "Yes, that's right."
+
+//Marisa: "难道是……"
+
+Marisa: "Don't tell me…"
+
+//Alice: "如果是异变的话，为什么不是博丽的巫女呢？"
+
+Alice: "If this is an incident, why aren't you the Hakurei Shrine Maiden?"
+
+//Marisa: "……"
+
+Marisa: "……"
+
+//Alice: "……"
+
+Alice: "……"
+
+//Marisa: "不是博丽的巫女还真是对不起你老人家了DAZE☆！！"
+
+Marisa: "Well I'm sorry for not being the Hakurei Shrine Maiden DAZE☆!!"
+
+//Marisa: "&*%￥%%@#~！！！"
+
+Marisa: "&*%￥%%@#~！！！"
+
+//Alice: "每次都是这样……看来要准备聚会了，嗯。"
+
+Alice: "Every time it's the same…looks like we'll have to prepare for a gathering, hm."
+
+END
+
+9
+---------------
+Cutscene - Choice Select
+---------------
+
+//Marisa: "接下来做什么呢？"
+
+Marisa: "What should I do next?"
+
+//Marisa: ""
+
+Marisa: ""
+
+=== CHOICE SELECT ===
+'1. Go to the Hakurei Shrine and visit Reimu'
+
+'2. Reimu can go die~DAZE☆!!'
+
+=== FIRST OPTION ===
+//Marisa: "去博丽神社找灵梦商量"
+
+Marisa: "Go to the Hakurei Shrine and visit Reimu"
+
+=== SECOND OPTION ===
+//Marisa: "让灵梦去死吧~DAZE☆！！"
+
+Marisa: "Reimu can go die~DAZE☆!!"
+
+END
+
+10
+---------------
+Choice Select #2
+---------------
+
+//Marisa: "看来真的是异变，我都能感觉到周围飘散出诱人的气息了DAZE☆！"
+
+Marisa: "Seems this really is an incident, I can feel a captivating atmosphere all around me daze☆!"
+
+//Marisa: ""
+
+Marisa: ""
+
+=== CHOICE SELECT ===
+'1. Reimu can go die~DAZE☆!!'
+
+'2. Reimu can go die~DAZE☆!!'
+
+=== FIRST OPTION ===
+//Marisa: "让灵梦去死吧~DAZE☆！！"
+
+Marisa: "Reimu can go die~DAZE☆!!"
+
+=== SECOND OPTION ===
+//Marisa: "让灵梦去死吧~DAZE☆！！"
+
+Marisa: "Reimu can go die~DAZE☆!!"
+
+END
+
+11
+---------------
+Before Midboss #2 - Satori Komeiji
+---------------
+
+//Satori: "怎么回事，为什么？为什么要这样！明明是那么重要的东西！"
+
+Satori: "What is going on, why? Why are you like this? That was such an important thing!"
+
+//Marisa: "觉？你怎么在这儿？出什么事了？"
+
+Marisa: "Satori? Why are you here? Is there a problem?"
+
+//Satori: "……"
+
+Satori: "……"
+
+//Marisa: "喂喂喂，你倒是说句话啊，我是来帮忙的DAZE☆。"
+
+Marisa: "Hey, hey, hey! Spek up, I'm trying to help you da-ze☆."
+
+//Satori: "继续狡辩吧，挑唆者，我的眼睛，洞察一切"
+
+Satori: "Continue quarreling with me, challenger, my eye can see everything clearly."
+
+//Marisa: "挑唆者什么的，完全没有啊，你今天到底怎么了？"
+
+Marisa: "What challenger? I'm not a challenger, what's wrong with you today?"
+
+//Marisa: "（看来这家伙搞不好也在做梦。）"
+
+Marisa: "(Looks like she might be dreaming, too)"
+
+//Satori: "狡辩是没用的，挑唆者，一定是你挑唆恋闭上了她的觉之眼！事到如今还想安全的回到地上吗？"
+
+Satori: "Rebuttal is useless, challenger, I know it was you who made Koishi close her third eye! And you still want to return safely above ground?"
+
+//Marisa: "既然这样就算是无法交涉了吧~"
+
+Marisa: "Looks like I can't get anywhere like this~"
+
+//Satori: "雕虫小技！"
+
+Satori: "Have a sample of my powers!"
+
+END
+
+12
+---------------
+After Midboss
+---------------
+
+//Marisa: "嘿嘿嘿……"
+
+Marisa: "Pant, pant, pant…"
+
+//Marisa: "【好像下手太重了……】"
+
+Marisa: "(Looks like I hit too heavily…)"
+
+//Marisa: "【这个家伙就这么晕倒了……】"
+
+Marisa: "(She just fainted like that)"
+
+END
+
+13
+---------------
+Before Boss - Koishi Komeiji
+---------------
+
+//Marisa: "什么时候出现的？为什么一点感觉都没有~"
+
+Marisa: "Since when have I felt this… why do I not feel anything~?"
+
+//Koishi: "魔理沙？"
+
+Koishi: "Marisa?"
+
+//Marisa: "就是我！"
+
+Marisa: "That's my name!"
+
+//Koishi: "我们来战斗吧！"
+
+Koishi: "Let's battle!"
+
+//Marisa: "这都是哪儿跟哪儿的？"
+
+Marisa: "Where is this? With who?"
+
+END
+
+14
+---------------
+After Boss
+---------------
+
+//Koishi: "好累……"
+
+Koishi: "I'm tiiired…"
+
+//Marisa: "完全不知道这个家伙在想什么……呵呵……"
+
+Marisa: "I have absolutely no idea what this kid wants… hehe…"
+
+//Koishi: "八云紫！！"
+
+Koishi: "Yukari Yakumo!!"
+
+//Marisa: "八云紫？"
+
+Marisa: "Yukari Yakumo?"
+
+//Koishi: "不知道哦，恋恋啊，只是突然想到她了哦，对啦！恋恋闭上眼睛了，不可能做噩梦哦~"
+
+Koishi: "I don't know. Koishi suddenly thought of her. Right! Koishi shut her eye, so she can't have nightmares anymore~"
+
+//Marisa: "【不知道什么时候起 古明地恋就这么消失 是突然消失了呢？还是说完全没有注意到她的离去呢？】"
+
+Marisa: "(I didn't realize that Koishi Komeji just disappeared like that. Did she suddenly disappear? Or did I not notice that she left?)"
+
+//Marisa: "【嘛~谁知道呢？】"
+
+Marisa: "(Ack~ who knows?)"
+
+//Marisa: "【四周都变得空荡荡的 只剩下魔理沙一个】"
+
+Marisa: "(The surroundings have become empty and still, only Marisa remains)"
+
+//Marisa: "接下来去哪呢？"
+
+Marisa: "Where do I go next?"
+
+//Marisa: "算了，不想了，既然这个家伙提到了八云紫，接下来就去找她吧DAZE☆~！"
+
+Marisa: "Whatever, let's not think anymore. Since that kid mentioned Yukari Yakumo, I'll just go find her next DAZE☆~!"
+
+END
+
+15
+====================
+MARISA STAGE 3
+====================
+Before Midboss #1 - Chen
+---------------
+
+//Chen: "是魔理沙啊！"
+
+Chen: "It's Marisa!"
+
+//Marisa: "（这家伙胆子什么时候这么大了？）"
+
+Marisa: "(Since when was this kid so courageous?)"
+
+//Chen: "你知道吗？今天我可不是昨天猫咪哟！"
+
+Chen: "Didn't you know? I'm not the same cat I was yesterday!"
+
+//Marisa: "今天的你……昨天的猫……"
+
+Marisa: "The you of today… the cat of yesterday…"
+
+//Chen: "来吧，我来让你好好体会一下这份变化吧！！"
+
+Chen: "C'mon, I'll make sure you experience this change, too!"
+
+//Marisa: "来吧！！"
+
+Marisa: "Let's go!!"
+
+END
+
+16
+---------------
+Chen's Defeated
+Before Midboss #2 - Ran Yakumo
+---------------
+
+//Chen: "蓝大人救命，有强盗闯进来啦！！"
+
+Chen: "Master Ran, help! Robber!!"
+
+//Marisa: "走掉了……是不是我下手太重？"
+
+Marisa: "She ran away… did I hit too hard?"
+
+//Ran: "等等！！"
+
+Ran: "Wait!!"
+
+//Marisa: "？？"
+
+Marisa: "??"
+
+//Ran: "我以为是谁呢~原来是只是个小偷啊，至少……"
+
+Ran: "I thought it was someone else~ It was just a little thief, at least…"
+
+//Ran: "至少来的该是个红白配色嘛~"
+
+Ran: "At least it could have been someone in red-and-white~"
+
+//Marisa: "……"
+
+Marisa: "……"
+
+//Ran: "怎么了？"
+
+Ran: "What?"
+
+//Marisa: "老娘要把这里夷为平地！！！！！！！"
+
+Marisa: "I'm going to raze this place!!!!!!!"
+
+END
+
+17
+---------------
+Ran's Defeated
+Before Boss - Yukari Yakumo
+---------------
+
+//Ran: "紫大人……"
+
+Ran: "Master Yukari…"
+
+//Yukari: "客人来了，怎么能不迎接呢？"
+
+Yukari: "A guest has arrived, how come you have not greeted her?"
+
+//Ran: "是的，我知道了。"
+
+Ran: "Yes, I know."
+
+//Yukari: "不错，退下吧……"
+
+Yukari: "Good, now withdraw…"
+
+//Yukari: "那边那个愤怒的。"
+
+Yukari: "Hey, that angry one over there."
+
+//Yukari: "灵梦哪去了？"
+
+Yukari: "Where did Reimu go?"
+
+//Marisa: "啊啊啊啊啊啊啊！！！！"
+
+Marisa: "aaaAAAAAAAAAA!!!!"
+
+//Yukari: "反应……反应好大……"
+
+Yukari: "Wow… You're riled up…"
+
+//Marisa: "不许！给老娘！提！灵梦！！！"
+
+Marisa: "NO! MENTIONING! REIMU!!!"
+
+END
+
+18
+---------------
+Mid-fight 1
+---------------
+
+//Musaraku: "紫……大人，不好了，这个人……这个人的愤怒正在吸取我的力量，不断的变强。"
+
+Musaraku: "Master… Yukari, this isn't good, this person… this person's anger is leeching away at my power, she's getting stronger and stronger by the minute!"
+
+//Yukari: "怎么可能！"
+
+Yukari: "Impossible!"
+
+//Musaraku: "她不久前曾经接受过我的噩梦，我们梦境之间的联系还有残存。"
+
+Musaraku: "She experienced one of my nightmares before, there's still a link between our dream states!"
+
+//Marisa: "炸平博丽神社！！解决异变得荣耀归于我大魔法使！！"
+
+Marisa: "Fuck the Hakurei Shrine!! The glory of resolving of incidents belongs to me, the great magician!!"
+
+//Yukari: "事到如今你才是异变吧？"
+
+Yukari: "By now aren't you the incident?"
+
+//Marisa: "多说无用！承受我大魔法使的怒火吧！！"
+
+Marisa: "Don't waste your words! Face the great magician's almighty, magical fury!"
+
+//Yukari: "梦沙罗！开始吧！！"
+
+Yukari: "Musaraku! Begin!!"
+
+//Musaraku: "知道了，紫大人！"
+
+Musaraku: "Understood, Master Yukari!"
+
+END
+
+19
+---------------
+After Boss
+---------------
+
+//Marisa: "这……这力量！"
+
+Marisa: "This… This power!"
+
+//Musaraku: "紫大人……咳咳……不行了……所有的力量都集中到这个疯子身上了"
+
+Musaraku: "Master Yukari… (pant pant)… I can't… All the power is concentrated on that crazy one's body!"
+
+//Musaraku: "我......我也不明白啊？她真的是人类吗？"
+
+Musaraku: "I… I don't understand? Is she really human?"
+
+//Marisa: "我可是！普通而自由的魔！法！使！啊！接招吧噩梦混蛋！！！干掉了你们，我就去找灵梦一决胜负！！"
+
+Marisa: "I am! I'm an ordinary, free, MA-GI-CIAN! Take my attacks nightmare bitch!!! Once I kill you, I'm going to find Reimu and we'll determine the winner once and for all!
+
+//Yukari: "这究竟是怎么回事？"
+
+Yukari: "What the hell just happened?"
+
+END
