@@ -99,12 +99,12 @@ REIMU ENDING (Option B)
 
 //"博丽灵梦：你……什么时候出现的？不，为什么会出现在这里。"
 
-"Reimu: You! when did you get here? No, why are you here?"
+"Reimu: You! When did you get here? No, why are you here?"
 
 
 //"哆来咪：因为有感兴趣的话题啊。"
 
-"Doremy: Because the topic just got interesting"
+"Doremy: Because the topic just got interesting."
 
 
 //"射命丸文：哎呀！还是有热心肠的人嘛。"

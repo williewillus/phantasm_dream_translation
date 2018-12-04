@@ -50,7 +50,7 @@ Remilia: "Flan!! Where are you? Don't move a muscle, I…I'll come get you!"
 
 //Flandre...?: "姐姐大人……都是因为姐姐大人……我老是被关在家里。"
 
-Flandre...?: "Big sister…It's all because of big sister…that I'm always locked up at home."
+Flandre...?: "Big sister… It's all because of big sister… that I'm always locked up at home."
 
 //Remilia: "芙兰……你……"
 
@@ -148,7 +148,7 @@ Flandre: "I dreamt that I became really scary… I don't know why but I wanted t
 
 //Remilia: "【难道这孩子……？】"
 
-Remilia: "（Did she…?):
+Remilia: "(Did she…?)"
 
 //Remilia: "【轰隆！！！】"
 
@@ -156,7 +156,7 @@ Remilia: "<BANG!!!>"
 
 //Remilia: "【门外传来了巨大的响动】"
 
-Remilia: "<A loud noise was heard from outside the door>"
+Remilia: "<A loud noise could be heard from outside the door>"
 
 //Flandre: "我们……要出去看看吗？"
 
@@ -267,7 +267,7 @@ After Midboss
 
 //Patchouli: "疼疼疼，我怎么……啊……咳咳咳…呼吸！……氧气……"
 
-Patchouli: "Ow ow ow, how did I… ah… cough cough cough… breathe! …oxygen…"
+Patchouli: "Ow ow ow, how did I… ah… cough cough cough… breathe!… Oxygen…"
 
 //Remilia: "不是都说了老年人太激动了对身体不好嘛？你也太激动了，不过总算恢复"
 
@@ -322,7 +322,7 @@ Remilia: "…After dealing with the seven elements we fight the seven colors?"
 
 //Flandre: "我也是有彩色属性的啊【翅膀】"
 
-Flandre: "I have colorful attributes, too (wings)"
+Flandre: "I have colorful attributes, too. (wings)"
 
 //Remilia: "我说的是彩虹的七彩啦"
 
@@ -341,7 +341,7 @@ Meiling: "I'm sorry! I thought mistress and young mistress were infected with th
 
 //Remilia: "你居然没事，因为没睡着？果然白天打盹儿是因为夜猫子属性嘛，看样子可以给你安排全日制……不…加上全年无休呢！"
 
-Remilia: "You're alright, because you didn't fall asleep? So you indeed are dozing off during the day to be a night owl. Looks like I can give you a full-time…no…also a whole year without rest!
+Remilia: "You're alright, because you didn't fall asleep? So you indeed are dozing off during the day to be a night owl. Looks like I can give you a full-time… no… a whole year without rest too!
 
 //Meiling: "大小姐……不是这样的，您和妹妹大人来之前就有一些精神恍惚的妖怪和馆内的女仆像梦游一样四处游荡，所以我才睡不着的啊。"
 
@@ -353,7 +353,7 @@ Remilia: "…Okay, Patchy is resting in the library, Flan and I shall investigat
 
 //Meiling: "大小姐和妹妹大人……真的关系变好了啊。"
 
-Meiling: "Mistress and young mistress…their relationship has really improved."
+Meiling: "Mistress and young mistress… Their relationship has really improved."
 
 END
 
@@ -403,7 +403,7 @@ Remilia: "If it becomes noisy, then Patchy won't be happy, and Sakuya will have 
 
 //Flandre: "接下来我们去哪里呢姐姐大人，要不去看看博丽的巫女那里？"
 
-Flandre: "Where will be go next, big sister? Want look aruond at the Hakurei shrine maiden's place?"
+Flandre: "Where will we go next, big sister? Want look around at the Hakurei Shrine Maiden's place?"
 
 //Remilia: "不用了，居然能让这种笨蛋也变得异常，命运已经告诉我该去哪里了。"
 
@@ -456,7 +456,7 @@ Ran: "Stop!"
 
 //Chen: "蓝大人TAT"
 
-Chen: "Master Ran TAT"
+Chen: "Master Ran! TAT"
 
 //Ran: "橙，你做的很好"
 
@@ -547,7 +547,7 @@ Yukari: "It looks like you're still keeping up, I will make an exception and let
 
 //Musaraku: "紫……紫小姐，为什么突然让我出现啊QAQ，那对姐妹好像会吸血唉。"
 
-Musaraku: "Miss… Miss Yukari, why did you suddenly make me appear QAQ, these sisters look like they can suck my blood."
+Musaraku: "Miss… Miss Yukari, why did you suddenly make me appear QAQ. These sisters look like they can suck my blood."
 
 //Remilia: "噩梦的源头终于出现了，看起来真没用，我都怀疑的你的眼光了，紫。"
 
@@ -559,7 +559,7 @@ Flandre: "Big sister, her long, purple hair is pretty, I want it!"
 
 //Musaraku: "呀！！！"
 
-Musaraku: "YAAAAH!!!"
+Musaraku: "YAAH!!!"
 
 END
 
@@ -578,7 +578,7 @@ Musaraku: "But you were the one who threw me in here without explanation to thre
 
 //Yukari: "我可什么都不知道哦，锅交给你了~欢迎来到幻想乡。"
 
-Yukari: "I don't know anything, the blame is yorus now~ welcome to Gensokyo."
+Yukari: "I don't know anything, the blame is yours now~ Welcome to Gensokyo."
 
 //Remilia: "哎呀……逃走了，嘛姑且算是事情解决了"
 
@@ -598,11 +598,11 @@ Remilia: "Do you know how you should make up for how angry you've made me? If I 
 
 //Flandre: "不嘛姐姐大人，让她做芙兰我的玩具吧！！！！梦沙罗酱不会让我失望吧？你肯定是一个怎么都玩不坏的好、玩、具~对吧~"
 
-Flandre: "Nooo, big sister, let her be one of Flan's toys!!!! Musaraku-chan won't disappoint me, will she! You'll definitely be a fun, unbreakable tooooooy~ right?"
+Flandre: "Nooo, big sister, let her be one of Flan's toys!!!! Musaraku-chan won't disappoint me, will she! You'll definitely be a fun, unbreakable toooooy~ right~?"
 
 //Remilia: "真拿你没办法啊，要好好跟咲夜说哦。"
 
-Remilia: "What will I do with you, we'll need to talk to Sakuya about this."
+Remilia: "What will I do with you, we'll need to talk toSakuya about this."
 
 //Flandre: "是！姐姐大人！"
 
