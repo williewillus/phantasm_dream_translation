@@ -180,16 +180,16 @@ Before Stage
 ---------------
 
 //Marisa: "近来时做奇怪的梦……居然还会出现那个家伙……"
-
+Marisa: "Recently I've been having strange dreams...even he is appearing in them..."
 
 //Marisa: "让他见鬼去好了……"
-
+Marisa: "Oh well, he can go to hell..."
 
 //Marisa: "估计西瓜和独角她们也不会喜欢这个假货吧~"
-
+Marisa: "I bet watermelon and the one-horned one also wouldn't like this fake~"
 
 //Marisa: "算了！去散步吧！"
-
+Marisa: "Whatever! Let's go for a walk!"
 
 END
 
